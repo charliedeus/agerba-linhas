@@ -82,12 +82,12 @@ export const NewSearchBusRouteForm = forwardRef<
       <form
         ref={formRef}
         onSubmit={handleSubmit(handleSearchCities)}
-        className="flex flex-col items-center flex-1 gap-2 desktop:flex-row desktop:gap-4"
+        className="flex flex-1 flex-col items-center gap-2 desktop:flex-row desktop:gap-4"
         autoComplete="off"
         // action={action}
       >
-        <div className="flex flex-col items-center w-full gap-2 laptop:flex-row">
-          <label className="z-40 flex-1 w-full">
+        <div className="flex w-full flex-col items-center gap-2 laptop:flex-row">
+          <label className="z-40 w-full flex-1">
             <SearchForm
               cities={cities}
               placeholder="Origem"
@@ -95,7 +95,7 @@ export const NewSearchBusRouteForm = forwardRef<
               {...register('originCityId')}
             />
           </label>
-          <label className="z-30 flex-1 w-full">
+          <label className="z-30 w-full flex-1">
             <SearchForm
               cities={cities}
               placeholder="Destino"
@@ -105,10 +105,10 @@ export const NewSearchBusRouteForm = forwardRef<
           </label>
         </div>
 
-        <div className="flex items-center w-full h-full gap-2 desktop:max-w-sm">
+        <div className="flex h-full w-full items-center gap-2 desktop:max-w-sm">
           <button
             type="submit"
-            className="flex items-center justify-center flex-1 h-full gap-2 p-2 text-white bg-green-600 rounded-md"
+            className="flex h-full flex-1 items-center justify-center gap-2 rounded-md bg-green-600 p-2 text-white"
           >
             <Search size={16} />
             <span>Buscar</span>
@@ -116,7 +116,7 @@ export const NewSearchBusRouteForm = forwardRef<
           <button
             type="reset"
             onClick={handleClearForm}
-            className="flex items-center justify-center h-full gap-2 px-4 py-2 text-white bg-red-600 rounded-md"
+            className="flex h-full items-center justify-center gap-2 rounded-md bg-red-600 px-4 py-2 text-white"
           >
             <X size={16} />
           </button>

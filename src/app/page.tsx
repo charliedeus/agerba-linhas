@@ -6,13 +6,6 @@ import logoWhite from '../assets/logo-white.png'
 import { NewSearchBusRouteForm } from '@/components/NewSearchBusRouteForm'
 import MainLists from '@/components/MainLists'
 
-interface CityProps {
-  id: string
-  ibge_code: number
-  name: string
-  cover_url: string | null
-}
-
 export default async function Home() {
   const { orderedResultMostAttendedCities, allCities } = await fetch(
     `${process.env.API_BASE_URL}/info`,
