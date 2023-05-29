@@ -47,16 +47,19 @@ export const NewSearchBusRouteForm = forwardRef<
   const formRef = useRef<HTMLFormElement>(null)
 
   async function handleSearchCities(data: NewSearchFormValidationData) {
-    const response = await fetch('/api/linhas/search', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
+    const response = await fetch(
+      `${process.env.NEXT_PUBLIC_API_BASE_URL}/linhas/search`,
+      {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          originCityId: data.originCityId,
+          destinyCityId: data.destinyCityId,
+        }),
       },
-      body: JSON.stringify({
-        originCityId: data.originCityId,
-        destinyCityId: data.destinyCityId,
-      }),
-    })
+    )
 
     const { busRoutes } = await response.json()
     // action(busRoutes)

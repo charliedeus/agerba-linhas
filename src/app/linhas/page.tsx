@@ -8,7 +8,7 @@ import MainLists from '@/components/MainLists'
 
 export default async function Home() {
   const { orderedResultMostAttendedCities, allCities } = await fetch(
-    `${process.env.API_BASE_URL}/info`,
+    `${process.env.NEXT_PUBLIC_API_BASE_URL}/info`,
     {
       next: {
         revalidate: 60 * 60, // 1 hour
