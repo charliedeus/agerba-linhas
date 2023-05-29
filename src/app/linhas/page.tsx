@@ -10,7 +10,7 @@ export default async function Home() {
   const { orderedResultMostAttendedCities, allCities } = await fetch(
     `${process.env.NEXT_PUBLIC_API_BASE_URL}/info`,
     {
-      cache: 'no-store',
+      cache: 'force-cache',
       next: {
         revalidate: 60 * 60, // 1 hour
       },
