@@ -12,9 +12,11 @@ interface CityProps {
 interface BusRouteProps {
   bus_route_number: string
   name: string
-  operator?: string
-  operator_id?: string
-  count_permit_holders?: number
+  operator: string | null
+  operator_id: string | null
+  count_permit_holders: number | null
+  previous_id: number
+  previous_parent_key: number | null
 
   starts_in_id: string
   ends_in_id: string
@@ -18498,7 +18500,8 @@ export async function GET(request: NextRequest) {
       )
 
       if (!originCity) {
-        return
+        // eslint-disable-next-line
+        return null
       }
 
       const destinyCity: CityProps | undefined = cities.find((city) =>
@@ -18508,22 +18511,23 @@ export async function GET(request: NextRequest) {
       )
 
       if (!destinyCity) {
-        return
+        // eslint-disable-next-line
+        return null
       }
 
       return {
         bus_route_number: item.nulinha,
         name: item.dedescricao.toLowerCase(),
-        operator: item.derazaosocial?.toLowerCase() ?? null,
-        operator_id: item.decnpjmatriz ?? null,
-        count_permit_holders: item.nupermissionarios ?? null,
+        operator: item.derazaosocial?.toLowerCase() || null,
+        operator_id: item.decnpjmatriz || null,
+        count_permit_holders: item.nupermissionarios || null,
         previous_id: item.cdlinha,
-        previous_parent_key: item.cdlinhapai ?? null,
+        previous_parent_key: item.cdlinhapai || null,
         starts_in_id: originCity.id,
         ends_in_id: destinyCity.id,
       }
     })
-    .filter((item): item is BusRouteProps => item !== undefined)
+    .filter((item): item is BusRouteProps => item !== null)
 
   await prisma.busRoute.createMany({
     data: busRoutesFormatted,
