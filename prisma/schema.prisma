@@ -1,0 +1,64 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model BusRoute {
+  id                   String  @id @default(uuid())
+  previous_id          Int     @unique
+  previous_parent_key  Int?
+  bus_route_number     String  @unique
+  name                 String
+  operator             String?
+  operator_id          String?
+  count_permit_holders Int?
+  is_active            Boolean @default(true)
+
+  created_at DateTime @default(now())
+
+  PopularBusRoute PopularBusRoute[]
+  starts_in       City              @relation("StartsInCity", fields: [starts_in_id], references: [id])
+  starts_in_id    String
+  ends_in         City              @relation("EndsInCity", fields: [ends_in_id], references: [id])
+  ends_in_id      String
+  City            City?             @relation(fields: [cityId], references: [id])
+  cityId          String?
+
+  @@map("bus_routes")
+}
+
+model PopularBusRoute {
+  id              String @id @default(uuid())
+  number_of_views Int    @default(0)
+
+  bus_route    BusRoute @relation(fields: [bus_route_id], references: [id])
+  bus_route_id String
+
+  @@map("popular_bus_routes")
+}
+
+model City {
+  id                  String  @id @default(uuid())
+  ibge_code           Int     @unique
+  name                String
+  cover_url           String?
+  count_origin_views  Int     @default(0)
+  count_destiny_views Int     @default(0)
+
+  starts_in BusRoute[] @relation("StartsInCity")
+  ends_in   BusRoute[] @relation("EndsInCity")
+  BusRoute  BusRoute[]
+
+  @@map("cities")
+}
+
+model Place {
+  id   String @id @default(uuid())
+  name String
+
+  @@map("places")
+}
