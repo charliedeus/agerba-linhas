@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
-import bgImg from '../assets/background-image.jpg'
-import logoWhite from '../assets/logo-white.png'
+import bgImg from '../../assets/background-image.jpg'
+import logoWhite from '../../assets/logo-white.png'
 
 import { NewSearchBusRouteForm } from '@/components/NewSearchBusRouteForm'
 import MainLists from '@/components/MainLists'
