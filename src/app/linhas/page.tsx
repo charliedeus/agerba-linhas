@@ -6,7 +6,7 @@ import logoWhite from '../../assets/logo-white.png'
 import { NewSearchBusRouteForm } from '@/components/NewSearchBusRouteForm'
 import MainLists from '@/components/MainLists'
 
-export default async function Home() {
+export default async function BusRoutes() {
   const { orderedResultMostAttendedCities, allCities } = await fetch(
     `${process.env.NEXT_PUBLIC_API_BASE_URL}/info`,
     {
