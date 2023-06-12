@@ -19,6 +19,24 @@ interface BusRouteProps {
   ends_in_id: string
   starts_in: CityProps
   ends_in: CityProps
+  itinerary: {
+    place_itinerary: [
+      {
+        section_number: number
+        is_access: boolean
+        place: {
+          name: string
+        }
+      },
+    ]
+  }[]
+  timetable: {
+    id: string
+    direction: string
+    weekday: string
+    starts_at: string
+    bus_route_id: string
+  }[]
 }
 
 interface StoreProps {

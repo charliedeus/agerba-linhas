@@ -1,0 +1,8323 @@
+{
+"select *\nfrom stip_agerba.estiplinhalocalidade loc": [
+	{
+		"cdlinhalocalidade" : 1,
+		"denome" : "ABAÍRA"
+	},
+	{
+		"cdlinhalocalidade" : 2,
+		"denome" : "ABARÉ"
+	},
+	{
+		"cdlinhalocalidade" : 3,
+		"denome" : "ABÓBORA (FAZ CAETANOS)"
+	},
+	{
+		"cdlinhalocalidade" : 4,
+		"denome" : "ACAJUTIBA"
+	},
+	{
+		"cdlinhalocalidade" : 5,
+		"denome" : "ACAMPAMENTO 40\/45 (POV ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 6,
+		"denome" : "ACAMPAMENTO 45 (POV ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 7,
+		"denome" : "ACARACI (POV DÁRIO MEIRA)"
+	},
+	{
+		"cdlinhalocalidade" : 8,
+		"denome" : "ACARACI (POV ITAGIBÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 9,
+		"denome" : "ACARAÍ (POV CAMAMU)"
+	},
+	{
+		"cdlinhalocalidade" : 10,
+		"denome" : "ACARU (ABARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 11,
+		"denome" : "ACESSO À FÁBRICA FORD (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 12,
+		"denome" : "ACESSO CAMAÇARI \/ BA512"
+	},
+	{
+		"cdlinhalocalidade" : 13,
+		"denome" : "AÇU DA TORRE \/ MALHADA (DIST MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 14,
+		"denome" : "AÇUDINA (DIST SANTA MARIA DA VITÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 15,
+		"denome" : "ACUÍPE (POV ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 16,
+		"denome" : "ACUPE (DIST SANTO AMARO)"
+	},
+	{
+		"cdlinhalocalidade" : 17,
+		"denome" : "ADUSTINA"
+	},
+	{
+		"cdlinhalocalidade" : 18,
+		"denome" : "AGROVILA I (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 19,
+		"denome" : "AGROVILA III (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 20,
+		"denome" : "AGROVILA IV (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 21,
+		"denome" : "AGROVILA IX (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 22,
+		"denome" : "AGROVILA V (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 23,
+		"denome" : "AGROVILA VI (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 24,
+		"denome" : "AGROVILA VII (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 25,
+		"denome" : "AGROVILA VIII (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 26,
+		"denome" : "AGROVILA X (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 27,
+		"denome" : "AGROVILA XI (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 28,
+		"denome" : "AGROVILA XII (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 29,
+		"denome" : "AGROVILA XIII (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 30,
+		"denome" : "AGROVILA XIV (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 31,
+		"denome" : "AGROVILA XV (CARINHANHA)"
+	},
+	{
+		"cdlinhalocalidade" : 32,
+		"denome" : "AGROVILA XVI (CARINHANHA)"
+	},
+	{
+		"cdlinhalocalidade" : 33,
+		"denome" : "ÁGUA BELA (DIST POÇÕES)"
+	},
+	{
+		"cdlinhalocalidade" : 34,
+		"denome" : "ÁGUA BRANCA (POV JEREMOABO)"
+	},
+	{
+		"cdlinhalocalidade" : 35,
+		"denome" : "ÁGUA DOCE (POV CRISTÓPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 36,
+		"denome" : "ÁGUA FRIA"
+	},
+	{
+		"cdlinhalocalidade" : 37,
+		"denome" : "ÁGUA LIMPA (POV JUCURUÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 38,
+		"denome" : "ÁGUA QUENTE (POV GENTIO DO OURO)"
+	},
+	{
+		"cdlinhalocalidade" : 39,
+		"denome" : "AGUADA NOVA (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 40,
+		"denome" : "AIQUARA"
+	},
+	{
+		"cdlinhalocalidade" : 41,
+		"denome" : "ALAGADIÇO (FAZ IRAMAIA)"
+	},
+	{
+		"cdlinhalocalidade" : 42,
+		"denome" : "ALAGOAS (POV ITABERABA)"
+	},
+	{
+		"cdlinhalocalidade" : 43,
+		"denome" : "ALAGOINHA (POV ANGICAL)"
+	},
+	{
+		"cdlinhalocalidade" : 44,
+		"denome" : "ALAGOINHAS"
+	},
+	{
+		"cdlinhalocalidade" : 45,
+		"denome" : "ALCOBAÇA"
+	},
+	{
+		"cdlinhalocalidade" : 46,
+		"denome" : "ALEGRE (POV ITAGUAÇU DA BAHIA)"
+	},
+	{
+		"cdlinhalocalidade" : 47,
+		"denome" : "ALGODÃO (BRUMADO)"
+	},
+	{
+		"cdlinhalocalidade" : 48,
+		"denome" : "ALGODÃO (DIST IBIRATAIA)"
+	},
+	{
+		"cdlinhalocalidade" : 49,
+		"denome" : "ALGODÃO (FAZ VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 50,
+		"denome" : "ALGODÕES (POV QUIJINGUE)"
+	},
+	{
+		"cdlinhalocalidade" : 51,
+		"denome" : "ALGODÕES (POV SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 52,
+		"denome" : "ALMADINA"
+	},
+	{
+		"cdlinhalocalidade" : 53,
+		"denome" : "ALMAS (POV CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 54,
+		"denome" : "ALSIBÍADES (TEIXEIRA DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 55,
+		"denome" : "ALTAMIRA (POV CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 56,
+		"denome" : "ALTO VERMELHO (POV ITABERABA)"
+	},
+	{
+		"cdlinhalocalidade" : 57,
+		"denome" : "ALVORADA (FAZ ITAJU DO COLÔNIA)"
+	},
+	{
+		"cdlinhalocalidade" : 58,
+		"denome" : "AMADO BAHIA (DIST MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 59,
+		"denome" : "AMARALINA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 60,
+		"denome" : "AMARGOSA"
+	},
+	{
+		"cdlinhalocalidade" : 61,
+		"denome" : "AMÉLIA RODRIGUES"
+	},
+	{
+		"cdlinhalocalidade" : 62,
+		"denome" : "AMÉRICA DOURADA"
+	},
+	{
+		"cdlinhalocalidade" : 63,
+		"denome" : "AMIANTO (FAZ BOM JESUS DA SERRA)"
+	},
+	{
+		"cdlinhalocalidade" : 64,
+		"denome" : "AMPARO (POV BOA VISTA DO TUPIM)"
+	},
+	{
+		"cdlinhalocalidade" : 65,
+		"denome" : "ANAGÉ"
+	},
+	{
+		"cdlinhalocalidade" : 66,
+		"denome" : "ANDARAÍ"
+	},
+	{
+		"cdlinhalocalidade" : 67,
+		"denome" : "ANDARAÍ (POV PIRITIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 68,
+		"denome" : "ANDORINHA"
+	},
+	{
+		"cdlinhalocalidade" : 69,
+		"denome" : "ANGICAL"
+	},
+	{
+		"cdlinhalocalidade" : 70,
+		"denome" : "ANGICO (DIST MAIRI)"
+	},
+	{
+		"cdlinhalocalidade" : 71,
+		"denome" : "ANGICO (TUCANO)"
+	},
+	{
+		"cdlinhalocalidade" : 72,
+		"denome" : "ANGUERA"
+	},
+	{
+		"cdlinhalocalidade" : 73,
+		"denome" : "ANTARI (POV BARRA DO MENDES)"
+	},
+	{
+		"cdlinhalocalidade" : 74,
+		"denome" : "ANTAS"
+	},
+	{
+		"cdlinhalocalidade" : 75,
+		"denome" : "ANTÔNIO CARDOSO"
+	},
+	{
+		"cdlinhalocalidade" : 76,
+		"denome" : "ANTÔNIO DE PAULA (PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 77,
+		"denome" : "ANTÔNIO GONÇALVES"
+	},
+	{
+		"cdlinhalocalidade" : 78,
+		"denome" : "ANURI (DIST ARATACA)"
+	},
+	{
+		"cdlinhalocalidade" : 79,
+		"denome" : "APARAJU (POV ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 80,
+		"denome" : "APORÁ"
+	},
+	{
+		"cdlinhalocalidade" : 81,
+		"denome" : "APUAREMA"
+	},
+	{
+		"cdlinhalocalidade" : 82,
+		"denome" : "ARAÇÁS"
+	},
+	{
+		"cdlinhalocalidade" : 83,
+		"denome" : "ARACATU"
+	},
+	{
+		"cdlinhalocalidade" : 84,
+		"denome" : "ARACI"
+	},
+	{
+		"cdlinhalocalidade" : 85,
+		"denome" : "ARACI (POV BROTAS DE MACAÚBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 86,
+		"denome" : "ARAGUAIA (FAZ CAFARNAUM)"
+	},
+	{
+		"cdlinhalocalidade" : 87,
+		"denome" : "ARAMARI"
+	},
+	{
+		"cdlinhalocalidade" : 88,
+		"denome" : "ARAPIRANGA (DIST RIO DE CONTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 89,
+		"denome" : "ARAPOÃ (FAZ ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 90,
+		"denome" : "ARATACA"
+	},
+	{
+		"cdlinhalocalidade" : 91,
+		"denome" : "ARATU (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 92,
+		"denome" : "ARATUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 94,
+		"denome" : "AREIA BRANCA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 95,
+		"denome" : "AREIA BRANCA (POV ITABUNA)"
+	},
+	{
+		"cdlinhalocalidade" : 96,
+		"denome" : "AREIAS (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 97,
+		"denome" : "AREMBEPE (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 98,
+		"denome" : "ARGOIM (DIST RAFAEL JAMBEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 99,
+		"denome" : "AROEIRA (DIST CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 100,
+		"denome" : "AROEIRA (POV CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 101,
+		"denome" : "AROEIRA (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 102,
+		"denome" : "ARRAIAL D AJUDA (DIST PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 103,
+		"denome" : "ARRECIFE (POV LIVRAMENTO DE NOSSA SENHORA)"
+	},
+	{
+		"cdlinhalocalidade" : 104,
+		"denome" : "ARUEIRA (EUCLIDES DA CUNHA)"
+	},
+	{
+		"cdlinhalocalidade" : 105,
+		"denome" : "ASSENT IÊDA BARRADAS (ANTÔNIO CARDOSO)"
+	},
+	{
+		"cdlinhalocalidade" : 106,
+		"denome" : "ASSENTAMENTO CORUMBAU (POV PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 107,
+		"denome" : "AURELINO LEAL"
+	},
+	{
+		"cdlinhalocalidade" : 108,
+		"denome" : "AURORA (POV OUROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 109,
+		"denome" : "AV AMARÍLIO THIAGO DOS SANTOS (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 110,
+		"denome" : "AV AMÉLIA AMADO (ITABUNA)"
+	},
+	{
+		"cdlinhalocalidade" : 111,
+		"denome" : "AV ANITA GARIBALDI (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 112,
+		"denome" : "AV ANTÔNIO CARLOS MAGALHÃES (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 113,
+		"denome" : "AV BARROS REIS (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 115,
+		"denome" : "AV BEIRA MAR (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 116,
+		"denome" : "AV BONOCÔ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 117,
+		"denome" : "AV BRASIL (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 118,
+		"denome" : "AV CARDEAL DA SILVA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 119,
+		"denome" : "AV CENTENÁRIO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 120,
+		"denome" : "AV COMERCIAL (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 121,
+		"denome" : "AV DA FRANÇA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 122,
+		"denome" : "AV DORIVAL CAYMMI (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 123,
+		"denome" : "AV DOUTOR JOÃO VARGENS (CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 124,
+		"denome" : "AV ELMO SEREJO FARIAS (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 125,
+		"denome" : "AV ENG WALTER ARAGÃO DE SOUZA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 126,
+		"denome" : "AV FORTALEZA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 127,
+		"denome" : "AV FRANÇA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 128,
+		"denome" : "AV GARCIA D'ÁVILA (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 129,
+		"denome" : "AV GETÚLIO VARGAS (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 130,
+		"denome" : "AV GETÚLIO VARGAS (FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 131,
+		"denome" : "AV ILHÉUS (ITABUNA)"
+	},
+	{
+		"cdlinhalocalidade" : 132,
+		"denome" : "AV IMBASSAY (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 133,
+		"denome" : "AV JEQUITAIA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 134,
+		"denome" : "AV JOANA ANGÉLICA (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 135,
+		"denome" : "AV JURACY MAGALHÃES (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 136,
+		"denome" : "AV LAURO DE FREITAS (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 137,
+		"denome" : "AV LESTE (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 138,
+		"denome" : "AV LUÍS EDUARDO MAGALHÃES (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 139,
+		"denome" : "AV LUIZ TARQUÍNIO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 140,
+		"denome" : "AV MANOEL DIAS DA SILVA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 141,
+		"denome" : "AV OCTÁVIO MANGABEIRA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 142,
+		"denome" : "AV OSCAR PONTES (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 143,
+		"denome" : "AV PARALELA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 144,
+		"denome" : "AV PARQUE DAS DUNAS (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 145,
+		"denome" : "AV PITANGUEIRAS (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 146,
+		"denome" : "AV PÓLO EMPRESARIAL (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 147,
+		"denome" : "AV PROF PINTO DE AGUIAR (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 148,
+		"denome" : "AV RADIAL A (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 149,
+		"denome" : "AV RAUL SEIXAS (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 150,
+		"denome" : "AV RIO BANDEIRA (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 151,
+		"denome" : "AV RUI BARBOSA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 152,
+		"denome" : "AV SAN MARTIN ( SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 153,
+		"denome" : "AV SANTOS DUMOND (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 154,
+		"denome" : "AV SÃO CRISTÓVÃO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 155,
+		"denome" : "AV SÃO CRISTÓVÃO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 156,
+		"denome" : "AV SETE DE SETEMBRO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 157,
+		"denome" : "AV SUBURBANA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 159,
+		"denome" : "AV TIRADENTES (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 160,
+		"denome" : "AV VASCO DA GAMA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 161,
+		"denome" : "AV WASHINGTON LUIZ (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 162,
+		"denome" : "BA093"
+	},
+	{
+		"cdlinhalocalidade" : 163,
+		"denome" : "BA210"
+	},
+	{
+		"cdlinhalocalidade" : 164,
+		"denome" : "BA270"
+	},
+	{
+		"cdlinhalocalidade" : 165,
+		"denome" : "BA504"
+	},
+	{
+		"cdlinhalocalidade" : 166,
+		"denome" : "BA522"
+	},
+	{
+		"cdlinhalocalidade" : 167,
+		"denome" : "BA522 \/ ENT CANDEIAS"
+	},
+	{
+		"cdlinhalocalidade" : 168,
+		"denome" : "BA523"
+	},
+	{
+		"cdlinhalocalidade" : 169,
+		"denome" : "BA526"
+	},
+	{
+		"cdlinhalocalidade" : 170,
+		"denome" : "BA528"
+	},
+	{
+		"cdlinhalocalidade" : 171,
+		"denome" : "BA530"
+	},
+	{
+		"cdlinhalocalidade" : 172,
+		"denome" : "BA530 \/ ACESSO À CETREL"
+	},
+	{
+		"cdlinhalocalidade" : 173,
+		"denome" : "BA678"
+	},
+	{
+		"cdlinhalocalidade" : 174,
+		"denome" : "BABILÔNIA (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 175,
+		"denome" : "BAIACU (VERA CRUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 176,
+		"denome" : "BAIANÓPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 177,
+		"denome" : "BAIXA ALEGRE (POV JITAÚNA)"
+	},
+	{
+		"cdlinhalocalidade" : 178,
+		"denome" : "BAIXA DO ARROZ  (FAZ SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 179,
+		"denome" : "BAIXA DO FISCAL (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 180,
+		"denome" : "BAIXA GRANDE"
+	},
+	{
+		"cdlinhalocalidade" : 181,
+		"denome" : "BAIXA GRANDE (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 182,
+		"denome" : "BAIXA JOSÉ FÉLIX (POV OUROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 183,
+		"denome" : "BAIXÃO (DIST JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 184,
+		"denome" : "BAIXÃO (POV PARIPIRANGA)"
+	},
+	{
+		"cdlinhalocalidade" : 185,
+		"denome" : "BAIXIO (POV ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 186,
+		"denome" : "BALANÇA (TEIXEIRA DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 188,
+		"denome" : "BAMBORIL (SÁTIRO DIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 189,
+		"denome" : "BANCO CENTRAL (DIST ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 190,
+		"denome" : "BANCO DA VITÓRIA (DIST ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 191,
+		"denome" : "BANCO DE AREIA (POV SÃO SEBASTIÃO DO PASSÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 192,
+		"denome" : "BANCO DO PEDRO (POV ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 193,
+		"denome" : "BANDEIRA DE MELO (POV ITAETÊ)"
+	},
+	{
+		"cdlinhalocalidade" : 194,
+		"denome" : "BANDEIRA DO ALMADA (DIST ITAJUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 195,
+		"denome" : "BANDEIRANTES (CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 196,
+		"denome" : "BANDIAÇU (POV CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 197,
+		"denome" : "BANZAÊ"
+	},
+	{
+		"cdlinhalocalidade" : 198,
+		"denome" : "BARAÚNA (FAZ MIRANTE)"
+	},
+	{
+		"cdlinhalocalidade" : 199,
+		"denome" : "BARAUNA (POV SENHOR DO BONFIM)"
+	},
+	{
+		"cdlinhalocalidade" : 200,
+		"denome" : "BARAÚNAS (POV SEABRA)"
+	},
+	{
+		"cdlinhalocalidade" : 201,
+		"denome" : "BARCELONA (DIST MEDEIROS NETO)"
+	},
+	{
+		"cdlinhalocalidade" : 202,
+		"denome" : "BARRA"
+	},
+	{
+		"cdlinhalocalidade" : 203,
+		"denome" : "BARRA (FAZ IPECAETÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 204,
+		"denome" : "BARRA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 205,
+		"denome" : "BARRA DA ESTIVA"
+	},
+	{
+		"cdlinhalocalidade" : 206,
+		"denome" : "BARRA DE ÁGUA FRIA (ÁGUA FRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 207,
+		"denome" : "BARRA DO CHOÇA"
+	},
+	{
+		"cdlinhalocalidade" : 208,
+		"denome" : "BARRA DO FURADO (POV CÂNDIDO SALES)"
+	},
+	{
+		"cdlinhalocalidade" : 209,
+		"denome" : "BARRA DO ITARIRI (DIST CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 210,
+		"denome" : "BARRA DO JACUÍPE (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 211,
+		"denome" : "BARRA DO MENDES"
+	},
+	{
+		"cdlinhalocalidade" : 212,
+		"denome" : "BARRA DO POJUCA (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 213,
+		"denome" : "BARRA DO RIACHÃO (RIACHÃO DAS NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 214,
+		"denome" : "BARRA DO ROCHA"
+	},
+	{
+		"cdlinhalocalidade" : 215,
+		"denome" : "BARRA DO TARRACHIL (DIST CHORROCHÓ)"
+	},
+	{
+		"cdlinhalocalidade" : 216,
+		"denome" : "BARRA GRANDE (POV MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 217,
+		"denome" : "BARRA GRANDE (VERA CRUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 218,
+		"denome" : "BARRA NOVA (DIST BARRA DO CHOÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 219,
+		"denome" : "BARRA NOVA (POV GUARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 220,
+		"denome" : "BARRA VELHA (PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 221,
+		"denome" : "BARRAGEM  (POV CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 222,
+		"denome" : "BARRAJADO (APORÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 223,
+		"denome" : "BARREIRAS"
+	},
+	{
+		"cdlinhalocalidade" : 224,
+		"denome" : "BARREIRO (POV CANAVIEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 225,
+		"denome" : "BARRINHA (POV JAGUARARI)"
+	},
+	{
+		"cdlinhalocalidade" : 226,
+		"denome" : "BARRO ALTO"
+	},
+	{
+		"cdlinhalocalidade" : 227,
+		"denome" : "BARRO PRETO"
+	},
+	{
+		"cdlinhalocalidade" : 228,
+		"denome" : "BARRO VERMELHO (VEREDA)"
+	},
+	{
+		"cdlinhalocalidade" : 230,
+		"denome" : "BARROCAS"
+	},
+	{
+		"cdlinhalocalidade" : 231,
+		"denome" : "BARROLÂNDIA (DIST BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 232,
+		"denome" : "BATE-PÉ (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 233,
+		"denome" : "BATUQUE (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 234,
+		"denome" : "BAZUA (POV SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 235,
+		"denome" : "BEIRA RIO (POV OLIVEIRA DOS BREJINHOS)"
+	},
+	{
+		"cdlinhalocalidade" : 236,
+		"denome" : "BELA VISTA (POV NOVA VIÇOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 237,
+		"denome" : "BELÉM (DIST CACHOEIRA)"
+	},
+	{
+		"cdlinhalocalidade" : 238,
+		"denome" : "BELMONTE"
+	},
+	{
+		"cdlinhalocalidade" : 239,
+		"denome" : "BELO CAMPO"
+	},
+	{
+		"cdlinhalocalidade" : 240,
+		"denome" : "BELO CAMPO (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 241,
+		"denome" : "BENDEGÓ (POV CANUDOS)"
+	},
+	{
+		"cdlinhalocalidade" : 242,
+		"denome" : "BENFICA (FAZ IPECAETÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 243,
+		"denome" : "BICA DA SERRA (POV CAATIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 244,
+		"denome" : "BIRIBEIRA (MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 245,
+		"denome" : "BIRITINGA"
+	},
+	{
+		"cdlinhalocalidade" : 246,
+		"denome" : "BOA ESPERANÇA (FAZ CAETANOS)"
+	},
+	{
+		"cdlinhalocalidade" : 247,
+		"denome" : "BOA ESPERANÇA (FAZ SANTALUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 248,
+		"denome" : "BOA ESPERANÇA (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 249,
+		"denome" : "BOA HORA (POV RIBEIRA DO AMPARO)"
+	},
+	{
+		"cdlinhalocalidade" : 250,
+		"denome" : "BOA NOVA"
+	},
+	{
+		"cdlinhalocalidade" : 251,
+		"denome" : "BOA SENTENÇA (POV RIO DE CONTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 252,
+		"denome" : "BOA SORTE (FAZ ITACARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 253,
+		"denome" : "BOA UNIÃO (DIST ALAGOINHAS)"
+	},
+	{
+		"cdlinhalocalidade" : 254,
+		"denome" : "BOA VISTA DO TAPERA (POV ENCRUZILHADA)"
+	},
+	{
+		"cdlinhalocalidade" : 255,
+		"denome" : "BOA VISTA DO TUPIM"
+	},
+	{
+		"cdlinhalocalidade" : 256,
+		"denome" : "BOCA DA MATA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 257,
+		"denome" : "BOCA DO CÓRREGO (DIST BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 258,
+		"denome" : "BOIADEIRA (DIST SANTO ESTEVÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 259,
+		"denome" : "BOLANDEIRA (POV AMÉLIA RODRIGUES)"
+	},
+	{
+		"cdlinhalocalidade" : 260,
+		"denome" : "BOM DESPACHO"
+	},
+	{
+		"cdlinhalocalidade" : 261,
+		"denome" : "BOM JARDIM (POV IBIQUERA)"
+	},
+	{
+		"cdlinhalocalidade" : 262,
+		"denome" : "BOM JESUS DA LAPA"
+	},
+	{
+		"cdlinhalocalidade" : 263,
+		"denome" : "BOM JESUS DA SERRA"
+	},
+	{
+		"cdlinhalocalidade" : 265,
+		"denome" : "BOM JESUS DOS POBRES (DIST SAUBARA)"
+	},
+	{
+		"cdlinhalocalidade" : 266,
+		"denome" : "BOM PRAZER (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 267,
+		"denome" : "BONFIM (POV ITAPÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 268,
+		"denome" : "BONFIM (FAZ ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 269,
+		"denome" : "BONFIM DE MATA (DIST MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 270,
+		"denome" : "BONINAL"
+	},
+	{
+		"cdlinhalocalidade" : 271,
+		"denome" : "BONITO"
+	},
+	{
+		"cdlinhalocalidade" : 272,
+		"denome" : "BONZÃO I E II (LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 273,
+		"denome" : "BOQUEIRÃO  (POV JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 274,
+		"denome" : "BOQUIRA"
+	},
+	{
+		"cdlinhalocalidade" : 275,
+		"denome" : "BOTUPORÃ"
+	},
+	{
+		"cdlinhalocalidade" : 276,
+		"denome" : "BR101"
+	},
+	{
+		"cdlinhalocalidade" : 277,
+		"denome" : "BR110"
+	},
+	{
+		"cdlinhalocalidade" : 278,
+		"denome" : "BR242"
+	},
+	{
+		"cdlinhalocalidade" : 279,
+		"denome" : "BR324"
+	},
+	{
+		"cdlinhalocalidade" : 280,
+		"denome" : "BR415"
+	},
+	{
+		"cdlinhalocalidade" : 281,
+		"denome" : "BR522"
+	},
+	{
+		"cdlinhalocalidade" : 282,
+		"denome" : "BRAHMA (FAZ CAMAMU)"
+	},
+	{
+		"cdlinhalocalidade" : 283,
+		"denome" : "BRANCO (FAZ JEREMOABO)"
+	},
+	{
+		"cdlinhalocalidade" : 284,
+		"denome" : "BRASILEIRO (FAZ BARROCAS)"
+	},
+	{
+		"cdlinhalocalidade" : 285,
+		"denome" : "BRAVO (DIST SERRA PRETA)"
+	},
+	{
+		"cdlinhalocalidade" : 286,
+		"denome" : "BREJINHOS (POV BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 287,
+		"denome" : "BREJO DE FORA (POV SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 288,
+		"denome" : "BREJO GRANDE (POV JEREMOABO)"
+	},
+	{
+		"cdlinhalocalidade" : 289,
+		"denome" : "BREJO LUZIA DE BRITO (DIST NOVO HORIZONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 290,
+		"denome" : "BREJÕES"
+	},
+	{
+		"cdlinhalocalidade" : 291,
+		"denome" : "BREJOLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 292,
+		"denome" : "BRIGA (FAZ SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 293,
+		"denome" : "BROTAS DE MACAÚBAS"
+	},
+	{
+		"cdlinhalocalidade" : 294,
+		"denome" : "BRUMADO"
+	},
+	{
+		"cdlinhalocalidade" : 295,
+		"denome" : "BUERAREMA"
+	},
+	{
+		"cdlinhalocalidade" : 296,
+		"denome" : "BURACÃO (POV BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 297,
+		"denome" : "BURACICA (POV ALAGOINHAS)"
+	},
+	{
+		"cdlinhalocalidade" : 298,
+		"denome" : "BURANHÉM (DIST GUARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 299,
+		"denome" : "BURAQUINHO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 300,
+		"denome" : "BURI (FAZ ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 301,
+		"denome" : "BURIETÁ (POV TEOLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 302,
+		"denome" : "BURIL (POV CRISÓPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 303,
+		"denome" : "BURIS (POV CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 304,
+		"denome" : "BURITIRAMA"
+	},
+	{
+		"cdlinhalocalidade" : 305,
+		"denome" : "BURITI-SECA (POV SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 306,
+		"denome" : "CAATIBA"
+	},
+	{
+		"cdlinhalocalidade" : 307,
+		"denome" : "CABACEIRAS DO PARAGUAÇU"
+	},
+	{
+		"cdlinhalocalidade" : 308,
+		"denome" : "CABOTO (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 309,
+		"denome" : "CABRÁLIA (DIST PIATÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 310,
+		"denome" : "CABUÇU (DIST SAUBARA)"
+	},
+	{
+		"cdlinhalocalidade" : 311,
+		"denome" : "CACHA PREGOS (DIST VERA CRUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 312,
+		"denome" : "CACHOEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 313,
+		"denome" : "CAÇÕES (POV JAGUARIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 314,
+		"denome" : "CACULÉ"
+	},
+	{
+		"cdlinhalocalidade" : 315,
+		"denome" : "CAEM"
+	},
+	{
+		"cdlinhalocalidade" : 316,
+		"denome" : "CAETANOS"
+	},
+	{
+		"cdlinhalocalidade" : 317,
+		"denome" : "CAETITÉ"
+	},
+	{
+		"cdlinhalocalidade" : 318,
+		"denome" : "CAFARNAUM"
+	},
+	{
+		"cdlinhalocalidade" : 319,
+		"denome" : "CAFÉ GLÓRIA (FAZ TEIXEIRA DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 320,
+		"denome" : "CAFÉ PEDRAS (CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 321,
+		"denome" : "CAFUNDÓ (POV ITAPITANGA)"
+	},
+	{
+		"cdlinhalocalidade" : 322,
+		"denome" : "CAIC (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 323,
+		"denome" : "CAÍPE (DIST CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 324,
+		"denome" : "CAIRU"
+	},
+	{
+		"cdlinhalocalidade" : 325,
+		"denome" : "CAIRUÃ (FAZ UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 326,
+		"denome" : "CAIUBI (DIST ITAPEBI)"
+	},
+	{
+		"cdlinhalocalidade" : 327,
+		"denome" : "CAIXA D´ÁGUA (POV IPIRÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 328,
+		"denome" : "CAJAÍBA (DIST VALENÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 329,
+		"denome" : "CAJUEIRO (POV IBICARAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 330,
+		"denome" : "CAJUEIRO (POV TUCANO)"
+	},
+	{
+		"cdlinhalocalidade" : 331,
+		"denome" : "CAJUÍTA (POV GUARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 332,
+		"denome" : "CALÇADA - TERMINAL (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 333,
+		"denome" : "CALDAS DO JORRO (DIST TUCANO)"
+	},
+	{
+		"cdlinhalocalidade" : 334,
+		"denome" : "CALDEIRÃO (DIST UAUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 335,
+		"denome" : "CALDEIRÃO (FAZ CAETANOS)"
+	},
+	{
+		"cdlinhalocalidade" : 336,
+		"denome" : "CALDEIRÃO (POV CAETANOS)"
+	},
+	{
+		"cdlinhalocalidade" : 337,
+		"denome" : "CALDEIRÃO (POV IBITITÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 338,
+		"denome" : "CALDEIRÃO DA SERRA (CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 339,
+		"denome" : "CALDEIRÃO GRANDE"
+	},
+	{
+		"cdlinhalocalidade" : 340,
+		"denome" : "CAMACÃ"
+	},
+	{
+		"cdlinhalocalidade" : 342,
+		"denome" : "CAMAÇARI"
+	},
+	{
+		"cdlinhalocalidade" : 343,
+		"denome" : "CAMAMU"
+	},
+	{
+		"cdlinhalocalidade" : 344,
+		"denome" : "CAMASSANDI (DIST JAGUARIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 345,
+		"denome" : "CAMPINAS (POV RIACHO DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 346,
+		"denome" : "CAMPINHO (POV MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 347,
+		"denome" : "CAMPO ALEGRE DE LOURDES"
+	},
+	{
+		"cdlinhalocalidade" : 348,
+		"denome" : "CAMPO DE PEDRAS (ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 349,
+		"denome" : "CAMPO DE PEDRAS (POV ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 350,
+		"denome" : "CAMPO FORMOSO"
+	},
+	{
+		"cdlinhalocalidade" : 351,
+		"denome" : "CAMPO FORMOSO (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 352,
+		"denome" : "CAMPO GRANDE (POV SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 353,
+		"denome" : "CAMPO GRANDE (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 354,
+		"denome" : "CANABRAVA (DIST MALHADA)"
+	},
+	{
+		"cdlinhalocalidade" : 355,
+		"denome" : "CANABRAVA (FAZ ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 356,
+		"denome" : "CANÁPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 357,
+		"denome" : "CANARANA"
+	},
+	{
+		"cdlinhalocalidade" : 358,
+		"denome" : "CANAVIEIRAS"
+	},
+	{
+		"cdlinhalocalidade" : 359,
+		"denome" : "CANCHÉ (DIST JEREMOABO)"
+	},
+	{
+		"cdlinhalocalidade" : 360,
+		"denome" : "CANDEAL"
+	},
+	{
+		"cdlinhalocalidade" : 361,
+		"denome" : "CANDEIAS"
+	},
+	{
+		"cdlinhalocalidade" : 362,
+		"denome" : "CANDIBA"
+	},
+	{
+		"cdlinhalocalidade" : 363,
+		"denome" : "CÂNDIDO SALES"
+	},
+	{
+		"cdlinhalocalidade" : 364,
+		"denome" : "CANELA (FAZ LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 365,
+		"denome" : "CANSANÇÃO"
+	},
+	{
+		"cdlinhalocalidade" : 366,
+		"denome" : "CANTINHO (POV CRISTÓPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 367,
+		"denome" : "CANTO (POV TEOFILÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 368,
+		"denome" : "CANUDOS"
+	},
+	{
+		"cdlinhalocalidade" : 369,
+		"denome" : "CAPÃO (DIST LAJE)"
+	},
+	{
+		"cdlinhalocalidade" : 370,
+		"denome" : "CAPELA DO ALTO ALEGRE"
+	},
+	{
+		"cdlinhalocalidade" : 371,
+		"denome" : "CAPIM DURO (POV BARRA DO MENDES)"
+	},
+	{
+		"cdlinhalocalidade" : 372,
+		"denome" : "CAPIM GROSSO"
+	},
+	{
+		"cdlinhalocalidade" : 373,
+		"denome" : "CAPIM GROSSO (POV GENTIO DO OURO)"
+	},
+	{
+		"cdlinhalocalidade" : 374,
+		"denome" : "CAPINADA (POV ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 375,
+		"denome" : "CAPITÃO (FAZ ITACARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 377,
+		"denome" : "CAPIVARA (DIST ITABERABA)"
+	},
+	{
+		"cdlinhalocalidade" : 378,
+		"denome" : "CARAGUATAÍ (DIST JUSSIAPE)"
+	},
+	{
+		"cdlinhalocalidade" : 379,
+		"denome" : "CARAÍBA (POV CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 380,
+		"denome" : "CARAÍBAS"
+	},
+	{
+		"cdlinhalocalidade" : 381,
+		"denome" : "CARAÍBAS (POV MACURURÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 382,
+		"denome" : "CARAÍBAS (POV PARAMIRIM)"
+	},
+	{
+		"cdlinhalocalidade" : 383,
+		"denome" : "CARAÍVA (DIST PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 384,
+		"denome" : "CARATACA (POV UAUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 385,
+		"denome" : "CARAVELAS"
+	},
+	{
+		"cdlinhalocalidade" : 386,
+		"denome" : "CARDEAL DA SILVA"
+	},
+	{
+		"cdlinhalocalidade" : 387,
+		"denome" : "CARDOSO (POV ITORORÓ)"
+	},
+	{
+		"cdlinhalocalidade" : 388,
+		"denome" : "CARINHANHA"
+	},
+	{
+		"cdlinhalocalidade" : 389,
+		"denome" : "CARIPARÉ (DIST RIACHÃO DAS NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 390,
+		"denome" : "CARNAÍBA DO SERTÃO (DIST JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 391,
+		"denome" : "CARNE ASSADA (POV SEABRA)"
+	},
+	{
+		"cdlinhalocalidade" : 392,
+		"denome" : "CARRAPICHEL (DIST SENHOR DO BONFIM)"
+	},
+	{
+		"cdlinhalocalidade" : 393,
+		"denome" : "CARRAPICHO (FAZ CAETANOS)"
+	},
+	{
+		"cdlinhalocalidade" : 394,
+		"denome" : "CARRETEIRO (ARATACA)"
+	},
+	{
+		"cdlinhalocalidade" : 395,
+		"denome" : "CARUARU (POV CORRENTINA)"
+	},
+	{
+		"cdlinhalocalidade" : 396,
+		"denome" : "CARURU (FÁTIMA)"
+	},
+	{
+		"cdlinhalocalidade" : 397,
+		"denome" : "CARURU (POV GLÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 398,
+		"denome" : "CASA DE TELHA (POV RIO DE CONTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 399,
+		"denome" : "CASA NOVA"
+	},
+	{
+		"cdlinhalocalidade" : 400,
+		"denome" : "CASAL I E II (LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 401,
+		"denome" : "CASCALHEIRA (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 402,
+		"denome" : "CASCATA (FAZ AURELINO LEAL)"
+	},
+	{
+		"cdlinhalocalidade" : 403,
+		"denome" : "CASCATA (FAZ TEIXEIRA DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 404,
+		"denome" : "CASCAVEL (DIST IBICOARA)"
+	},
+	{
+		"cdlinhalocalidade" : 405,
+		"denome" : "CASCUDO (POV SEABRA)"
+	},
+	{
+		"cdlinhalocalidade" : 406,
+		"denome" : "CASSANGE (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 407,
+		"denome" : "CASTANHAL (FAZ SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 408,
+		"denome" : "CASTANHAL (RIO DO PIRES)"
+	},
+	{
+		"cdlinhalocalidade" : 409,
+		"denome" : "CASTRO ALVES"
+	},
+	{
+		"cdlinhalocalidade" : 410,
+		"denome" : "CATARINA (POV OUROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 411,
+		"denome" : "CATAVENTO (RIO REAL)"
+	},
+	{
+		"cdlinhalocalidade" : 412,
+		"denome" : "CATIBOABA (POV BRUMADO)"
+	},
+	{
+		"cdlinhalocalidade" : 413,
+		"denome" : "CATINGAL (DIST MANOEL VITORINO)"
+	},
+	{
+		"cdlinhalocalidade" : 414,
+		"denome" : "CATOLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 415,
+		"denome" : "CATU"
+	},
+	{
+		"cdlinhalocalidade" : 416,
+		"denome" : "CATU DE ABRANTES (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 417,
+		"denome" : "CATU GRANDE (POV ITAPICURU)"
+	},
+	{
+		"cdlinhalocalidade" : 418,
+		"denome" : "CATUABA (POV BONITO)"
+	},
+	{
+		"cdlinhalocalidade" : 419,
+		"denome" : "CATURAMA"
+	},
+	{
+		"cdlinhalocalidade" : 420,
+		"denome" : "CAUBI (POV MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 421,
+		"denome" : "CAVUNGE (DIST IPECAETÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 422,
+		"denome" : "CEASA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 423,
+		"denome" : "CEDRO (POV BONINAL)"
+	},
+	{
+		"cdlinhalocalidade" : 424,
+		"denome" : "CÉLIO ALVES (CÂNDIDO SALES)"
+	},
+	{
+		"cdlinhalocalidade" : 425,
+		"denome" : "CENTRAL"
+	},
+	{
+		"cdlinhalocalidade" : 426,
+		"denome" : "CERAIMA (DIST GUANAMBI)"
+	},
+	{
+		"cdlinhalocalidade" : 427,
+		"denome" : "CERCA DE PEDRA (POV CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 428,
+		"denome" : "CERQUINHA (DIST IGAPORÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 429,
+		"denome" : "CHAME CHAME (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 430,
+		"denome" : "CHAPADA (POV RIACHÃO DO JACUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 431,
+		"denome" : "CHAPADA (POV SERRINHA)"
+	},
+	{
+		"cdlinhalocalidade" : 432,
+		"denome" : "CHORROCHÓ"
+	},
+	{
+		"cdlinhalocalidade" : 433,
+		"denome" : "CIA - AEROPORTO"
+	},
+	{
+		"cdlinhalocalidade" : 434,
+		"denome" : "CIA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 435,
+		"denome" : "CÍCERO DANTAS"
+	},
+	{
+		"cdlinhalocalidade" : 436,
+		"denome" : "CINCO ESTRADAS (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 437,
+		"denome" : "CIPÓ"
+	},
+	{
+		"cdlinhalocalidade" : 438,
+		"denome" : "COARACI"
+	},
+	{
+		"cdlinhalocalidade" : 439,
+		"denome" : "COCA-COLA (ANDARAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 440,
+		"denome" : "COCÃO (IRECÊ)"
+	},
+	{
+		"cdlinhalocalidade" : 441,
+		"denome" : "COCOROBÓ (CANUDOS)"
+	},
+	{
+		"cdlinhalocalidade" : 442,
+		"denome" : "COCOS"
+	},
+	{
+		"cdlinhalocalidade" : 443,
+		"denome" : "COLÔNIA DO FORMOSO (POV CORIBE)"
+	},
+	{
+		"cdlinhalocalidade" : 444,
+		"denome" : "COLÔNIA DO UNA (UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 445,
+		"denome" : "COMANDATUBA (POV UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 446,
+		"denome" : "COMPLEXO BÁSICO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 447,
+		"denome" : "CONCEIÇÃO (POV IPIRÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 448,
+		"denome" : "CONCEIÇÃO DA FEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 449,
+		"denome" : "CONCEIÇÃO DE SALINAS (SALINAS DA MARGARIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 450,
+		"denome" : "CONCEIÇÃO DO ALMEIDA"
+	},
+	{
+		"cdlinhalocalidade" : 451,
+		"denome" : "CONCEIÇÃO DO COITÉ"
+	},
+	{
+		"cdlinhalocalidade" : 452,
+		"denome" : "CONCEIÇÃO DO JACUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 453,
+		"denome" : "CONDE"
+	},
+	{
+		"cdlinhalocalidade" : 454,
+		"denome" : "CONDEÚBA"
+	},
+	{
+		"cdlinhalocalidade" : 455,
+		"denome" : "CONDOMÍNIO BETAVILLE (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 456,
+		"denome" : "CONDOMÍNIO VIDA BELA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 457,
+		"denome" : "CONQUISTA (POV OUROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 458,
+		"denome" : "CONTENDAS (JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 459,
+		"denome" : "CONTENDAS (POV MACAÚBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 460,
+		"denome" : "CONTENDAS DO SINCORÁ"
+	},
+	{
+		"cdlinhalocalidade" : 461,
+		"denome" : "COPA 70 (IBIRAPITANGA)"
+	},
+	{
+		"cdlinhalocalidade" : 462,
+		"denome" : "COPIXABA (DIST XIQUE-XIQUE)"
+	},
+	{
+		"cdlinhalocalidade" : 463,
+		"denome" : "COQUEIRO (POV JUCURUÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 464,
+		"denome" : "COQUEIROS (DIST MARAGOGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 465,
+		"denome" : "CORAÇÃO DE MARIA"
+	},
+	{
+		"cdlinhalocalidade" : 466,
+		"denome" : "CORDEIROS"
+	},
+	{
+		"cdlinhalocalidade" : 467,
+		"denome" : "CORÉIA (POV MASCOTE)"
+	},
+	{
+		"cdlinhalocalidade" : 468,
+		"denome" : "CORIBE"
+	},
+	{
+		"cdlinhalocalidade" : 469,
+		"denome" : "COROA VERMELHA (DIST SANTA CRUZ CABRÁLIA)"
+	},
+	{
+		"cdlinhalocalidade" : 470,
+		"denome" : "CORONEL JOÃO SÁ"
+	},
+	{
+		"cdlinhalocalidade" : 471,
+		"denome" : "CORRENTINA"
+	},
+	{
+		"cdlinhalocalidade" : 472,
+		"denome" : "CORTA FACÃO (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 473,
+		"denome" : "CORTE DE PEDRA (DIST PRES TANCREDO NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 474,
+		"denome" : "CORTE DE PEDRA (DIST PRESIDENTE TANCREDO NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 475,
+		"denome" : "CORTE GRANDE (JACOBINA)"
+	},
+	{
+		"cdlinhalocalidade" : 476,
+		"denome" : "CORUMBAU (POV PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 477,
+		"denome" : "COSTA AZUL (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 478,
+		"denome" : "COTEGIPE"
+	},
+	{
+		"cdlinhalocalidade" : 479,
+		"denome" : "COUTO (DIST ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 480,
+		"denome" : "COVA DE DEFUNTO (POV CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 481,
+		"denome" : "COVAS (POV ANGICAL)"
+	},
+	{
+		"cdlinhalocalidade" : 482,
+		"denome" : "CRAVEIRO (POV CAMAMU)"
+	},
+	{
+		"cdlinhalocalidade" : 483,
+		"denome" : "CRAVOLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 484,
+		"denome" : "CRISÓPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 485,
+		"denome" : "CRISTALÂNDIA (DIST BRUMADO)"
+	},
+	{
+		"cdlinhalocalidade" : 486,
+		"denome" : "CRISTÓPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 487,
+		"denome" : "CRUZ DAS ALMAS"
+	},
+	{
+		"cdlinhalocalidade" : 489,
+		"denome" : "CRUZEIRO DO SUL (POV VEREDA)"
+	},
+	{
+		"cdlinhalocalidade" : 490,
+		"denome" : "CUMURUXATIBA (DIST PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 491,
+		"denome" : "CURAÇÁ"
+	},
+	{
+		"cdlinhalocalidade" : 492,
+		"denome" : "CURRAL DE PEDRA (ABARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 493,
+		"denome" : "CURRAL FALSO (POV RIBEIRA DO POMBAL)"
+	},
+	{
+		"cdlinhalocalidade" : 494,
+		"denome" : "CURRALINHO (POV MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 495,
+		"denome" : "DANTILÂNDIA (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 496,
+		"denome" : "DÁRIO MEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 497,
+		"denome" : "DIAS D'ÁVILA"
+	},
+	{
+		"cdlinhalocalidade" : 498,
+		"denome" : "DIOGO (POV MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 499,
+		"denome" : "DOM BASÍLIO"
+	},
+	{
+		"cdlinhalocalidade" : 500,
+		"denome" : "DOM JOÃO (DIST SÃO FRANCISCO DO CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 501,
+		"denome" : "DOM MACEDO COSTA"
+	},
+	{
+		"cdlinhalocalidade" : 502,
+		"denome" : "DONA MARCOLINA (APORÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 503,
+		"denome" : "DONA MARIA (DIST OLINDINA)"
+	},
+	{
+		"cdlinhalocalidade" : 504,
+		"denome" : "DR ONILDO (FAZ BARRA DO CHOÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 505,
+		"denome" : "DUAS BARRAS (POV PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 506,
+		"denome" : "DUAS BARRAS (POV SEABRA)"
+	},
+	{
+		"cdlinhalocalidade" : 507,
+		"denome" : "DUAS SERRAS (POV ANTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 508,
+		"denome" : "DUQUE DE CAXIAS (CÍCERO DANTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 509,
+		"denome" : "DUQUE DE CAXIAS (POV TEIXEIRA DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 510,
+		"denome" : "EIXO URBANO CENTRAL (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 511,
+		"denome" : "ELÍSIO MEDRADO"
+	},
+	{
+		"cdlinhalocalidade" : 512,
+		"denome" : "ELIZEU (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 513,
+		"denome" : "ELVIRA (FAZ JUCURUÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 514,
+		"denome" : "EMBAÚBA (FAZ EUNÁPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 515,
+		"denome" : "EMBURRADO (POV IPIAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 516,
+		"denome" : "ENCARNAÇÃO (POV SALINAS DA MARGARIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 517,
+		"denome" : "ENCRUZILHADA"
+	},
+	{
+		"cdlinhalocalidade" : 518,
+		"denome" : "ENGENHEIRO FRANÇA (DIST UBAÍRA)"
+	},
+	{
+		"cdlinhalocalidade" : 519,
+		"denome" : "ENGENHEIRO PONTES (DIST LAJE)"
+	},
+	{
+		"cdlinhalocalidade" : 520,
+		"denome" : "ENT ABADIA (DIST JANDAÍRA)"
+	},
+	{
+		"cdlinhalocalidade" : 521,
+		"denome" : "ENT ABÓBORA (JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 522,
+		"denome" : "ENT ACARACI (POV ITAGIBÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 523,
+		"denome" : "ENT ACUPE (DIST SANTO AMARO)"
+	},
+	{
+		"cdlinhalocalidade" : 524,
+		"denome" : "ENT AGROVILA (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 525,
+		"denome" : "ENT AGROVILA I (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 526,
+		"denome" : "ENT AGROVILA II (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 527,
+		"denome" : "ENT ALCOBAÇA"
+	},
+	{
+		"cdlinhalocalidade" : 528,
+		"denome" : "ENT ALIANÇA (AMÉLIA RODRIGUES)"
+	},
+	{
+		"cdlinhalocalidade" : 530,
+		"denome" : "ENT ANGELIM  (FAZ POTIRAGUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 531,
+		"denome" : "ENT ANGICAL"
+	},
+	{
+		"cdlinhalocalidade" : 532,
+		"denome" : "ENT ANGUERA"
+	},
+	{
+		"cdlinhalocalidade" : 533,
+		"denome" : "ENT ANTÔNIO CARDOSO"
+	},
+	{
+		"cdlinhalocalidade" : 534,
+		"denome" : "ENT ANTÔNIO GONÇALVES"
+	},
+	{
+		"cdlinhalocalidade" : 535,
+		"denome" : "ENT APORÁ"
+	},
+	{
+		"cdlinhalocalidade" : 536,
+		"denome" : "ENT ARATACA"
+	},
+	{
+		"cdlinhalocalidade" : 537,
+		"denome" : "ENT AREIAS (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 538,
+		"denome" : "ENT AREMBEPE (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 539,
+		"denome" : "ENT ARRAIAL D AJUDA (DIST PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 540,
+		"denome" : "ENT ASSENTAMENTOS AGRÁRIOS"
+	},
+	{
+		"cdlinhalocalidade" : 542,
+		"denome" : "ENTRONC BA084\/BA403"
+	},
+	{
+		"cdlinhalocalidade" : 543,
+		"denome" : "ENT BA093"
+	},
+	{
+		"cdlinhalocalidade" : 545,
+		"denome" : "ENTRONC BA262\/BA142"
+	},
+	{
+		"cdlinhalocalidade" : 546,
+		"denome" : "ENTRONC BA275\/ BA001"
+	},
+	{
+		"cdlinhalocalidade" : 547,
+		"denome" : "ENT BAIANÓPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 548,
+		"denome" : "ENT BAIXIO (POV ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 549,
+		"denome" : "ENT BAIXIOS (POV ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 550,
+		"denome" : "ENT BANZAÊ"
+	},
+	{
+		"cdlinhalocalidade" : 551,
+		"denome" : "ENT BARCELONA (DIST MEDEIROS NETO)"
+	},
+	{
+		"cdlinhalocalidade" : 552,
+		"denome" : "ENT BARRA"
+	},
+	{
+		"cdlinhalocalidade" : 553,
+		"denome" : "ENT BARRA DA ESTIVA"
+	},
+	{
+		"cdlinhalocalidade" : 554,
+		"denome" : "ENT BARRA DO ITARIRI (DIST CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 555,
+		"denome" : "ENT BARRA DO JACUÍPE (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 556,
+		"denome" : "ENT BARRA GRANDE (VERA CRUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 557,
+		"denome" : "ENT BARRA NOVA (POV GUARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 558,
+		"denome" : "ENT BARRINHA (POV CARINHANHA)"
+	},
+	{
+		"cdlinhalocalidade" : 559,
+		"denome" : "ENT BARRO BRANCO (PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 560,
+		"denome" : "ENT BARRO PRETO"
+	},
+	{
+		"cdlinhalocalidade" : 561,
+		"denome" : "ENT BATUQUE (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 562,
+		"denome" : "ENT BAZUA (POV SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 563,
+		"denome" : "ENT BELO CAMPO"
+	},
+	{
+		"cdlinhalocalidade" : 564,
+		"denome" : "ENT BOA NOVA"
+	},
+	{
+		"cdlinhalocalidade" : 565,
+		"denome" : "ENT BOA UNIÃO (DIST ALAGOINHAS)"
+	},
+	{
+		"cdlinhalocalidade" : 566,
+		"denome" : "ENT BOA VISTA DO TUPIM"
+	},
+	{
+		"cdlinhalocalidade" : 567,
+		"denome" : "ENT BOM DESPACHO"
+	},
+	{
+		"cdlinhalocalidade" : 569,
+		"denome" : "ENT BOQUEIRÃO  (POV JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 570,
+		"denome" : "ENTRONC BR030\/BA120"
+	},
+	{
+		"cdlinhalocalidade" : 571,
+		"denome" : "ENT BR101\/EST BARRA NOVA"
+	},
+	{
+		"cdlinhalocalidade" : 575,
+		"denome" : "ENTRONC BR242\/EST DUAS BARRAS"
+	},
+	{
+		"cdlinhalocalidade" : 577,
+		"denome" : "ENT BRAVO (DIST SERRA PRETA)"
+	},
+	{
+		"cdlinhalocalidade" : 579,
+		"denome" : "ENT BREJOLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 580,
+		"denome" : "ENT BROTAS DE MACAÚBAS"
+	},
+	{
+		"cdlinhalocalidade" : 581,
+		"denome" : "ENT CAATIBA"
+	},
+	{
+		"cdlinhalocalidade" : 582,
+		"denome" : "ENT CACHA PREGOS (DIST VERA CRUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 583,
+		"denome" : "ENT CACHOEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 584,
+		"denome" : "ENT CACHOEIRINHA (POV BOA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 585,
+		"denome" : "ENT CAÇÕES (POV JAGUARIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 586,
+		"denome" : "ENTRONC BR324\/BA131"
+	},
+	{
+		"cdlinhalocalidade" : 587,
+		"denome" : "ENT CAFARNAUM"
+	},
+	{
+		"cdlinhalocalidade" : 588,
+		"denome" : "ENT CAMACÃ"
+	},
+	{
+		"cdlinhalocalidade" : 589,
+		"denome" : "ENT CAMAÇARI"
+	},
+	{
+		"cdlinhalocalidade" : 590,
+		"denome" : "ENT CAMASSANDI (DIST JAGUARIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 591,
+		"denome" : "ENT CANDEIAS"
+	},
+	{
+		"cdlinhalocalidade" : 592,
+		"denome" : "ENT CAPANEMA (DIST MARAGOGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 593,
+		"denome" : "ENT CAPIANGA (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 594,
+		"denome" : "ENT CAPOEIRUÇU (POV CACHOEIRA)"
+	},
+	{
+		"cdlinhalocalidade" : 595,
+		"denome" : "ENT CARAÍBAS"
+	},
+	{
+		"cdlinhalocalidade" : 596,
+		"denome" : "ENT CARDEAL DA SILVA"
+	},
+	{
+		"cdlinhalocalidade" : 597,
+		"denome" : "ENT CASSILÂNDIA (POV ITAMBÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 598,
+		"denome" : "ENT CASTELO NOVO (DIST ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 599,
+		"denome" : "ENT CASTRO ALVES"
+	},
+	{
+		"cdlinhalocalidade" : 600,
+		"denome" : "ENT CATINGAL (DIST MANOEL VITORINO)"
+	},
+	{
+		"cdlinhalocalidade" : 601,
+		"denome" : "ENT CATU"
+	},
+	{
+		"cdlinhalocalidade" : 602,
+		"denome" : "ENT CEASA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 603,
+		"denome" : "ENT CHORROCHÓ"
+	},
+	{
+		"cdlinhalocalidade" : 604,
+		"denome" : "ENT COMANDATUBA (POV UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 605,
+		"denome" : "ENT CONCEIÇÃO DA FEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 606,
+		"denome" : "ENT CONCEIÇÃO DO ALMEIDA"
+	},
+	{
+		"cdlinhalocalidade" : 607,
+		"denome" : "ENT CONCEIÇÃO DO JACUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 608,
+		"denome" : "ENT CONDE"
+	},
+	{
+		"cdlinhalocalidade" : 610,
+		"denome" : "ENT CORDEIROS"
+	},
+	{
+		"cdlinhalocalidade" : 611,
+		"denome" : "ENT CRISÓPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 612,
+		"denome" : "ENT CRUZ DAS ALMAS"
+	},
+	{
+		"cdlinhalocalidade" : 613,
+		"denome" : "ENT DANTILÂNDIA (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 614,
+		"denome" : "ENT DE ICHU"
+	},
+	{
+		"cdlinhalocalidade" : 615,
+		"denome" : "ENT DE MATINHA (POV DE FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 617,
+		"denome" : "ENT DE TIQUARUÇU (DIST DE FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 618,
+		"denome" : "ENT DIAS D'ÁVILA"
+	},
+	{
+		"cdlinhalocalidade" : 619,
+		"denome" : "ENT DIST GAMELEIRA DA LAPA (SÍTIO DO MATO)"
+	},
+	{
+		"cdlinhalocalidade" : 620,
+		"denome" : "ENT DOM BASÍLIO"
+	},
+	{
+		"cdlinhalocalidade" : 621,
+		"denome" : "ENT DOM JOÃO (DIST SÃO FRANCISCO DO CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 622,
+		"denome" : "ENT DOM MACEDO COSTA"
+	},
+	{
+		"cdlinhalocalidade" : 623,
+		"denome" : "ENT DOS BORGES (MIGUEL CALMON)"
+	},
+	{
+		"cdlinhalocalidade" : 624,
+		"denome" : "ENT DUAS BARRAS (POV MORRO DO CHAPÉU)"
+	},
+	{
+		"cdlinhalocalidade" : 625,
+		"denome" : "ENT DUQUE DE CAXIAS (POV TEIXEIRA DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 626,
+		"denome" : "ENT ELÍSIO MEDRADO"
+	},
+	{
+		"cdlinhalocalidade" : 627,
+		"denome" : "ENT ENCARNAÇÃO (POV SALINAS DA MARGARIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 628,
+		"denome" : "ENT ESPLANADA"
+	},
+	{
+		"cdlinhalocalidade" : 629,
+		"denome" : "ENT FÁBRICA MONSANTO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 630,
+		"denome" : "ENT FAZ SANTO AMARO (ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 631,
+		"denome" : "ENT FAZ BEBEDOURO (CONCEIÇÃO DO ALMEIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 632,
+		"denome" : "ENT FAZ SÃO JOSÉ (CONCEIÇÃO DO ALMEIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 633,
+		"denome" : "ENT FEIRA NOVA (POV BROTAS DE MACAÚBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 634,
+		"denome" : "ENT FLORESTAL (DIST JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 635,
+		"denome" : "ENT FRANÇA (POV PIRITIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 636,
+		"denome" : "ENT GAMELEIRA DA LAPA (DIST SÍTIO DO MATO)"
+	},
+	{
+		"cdlinhalocalidade" : 637,
+		"denome" : "ENT GAROBA (IRARÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 638,
+		"denome" : "ENT GEOLÂNDIA (DIST CABACEIRAS DO PARAGUAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 639,
+		"denome" : "ENT GLÓRIA"
+	},
+	{
+		"cdlinhalocalidade" : 640,
+		"denome" : "ENT GOIABEIRA (POV CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 642,
+		"denome" : "ENT GUAIBIM (DIST VALENÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 643,
+		"denome" : "ENT GUAIBIM (POV VALENÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 644,
+		"denome" : "ENT GUAPIRA  (DIST MARAGOGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 645,
+		"denome" : "ENT HELIÓPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 646,
+		"denome" : "ENT HUMILDES (DIST FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 647,
+		"denome" : "ENT IAÇU"
+	},
+	{
+		"cdlinhalocalidade" : 648,
+		"denome" : "ENT IBIQUERA"
+	},
+	{
+		"cdlinhalocalidade" : 649,
+		"denome" : "ENT IBIRAPITANGA"
+	},
+	{
+		"cdlinhalocalidade" : 650,
+		"denome" : "ENT IBIRATAIA"
+	},
+	{
+		"cdlinhalocalidade" : 651,
+		"denome" : "ENT IBITIARA"
+	},
+	{
+		"cdlinhalocalidade" : 652,
+		"denome" : "ENT IBÓ (POV ABARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 653,
+		"denome" : "ENT ICHU"
+	},
+	{
+		"cdlinhalocalidade" : 654,
+		"denome" : "ENT ILHA DE SÃO JOÃO"
+	},
+	{
+		"cdlinhalocalidade" : 656,
+		"denome" : "ENT INÚBIA (DIST PIATÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 657,
+		"denome" : "ENT IPUÇABA (DIST OLIVEIRA DOS BREJINHOS)"
+	},
+	{
+		"cdlinhalocalidade" : 658,
+		"denome" : "ENT IRAJUBA"
+	},
+	{
+		"cdlinhalocalidade" : 659,
+		"denome" : "ENT IRAMAIA"
+	},
+	{
+		"cdlinhalocalidade" : 660,
+		"denome" : "ENT IRAQUARA"
+	},
+	{
+		"cdlinhalocalidade" : 661,
+		"denome" : "ENT IRECÊ"
+	},
+	{
+		"cdlinhalocalidade" : 662,
+		"denome" : "ENT ITAGIMIRIM"
+	},
+	{
+		"cdlinhalocalidade" : 663,
+		"denome" : "ENT ITAGUAÇU DA BAHIA"
+	},
+	{
+		"cdlinhalocalidade" : 664,
+		"denome" : "ENT ITAIMBÉ  (POV POTIRAGUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 665,
+		"denome" : "ENT ITAJÚ DO COLÔNIA"
+	},
+	{
+		"cdlinhalocalidade" : 666,
+		"denome" : "ENT ITAJUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 667,
+		"denome" : "ENT ITAMBÉ"
+	},
+	{
+		"cdlinhalocalidade" : 668,
+		"denome" : "ENT ITAPARICA"
+	},
+	{
+		"cdlinhalocalidade" : 669,
+		"denome" : "ENT ITAPARICA \/ VERA CRUZ"
+	},
+	{
+		"cdlinhalocalidade" : 670,
+		"denome" : "ENT ITAPÉ"
+	},
+	{
+		"cdlinhalocalidade" : 671,
+		"denome" : "ENT ITAPEBI"
+	},
+	{
+		"cdlinhalocalidade" : 672,
+		"denome" : "ENT ITAPETINGUI (POV AMÉLIA RODRIGUES)"
+	},
+	{
+		"cdlinhalocalidade" : 673,
+		"denome" : "ENT ITAPITANGA"
+	},
+	{
+		"cdlinhalocalidade" : 674,
+		"denome" : "ENT ITAQUARA"
+	},
+	{
+		"cdlinhalocalidade" : 675,
+		"denome" : "ENT IUIÚ"
+	},
+	{
+		"cdlinhalocalidade" : 677,
+		"denome" : "ENT JAGUAQUARA"
+	},
+	{
+		"cdlinhalocalidade" : 678,
+		"denome" : "ENT JAGUARIPE"
+	},
+	{
+		"cdlinhalocalidade" : 679,
+		"denome" : "ENT JAÍBA (DIST FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 680,
+		"denome" : "ENT JANDAÍRA"
+	},
+	{
+		"cdlinhalocalidade" : 681,
+		"denome" : "ENT JAUÁ (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 682,
+		"denome" : "ENT JIRIBATUBA (DIST VERA CRUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 683,
+		"denome" : "ENT JUVENÍLIA (MINAS GERAIS)"
+	},
+	{
+		"cdlinhalocalidade" : 684,
+		"denome" : "ENT KM18"
+	},
+	{
+		"cdlinhalocalidade" : 685,
+		"denome" : "ENT LAÇOS (POV TANHAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 686,
+		"denome" : "ENT LAGOA REDONDA (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 688,
+		"denome" : "ENT LAJEDINHO"
+	},
+	{
+		"cdlinhalocalidade" : 689,
+		"denome" : "ENT LAMARÃO"
+	},
+	{
+		"cdlinhalocalidade" : 690,
+		"denome" : "ENT LAMARÃO DO PASSÉ (DIST SÃO SEBASTIÃO DO PASSÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 691,
+		"denome" : "ENT LENÇÓIS"
+	},
+	{
+		"cdlinhalocalidade" : 692,
+		"denome" : "ENT LIMEIRA (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 693,
+		"denome" : "ENT LUSTOSA (DIST TEODORO SAMPAIO)"
+	},
+	{
+		"cdlinhalocalidade" : 694,
+		"denome" : "ENT MACARANI"
+	},
+	{
+		"cdlinhalocalidade" : 695,
+		"denome" : "ENT MAIQUINIQUE"
+	},
+	{
+		"cdlinhalocalidade" : 696,
+		"denome" : "ENT MARAÚ \/ BR030"
+	},
+	{
+		"cdlinhalocalidade" : 697,
+		"denome" : "ENT MARCIONÍLIO SOUZA"
+	},
+	{
+		"cdlinhalocalidade" : 698,
+		"denome" : "ENT MATA DE SÃO JOÃO"
+	},
+	{
+		"cdlinhalocalidade" : 699,
+		"denome" : "ENT MATINHA (POV FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 700,
+		"denome" : "ENT MERCÊS (POV SÃO GONÇALO DOS CAMPOS)"
+	},
+	{
+		"cdlinhalocalidade" : 702,
+		"denome" : "ENT MIRANGA (DIST POJUCA)"
+	},
+	{
+		"cdlinhalocalidade" : 703,
+		"denome" : "ENT MIRANGABA"
+	},
+	{
+		"cdlinhalocalidade" : 704,
+		"denome" : "ENT MONTE ALEGRE (POV GUARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 705,
+		"denome" : "ENT MONTE GORDO (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 706,
+		"denome" : "ENT MONTE PASCOAL (POV ITABELA)"
+	},
+	{
+		"cdlinhalocalidade" : 707,
+		"denome" : "ENT MUCUGÊ"
+	},
+	{
+		"cdlinhalocalidade" : 708,
+		"denome" : "ENT MUCURI"
+	},
+	{
+		"cdlinhalocalidade" : 709,
+		"denome" : "ENT MUNDO NOVO"
+	},
+	{
+		"cdlinhalocalidade" : 710,
+		"denome" : "ENT MUNIZ FERREIRA"
+	},
+	{
+		"cdlinhalocalidade" : 711,
+		"denome" : "ENT MUQUÉM DO SÃO FRANCISCO"
+	},
+	{
+		"cdlinhalocalidade" : 712,
+		"denome" : "ENT MURITIBA"
+	},
+	{
+		"cdlinhalocalidade" : 713,
+		"denome" : "ENT MUTÁ (POV JAGUARIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 714,
+		"denome" : "ENT NAGÉ (DIST MARAGOGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 715,
+		"denome" : "ENT NAZARÉ DO JACUÍPE (DIST SÃO SEBASTIÃO DO PASSÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 716,
+		"denome" : "ENT NOVA AMÉRICA (FAZ POTIRAGUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 717,
+		"denome" : "ENT NOVA LÍDICE (DIST MEDEIROS NETO)"
+	},
+	{
+		"cdlinhalocalidade" : 718,
+		"denome" : "ENT NOVA VIÇOSA"
+	},
+	{
+		"cdlinhalocalidade" : 719,
+		"denome" : "ENT NOVO TRIUNFO"
+	},
+	{
+		"cdlinhalocalidade" : 720,
+		"denome" : "ENT NÚCLEO JK (POV MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 721,
+		"denome" : "ENT OLIVEIRA DOS BREJINHOS"
+	},
+	{
+		"cdlinhalocalidade" : 722,
+		"denome" : "ENT PAIAIÁ (POV SANTO ESTEVÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 723,
+		"denome" : "ENT PAJEÚ DO VENTO (DIST CAETITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 724,
+		"denome" : "ENT PALAME (DIST ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 725,
+		"denome" : "ENT PALMARES (POV ITAPETINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 726,
+		"denome" : "ENT PALMEIRAS"
+	},
+	{
+		"cdlinhalocalidade" : 727,
+		"denome" : "ENT PALMEIRINHA (POV AIQUARA)"
+	},
+	{
+		"cdlinhalocalidade" : 728,
+		"denome" : "ENT PASSAGEM DOS TEIXEIRAS (POV CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 729,
+		"denome" : "ENT PÉ DE SERRA"
+	},
+	{
+		"cdlinhalocalidade" : 730,
+		"denome" : "ENT PEDRA BRANCA (POV CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 731,
+		"denome" : "ENT PEDRÃO"
+	},
+	{
+		"cdlinhalocalidade" : 732,
+		"denome" : "ENT PEDREIRA CARANGI (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 733,
+		"denome" : "ENT PILÕES (DIST CANDIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 734,
+		"denome" : "ENT PIRAJÁ (POV ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 735,
+		"denome" : "ENT PIRITIBA"
+	},
+	{
+		"cdlinhalocalidade" : 736,
+		"denome" : "ENT PITANGUINHA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 737,
+		"denome" : "ENT POCINHOS (FAZ SÁTIRO DIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 738,
+		"denome" : "ENT POÇO CENTRAL (DIST AURELINO LEAL)"
+	},
+	{
+		"cdlinhalocalidade" : 739,
+		"denome" : "ENT POJUCA"
+	},
+	{
+		"cdlinhalocalidade" : 740,
+		"denome" : "ENT PONTA DE AREIA (DIST CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 741,
+		"denome" : "ENT PONTO NOVO"
+	},
+	{
+		"cdlinhalocalidade" : 742,
+		"denome" : "ENT PORTO NOVO (DIST SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 743,
+		"denome" : "ENT PORTO SAUÍPE (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 744,
+		"denome" : "ENT POSTO DA MATA (DIST NOVA VIÇOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 745,
+		"denome" : "ENT POV LAGOA REDONDA (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 746,
+		"denome" : "ENT PRADO"
+	},
+	{
+		"cdlinhalocalidade" : 747,
+		"denome" : "ENT PRAIA DO FORTE (POV MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 748,
+		"denome" : "ENT PRESIDENTE DUTRA"
+	},
+	{
+		"cdlinhalocalidade" : 749,
+		"denome" : "ENT PRESIDENTE JÂNIO QUADROS"
+	},
+	{
+		"cdlinhalocalidade" : 750,
+		"denome" : "ENT QUIXABEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 751,
+		"denome" : "ENT REDENÇÃO"
+	},
+	{
+		"cdlinhalocalidade" : 752,
+		"denome" : "ENT RETIRO (DIST CORAÇÃO DE MARIA)"
+	},
+	{
+		"cdlinhalocalidade" : 753,
+		"denome" : "ENT RETIRO (FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 754,
+		"denome" : "ENT SALINAS DA MARGARIDA"
+	},
+	{
+		"cdlinhalocalidade" : 755,
+		"denome" : "ENT SANTA BRÍGIDA"
+	},
+	{
+		"cdlinhalocalidade" : 756,
+		"denome" : "ENT SANTA CRUZ DA VITÓRIA"
+	},
+	{
+		"cdlinhalocalidade" : 757,
+		"denome" : "ENT SANTA INÊS"
+	},
+	{
+		"cdlinhalocalidade" : 758,
+		"denome" : "ENT SANTA INÊS (KM85)"
+	},
+	{
+		"cdlinhalocalidade" : 759,
+		"denome" : "ENT SANTA MARIA ETERNA (POV BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 760,
+		"denome" : "ENT SANTANÓPOLIS (BA504 \/ BR116)"
+	},
+	{
+		"cdlinhalocalidade" : 761,
+		"denome" : "ENT SANTO AMARO"
+	},
+	{
+		"cdlinhalocalidade" : 762,
+		"denome" : "ENT SANTO AMARO (FAZ ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 763,
+		"denome" : "ENT SANTO ANTÔNIO (POV IRARÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 764,
+		"denome" : "ENT SANTO ANTÔNIO (POV TEIXEIRA DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 765,
+		"denome" : "ENT SANTO ANTÔNIO DE JESUS"
+	},
+	{
+		"cdlinhalocalidade" : 766,
+		"denome" : "ENT SANTO ESTEVÃO"
+	},
+	{
+		"cdlinhalocalidade" : 767,
+		"denome" : "ENT SANTO ESTEVÃO (POV SÃO FRANCISCO DO CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 768,
+		"denome" : "ENT SÃO GABRIEL"
+	},
+	{
+		"cdlinhalocalidade" : 769,
+		"denome" : "ENT SÃO GONÇALO DOS CAMPOS"
+	},
+	{
+		"cdlinhalocalidade" : 770,
+		"denome" : "ENT SÃO JOSÉ (DIST FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 771,
+		"denome" : "ENT SÃO JOSÉ AVENA (POV ITANAGRA)"
+	},
+	{
+		"cdlinhalocalidade" : 772,
+		"denome" : "ENT SÃO JOSÉ DE ITAPORÃ (DIST MURITIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 773,
+		"denome" : "ENT SÃO JOSÉ DO PRADO (POV VEREDA)"
+	},
+	{
+		"cdlinhalocalidade" : 774,
+		"denome" : "ENT SÃO MIGUEL DAS MATAS"
+	},
+	{
+		"cdlinhalocalidade" : 775,
+		"denome" : "ENT SÃO PEDRO (DIST SANTA MARIA DA VITÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 776,
+		"denome" : "ENT SÃO ROQUE"
+	},
+	{
+		"cdlinhalocalidade" : 777,
+		"denome" : "ENT SÃO SEBASTIÃO DO PASSÉ"
+	},
+	{
+		"cdlinhalocalidade" : 778,
+		"denome" : "ENT SÃO VICENTE (POV FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 780,
+		"denome" : "ENT SÁTIRO DIAS"
+	},
+	{
+		"cdlinhalocalidade" : 781,
+		"denome" : "ENT SAUÍPE (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 782,
+		"denome" : "ENT SERRA DO APORÁ (APORÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 783,
+		"denome" : "ENT SERRA PRETA"
+	},
+	{
+		"cdlinhalocalidade" : 784,
+		"denome" : "ENT SERROLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 785,
+		"denome" : "ENT SILVÂNIA (POV CORRENTINA)"
+	},
+	{
+		"cdlinhalocalidade" : 786,
+		"denome" : "ENT SIMÕES FILHO"
+	},
+	{
+		"cdlinhalocalidade" : 787,
+		"denome" : "ENT SÍTIO DO MEIO (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 788,
+		"denome" : "ENT SÍTIO DO QUINTO"
+	},
+	{
+		"cdlinhalocalidade" : 789,
+		"denome" : "ENT SÍTIO NOVO (DIST CATU)"
+	},
+	{
+		"cdlinhalocalidade" : 790,
+		"denome" : "ENT SOBRADINHO"
+	},
+	{
+		"cdlinhalocalidade" : 791,
+		"denome" : "ENT SUBAÚMA (DIST ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 792,
+		"denome" : "ENT SUMARÉ (POV PIRITIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 793,
+		"denome" : "ENT SUSSUARANA (POV TANHAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 794,
+		"denome" : "ENT TABOCAS DO BREJO VELHO"
+	},
+	{
+		"cdlinhalocalidade" : 795,
+		"denome" : "ENT TABOQUINHAS (DIST ITACARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 796,
+		"denome" : "ENT TANHAÇU"
+	},
+	{
+		"cdlinhalocalidade" : 798,
+		"denome" : "ENT TANQUINHO (DIST FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 800,
+		"denome" : "ENT TEIXEIRA DE FREITAS"
+	},
+	{
+		"cdlinhalocalidade" : 801,
+		"denome" : "ENT TEOFILÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 802,
+		"denome" : "ENT TIQUARUÇU (DIST FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 803,
+		"denome" : "ENT TORORÓ"
+	},
+	{
+		"cdlinhalocalidade" : 804,
+		"denome" : "ENT TREMEDAL"
+	},
+	{
+		"cdlinhalocalidade" : 805,
+		"denome" : "ENT URUÇUCA"
+	},
+	{
+		"cdlinhalocalidade" : 806,
+		"denome" : "ENT VALENÇA"
+	},
+	{
+		"cdlinhalocalidade" : 807,
+		"denome" : "ENT VENTANIA (POV ITAPEBI)"
+	},
+	{
+		"cdlinhalocalidade" : 808,
+		"denome" : "ENT VEREDINHA (DIST VITÓRIA DA CONQUISTA"
+	},
+	{
+		"cdlinhalocalidade" : 809,
+		"denome" : "ENT VIDA NOVA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 810,
+		"denome" : "ENT VILA NOVA (BIRITINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 811,
+		"denome" : "ENT VILA PEREIRA (GUARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 812,
+		"denome" : "ENT VILAS DO ATLÂNTICO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 814,
+		"denome" : "ENT ZUCA (POV BOA VISTA DO TUPIM)"
+	},
+	{
+		"cdlinhalocalidade" : 815,
+		"denome" : "ENTRE RIOS"
+	},
+	{
+		"cdlinhalocalidade" : 816,
+		"denome" : "ENTRONC BA001\/BA570"
+	},
+	{
+		"cdlinhalocalidade" : 817,
+		"denome" : "ENTRONC BA001\/BR030"
+	},
+	{
+		"cdlinhalocalidade" : 818,
+		"denome" : "ENTRONC BA052\/BA424"
+	},
+	{
+		"cdlinhalocalidade" : 819,
+		"denome" : "ENTRONC BA052\/BR122"
+	},
+	{
+		"cdlinhalocalidade" : 820,
+		"denome" : "ENTRONC BA093\/BR101"
+	},
+	{
+		"cdlinhalocalidade" : 821,
+		"denome" : "ENTRONC BA093\/BR324"
+	},
+	{
+		"cdlinhalocalidade" : 822,
+		"denome" : "ENTRONC BA110\/BR101"
+	},
+	{
+		"cdlinhalocalidade" : 823,
+		"denome" : "ENTRONC BA130\/BA670"
+	},
+	{
+		"cdlinhalocalidade" : 824,
+		"denome" : "ENTRONC BA148\/BR242"
+	},
+	{
+		"cdlinhalocalidade" : 825,
+		"denome" : "ENTRONC BA156\/BR242"
+	},
+	{
+		"cdlinhalocalidade" : 826,
+		"denome" : "ENTRONC BA233\/BR110"
+	},
+	{
+		"cdlinhalocalidade" : 827,
+		"denome" : "ENTRONC BA263\/BA265"
+	},
+	{
+		"cdlinhalocalidade" : 828,
+		"denome" : "ENTRONC BA396\/BR101"
+	},
+	{
+		"cdlinhalocalidade" : 829,
+		"denome" : "ENTRONC BA522\/BA523"
+	},
+	{
+		"cdlinhalocalidade" : 830,
+		"denome" : "ENTRONC BA522\/BR324"
+	},
+	{
+		"cdlinhalocalidade" : 831,
+		"denome" : "ENTRONC BA534\/BA001"
+	},
+	{
+		"cdlinhalocalidade" : 832,
+		"denome" : "ENTRONC BA647\/BR330"
+	},
+	{
+		"cdlinhalocalidade" : 833,
+		"denome" : "ENTRONC BA882\/BA001"
+	},
+	{
+		"cdlinhalocalidade" : 834,
+		"denome" : "ENTRONC BR030\/BA936"
+	},
+	{
+		"cdlinhalocalidade" : 835,
+		"denome" : "ENTRONC BR101\/BA022"
+	},
+	{
+		"cdlinhalocalidade" : 836,
+		"denome" : "ENTRONC BR101\/BA233"
+	},
+	{
+		"cdlinhalocalidade" : 837,
+		"denome" : "ENTRONC BR101\/BA670"
+	},
+	{
+		"cdlinhalocalidade" : 838,
+		"denome" : "ENTRONC BR101\/BA683"
+	},
+	{
+		"cdlinhalocalidade" : 839,
+		"denome" : "ENTRONC BR101\/BR110"
+	},
+	{
+		"cdlinhalocalidade" : 840,
+		"denome" : "ENTRONC BR101\/BR324"
+	},
+	{
+		"cdlinhalocalidade" : 841,
+		"denome" : "ENTRONC BR101\/BR330"
+	},
+	{
+		"cdlinhalocalidade" : 842,
+		"denome" : "ENTRONC BR101\/BR420"
+	},
+	{
+		"cdlinhalocalidade" : 843,
+		"denome" : "ENTRONC BR110\/BR101"
+	},
+	{
+		"cdlinhalocalidade" : 844,
+		"denome" : "ENTRONC BR110\/BR324"
+	},
+	{
+		"cdlinhalocalidade" : 845,
+		"denome" : "ENTRONC BR116\/BA210"
+	},
+	{
+		"cdlinhalocalidade" : 846,
+		"denome" : "ENTRONC BR116\/BA245"
+	},
+	{
+		"cdlinhalocalidade" : 847,
+		"denome" : "ENTRONC BR116\/BR242"
+	},
+	{
+		"cdlinhalocalidade" : 848,
+		"denome" : "ENTRONC BR116\/BR324"
+	},
+	{
+		"cdlinhalocalidade" : 849,
+		"denome" : "ENTRONC BR122\/BR242"
+	},
+	{
+		"cdlinhalocalidade" : 850,
+		"denome" : "ENTRONC BR135\/BA451"
+	},
+	{
+		"cdlinhalocalidade" : 851,
+		"denome" : "ENTRONC BR166\/BR324"
+	},
+	{
+		"cdlinhalocalidade" : 852,
+		"denome" : "ENTRONC BR242\/BA156"
+	},
+	{
+		"cdlinhalocalidade" : 853,
+		"denome" : "ENTRONC BR242\/BA161"
+	},
+	{
+		"cdlinhalocalidade" : 854,
+		"denome" : "ENTRONC BR242\/BR122"
+	},
+	{
+		"cdlinhalocalidade" : 855,
+		"denome" : "ENTRONC BR251\/BR101"
+	},
+	{
+		"cdlinhalocalidade" : 856,
+		"denome" : "ENTRONC BR324\/BA093"
+	},
+	{
+		"cdlinhalocalidade" : 857,
+		"denome" : "ENTRONC BR324\/BR101"
+	},
+	{
+		"cdlinhalocalidade" : 858,
+		"denome" : "ENTRONC BR324\/BR220"
+	},
+	{
+		"cdlinhalocalidade" : 859,
+		"denome" : "ENTRONC BR330\/BA026"
+	},
+	{
+		"cdlinhalocalidade" : 860,
+		"denome" : "ENTRONC BR330\/BA130"
+	},
+	{
+		"cdlinhalocalidade" : 861,
+		"denome" : "ENTRONC BR349\/BA161"
+	},
+	{
+		"cdlinhalocalidade" : 862,
+		"denome" : "ENTRONC SÁTIRO DIAS"
+	},
+	{
+		"cdlinhalocalidade" : 863,
+		"denome" : "ÉRICO CARDOSO"
+	},
+	{
+		"cdlinhalocalidade" : 864,
+		"denome" : "ESCOLA (PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 865,
+		"denome" : "ESPANTA GADO (POV QUEIMADAS)"
+	},
+	{
+		"cdlinhalocalidade" : 866,
+		"denome" : "ESPLANADA"
+	},
+	{
+		"cdlinhalocalidade" : 867,
+		"denome" : "ESPORA GATO (CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 868,
+		"denome" : "ESTAÇÃO DE TRANSBORDO DA RODOVIÁRIA DE SALVADOR"
+	},
+	{
+		"cdlinhalocalidade" : 869,
+		"denome" : "ESTAÇÃO PERNAMBUÉS (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 870,
+		"denome" : "ESTIVA (POV ITAPÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 871,
+		"denome" : "ESTIVA (POV RIACHO DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 872,
+		"denome" : "ESTIVA (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 873,
+		"denome" : "ESTRADA DE CANDEIAS (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 874,
+		"denome" : "ESTRADA DO COQUEIRO GRANDE (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 875,
+		"denome" : "ESTRADA DO TRABALHADOR (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 876,
+		"denome" : "ESTRADA PETROBRÁS (ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 877,
+		"denome" : "ESTRADA VELHA (BONFIM DE MATA)"
+	},
+	{
+		"cdlinhalocalidade" : 878,
+		"denome" : "ESTRADA VELHA AEROPORTO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 879,
+		"denome" : "ESTREITO (POV BARRA)"
+	},
+	{
+		"cdlinhalocalidade" : 880,
+		"denome" : "ESTREITO (POV URANDI)"
+	},
+	{
+		"cdlinhalocalidade" : 881,
+		"denome" : "EUCLIDES DA CUNHA"
+	},
+	{
+		"cdlinhalocalidade" : 882,
+		"denome" : "EUNÁPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 883,
+		"denome" : "EXPRAIADO (POV PALMAS DE MONTE ALEGRE)"
+	},
+	{
+		"cdlinhalocalidade" : 884,
+		"denome" : "FÁBRICA DA FORD (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 885,
+		"denome" : "FÁBRICA SUZANO (MUCURI)"
+	},
+	{
+		"cdlinhalocalidade" : 886,
+		"denome" : "FÁBRICA VERACEL (BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 887,
+		"denome" : "FAISQUEIRA (DIST UBAITABA)"
+	},
+	{
+		"cdlinhalocalidade" : 888,
+		"denome" : "FARMÁCIA (POV HELIÓPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 889,
+		"denome" : "FAROL (FAZ MUCURI)"
+	},
+	{
+		"cdlinhalocalidade" : 890,
+		"denome" : "FAROL DE ITAPUÃ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 891,
+		"denome" : "FÁTIMA"
+	},
+	{
+		"cdlinhalocalidade" : 892,
+		"denome" : "FAZ JACARÉ (RIBEIRÃO DO LARGO)"
+	},
+	{
+		"cdlinhalocalidade" : 893,
+		"denome" : "FAZ LAGOA (UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 894,
+		"denome" : "FAZENDA GRANDE III (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 895,
+		"denome" : "FEIRA DA MATA"
+	},
+	{
+		"cdlinhalocalidade" : 896,
+		"denome" : "FEIRA DE SANTANA"
+	},
+	{
+		"cdlinhalocalidade" : 897,
+		"denome" : "FEIRA DE SANTANA (CENTRO)"
+	},
+	{
+		"cdlinhalocalidade" : 898,
+		"denome" : "FEIRA DE SÃO JOAQUIM (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 899,
+		"denome" : "FEIRA NOVA (POV BROTAS DE MACAÚBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 900,
+		"denome" : "FERRADAS (DIST ITABUNA)"
+	},
+	{
+		"cdlinhalocalidade" : 901,
+		"denome" : "FILADÉLFIA"
+	},
+	{
+		"cdlinhalocalidade" : 902,
+		"denome" : "FIM DE LINHA DE JAUÁ (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 903,
+		"denome" : "FIM DE LINHA DE VILAS DO ATLÂNTICO - CLUBE (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 904,
+		"denome" : "FIRMINO ALVES"
+	},
+	{
+		"cdlinhalocalidade" : 905,
+		"denome" : "FIRMINO LEAL"
+	},
+	{
+		"cdlinhalocalidade" : 906,
+		"denome" : "FLAMENGO (POV JAGUARARI)"
+	},
+	{
+		"cdlinhalocalidade" : 907,
+		"denome" : "FLORESTA (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 908,
+		"denome" : "FLORESTA AZUL"
+	},
+	{
+		"cdlinhalocalidade" : 909,
+		"denome" : "FLORESTAL (DIST JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 910,
+		"denome" : "FORMOSA (POV MACURURÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 911,
+		"denome" : "FORMOSA DO RIO PRETO"
+	},
+	{
+		"cdlinhalocalidade" : 912,
+		"denome" : "FORNO (POV CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 913,
+		"denome" : "FORQUILHA (BURITIRAMA)"
+	},
+	{
+		"cdlinhalocalidade" : 914,
+		"denome" : "FRADES (JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 915,
+		"denome" : "FRANÇA (POV MIGUEL CALMON)"
+	},
+	{
+		"cdlinhalocalidade" : 916,
+		"denome" : "FRANCISCO SOUZA (POV CONTENDAS DO SINCORÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 917,
+		"denome" : "GAMELEIRA (DIST BARRO ALTO)"
+	},
+	{
+		"cdlinhalocalidade" : 918,
+		"denome" : "GAMELEIRA (POV ANGICAL)"
+	},
+	{
+		"cdlinhalocalidade" : 919,
+		"denome" : "GAMELEIRA (POV BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 920,
+		"denome" : "GAMELEIRA (POV SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 921,
+		"denome" : "GAMELEIRA (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 922,
+		"denome" : "GAMELEIRA (RIACHÃO DAS NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 923,
+		"denome" : "GAMELEIRA DA LAPA (DIST SÍTIO DO MATO)"
+	},
+	{
+		"cdlinhalocalidade" : 924,
+		"denome" : "GAMELEIRA DO ASSURUÁ (DIST GENTIO DO OURO)"
+	},
+	{
+		"cdlinhalocalidade" : 925,
+		"denome" : "GANDU"
+	},
+	{
+		"cdlinhalocalidade" : 926,
+		"denome" : "GARCIA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 927,
+		"denome" : "GASPARINO (POV CORONEL JOÃO SÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 928,
+		"denome" : "GAVIÃO"
+	},
+	{
+		"cdlinhalocalidade" : 929,
+		"denome" : "GENTIO DO OURO"
+	},
+	{
+		"cdlinhalocalidade" : 930,
+		"denome" : "GEOLÂNDIA (DIST CABACEIRAS DO PARAGUAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 931,
+		"denome" : "GERMANO (PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 932,
+		"denome" : "GLÓRIA"
+	},
+	{
+		"cdlinhalocalidade" : 933,
+		"denome" : "GÓES CALMON (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 934,
+		"denome" : "GOIABEIRA (POV CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 935,
+		"denome" : "GONGOGI"
+	},
+	{
+		"cdlinhalocalidade" : 936,
+		"denome" : "GONZAGA (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 937,
+		"denome" : "GOVERNADOR MANGABEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 938,
+		"denome" : "GUAIBIM (DIST VALENÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 939,
+		"denome" : "GUANAMBI"
+	},
+	{
+		"cdlinhalocalidade" : 940,
+		"denome" : "GUARAJUBA (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 941,
+		"denome" : "GUARAJUBA (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 942,
+		"denome" : "GUARANI (POV PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 943,
+		"denome" : "GUARATINGA"
+	},
+	{
+		"cdlinhalocalidade" : 944,
+		"denome" : "GURUPÁ MIRIM (DIST POTIRAGUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 945,
+		"denome" : "HAVAÍ (FAZ ITAPEBI)"
+	},
+	{
+		"cdlinhalocalidade" : 946,
+		"denome" : "HELIÓPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 947,
+		"denome" : "HELVÉCIA (POV NOVA VIÇOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 948,
+		"denome" : "HIDROLÂNDIA (DIST UIBAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 949,
+		"denome" : "HOSPITAL GERAL DE CAMAÇARI"
+	},
+	{
+		"cdlinhalocalidade" : 950,
+		"denome" : "HOSPITAL SARAH (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 951,
+		"denome" : "HUMILDES (DIST FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 952,
+		"denome" : "IAÇU"
+	},
+	{
+		"cdlinhalocalidade" : 953,
+		"denome" : "IBIAÇU (DIST MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 954,
+		"denome" : "IBIAJARA (DIST RIO DO PIRES)"
+	},
+	{
+		"cdlinhalocalidade" : 955,
+		"denome" : "IBIAPABA (MATINA)"
+	},
+	{
+		"cdlinhalocalidade" : 956,
+		"denome" : "IBIASSUCÊ"
+	},
+	{
+		"cdlinhalocalidade" : 957,
+		"denome" : "IBICARAÍ"
+	},
+	{
+		"cdlinhalocalidade" : 958,
+		"denome" : "IBICOARA"
+	},
+	{
+		"cdlinhalocalidade" : 959,
+		"denome" : "IBICUÍ"
+	},
+	{
+		"cdlinhalocalidade" : 960,
+		"denome" : "IBIPEBA"
+	},
+	{
+		"cdlinhalocalidade" : 961,
+		"denome" : "IBIPETUM (DIST IPUPIARA)"
+	},
+	{
+		"cdlinhalocalidade" : 962,
+		"denome" : "IBIPITANGA"
+	},
+	{
+		"cdlinhalocalidade" : 963,
+		"denome" : "IBIQUERA"
+	},
+	{
+		"cdlinhalocalidade" : 964,
+		"denome" : "IBIRAPITANGA"
+	},
+	{
+		"cdlinhalocalidade" : 965,
+		"denome" : "IBIRAPOÃ"
+	},
+	{
+		"cdlinhalocalidade" : 966,
+		"denome" : "IBIRATAIA"
+	},
+	{
+		"cdlinhalocalidade" : 967,
+		"denome" : "IBITIARA"
+	},
+	{
+		"cdlinhalocalidade" : 968,
+		"denome" : "IBITIRA (DIST RIO DO ANTÔNIO)"
+	},
+	{
+		"cdlinhalocalidade" : 969,
+		"denome" : "IBITITÁ"
+	},
+	{
+		"cdlinhalocalidade" : 970,
+		"denome" : "IBITUNANE (DIST GENTIO DO OURO)"
+	},
+	{
+		"cdlinhalocalidade" : 971,
+		"denome" : "IBITUPÃ (DIST IBICUÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 972,
+		"denome" : "IBÓ (POV ABARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 973,
+		"denome" : "IBOTIRAMA"
+	},
+	{
+		"cdlinhalocalidade" : 974,
+		"denome" : "ICHU"
+	},
+	{
+		"cdlinhalocalidade" : 975,
+		"denome" : "ICÓ (DIST MORRO DO CHAPÉU)"
+	},
+	{
+		"cdlinhalocalidade" : 976,
+		"denome" : "ICOZEIRA (FAZ JEREMOABO)"
+	},
+	{
+		"cdlinhalocalidade" : 977,
+		"denome" : "IGAPORÃ"
+	},
+	{
+		"cdlinhalocalidade" : 978,
+		"denome" : "IGARA (DIST SENHOR DO BONFIM)"
+	},
+	{
+		"cdlinhalocalidade" : 979,
+		"denome" : "IGARITÉ (DIST BARRA)"
+	},
+	{
+		"cdlinhalocalidade" : 980,
+		"denome" : "IGRAPIÚNA"
+	},
+	{
+		"cdlinhalocalidade" : 981,
+		"denome" : "IGREJA DE BOA VIAGEM (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 982,
+		"denome" : "IGREJA VELHA (VALENÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 983,
+		"denome" : "IGREJINHA (CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 984,
+		"denome" : "IGUÁ (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 985,
+		"denome" : "IGUAÍ"
+	},
+	{
+		"cdlinhalocalidade" : 986,
+		"denome" : "ILHA (ANTÔNIO CARDOSO)"
+	},
+	{
+		"cdlinhalocalidade" : 987,
+		"denome" : "ILHA (POV CÍCERO DANTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 988,
+		"denome" : "ILHA DE SÃO JOÃO (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 989,
+		"denome" : "ILHÉUS"
+	},
+	{
+		"cdlinhalocalidade" : 990,
+		"denome" : "ILHÉUS (CENTRO)"
+	},
+	{
+		"cdlinhalocalidade" : 991,
+		"denome" : "ILHÉUS (TERMINAL URBANO)"
+	},
+	{
+		"cdlinhalocalidade" : 992,
+		"denome" : "IMBASSAÍ (POV MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 993,
+		"denome" : "INEMA (DIST ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 994,
+		"denome" : "INHAMBUPE"
+	},
+	{
+		"cdlinhalocalidade" : 995,
+		"denome" : "INHAÚMAS (POV SANTA MARIA DA VITÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 996,
+		"denome" : "INHOBIM (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 997,
+		"denome" : "IPANEMA (POV AMÉRICA DOURADA)"
+	},
+	{
+		"cdlinhalocalidade" : 998,
+		"denome" : "IPECAETÁ"
+	},
+	{
+		"cdlinhalocalidade" : 999,
+		"denome" : "IPIAÚ"
+	},
+	{
+		"cdlinhalocalidade" : 1000,
+		"denome" : "IPIRÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1001,
+		"denome" : "IPIRAÍ (POV CAPELA DO ALTO ALEGRE)"
+	},
+	{
+		"cdlinhalocalidade" : 1002,
+		"denome" : "IPUPIARA"
+	},
+	{
+		"cdlinhalocalidade" : 1003,
+		"denome" : "IRAJUBA"
+	},
+	{
+		"cdlinhalocalidade" : 1004,
+		"denome" : "IRAMAIA"
+	},
+	{
+		"cdlinhalocalidade" : 1005,
+		"denome" : "IRAQUARA"
+	},
+	{
+		"cdlinhalocalidade" : 1006,
+		"denome" : "IRARÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1007,
+		"denome" : "IRECÊ"
+	},
+	{
+		"cdlinhalocalidade" : 1008,
+		"denome" : "IRECEZINHO (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1009,
+		"denome" : "ÍSTICA (ERA NOVA POV CANAVIEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1010,
+		"denome" : "ITABATÃ (DIST MUCURI)"
+	},
+	{
+		"cdlinhalocalidade" : 1011,
+		"denome" : "ITABELA"
+	},
+	{
+		"cdlinhalocalidade" : 1012,
+		"denome" : "ITABERABA"
+	},
+	{
+		"cdlinhalocalidade" : 1013,
+		"denome" : "ITABUNA"
+	},
+	{
+		"cdlinhalocalidade" : 1014,
+		"denome" : "ITABUNA (CENTRO COMERCIAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1015,
+		"denome" : "ITACARÉ"
+	},
+	{
+		"cdlinhalocalidade" : 1016,
+		"denome" : "ITAETÊ"
+	},
+	{
+		"cdlinhalocalidade" : 1017,
+		"denome" : "ITAGI"
+	},
+	{
+		"cdlinhalocalidade" : 1018,
+		"denome" : "ITAGIBÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1019,
+		"denome" : "ITAGIMIRIM"
+	},
+	{
+		"cdlinhalocalidade" : 1020,
+		"denome" : "ITAGUAÇU DA BAHIA"
+	},
+	{
+		"cdlinhalocalidade" : 1021,
+		"denome" : "ITAIÁ (DIST FIRMINO ALVES)"
+	},
+	{
+		"cdlinhalocalidade" : 1022,
+		"denome" : "ITAIBA (POV ITABERABA)"
+	},
+	{
+		"cdlinhalocalidade" : 1023,
+		"denome" : "ITAIBÓ (DIST JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1024,
+		"denome" : "ITAIGARA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1025,
+		"denome" : "ITAIMBÉ (POV POTIRAGUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1026,
+		"denome" : "ITAJAÍ (DIST NOVA CANAÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1027,
+		"denome" : "ITAJU DO COLÔNIA"
+	},
+	{
+		"cdlinhalocalidade" : 1028,
+		"denome" : "ITAJUBAQUARA (DIST GENTIO DO OURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1029,
+		"denome" : "ITAJUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 1030,
+		"denome" : "ITAJURU (DIST JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1031,
+		"denome" : "ITAMARAJU"
+	},
+	{
+		"cdlinhalocalidade" : 1032,
+		"denome" : "ITAMARATI (POV IBIRAPITANGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1033,
+		"denome" : "ITAMARI"
+	},
+	{
+		"cdlinhalocalidade" : 1034,
+		"denome" : "ITAMBÉ"
+	},
+	{
+		"cdlinhalocalidade" : 1036,
+		"denome" : "ITAMIRA (DIST APORÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1037,
+		"denome" : "ITAMOTINGA (DIST COARACI)"
+	},
+	{
+		"cdlinhalocalidade" : 1038,
+		"denome" : "ITANAGÉ (DIST LIVRAMENTO DE NOSSA SENHORA)"
+	},
+	{
+		"cdlinhalocalidade" : 1039,
+		"denome" : "ITANAGRA"
+	},
+	{
+		"cdlinhalocalidade" : 1040,
+		"denome" : "ITANHÉM"
+	},
+	{
+		"cdlinhalocalidade" : 1041,
+		"denome" : "ITANHI (DIST JANDAÍRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1042,
+		"denome" : "ITAPARICA (POV GLÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1044,
+		"denome" : "ITAPÉ"
+	},
+	{
+		"cdlinhalocalidade" : 1045,
+		"denome" : "ITAPEBI"
+	},
+	{
+		"cdlinhalocalidade" : 1046,
+		"denome" : "ITAPEMA (POV SANTO AMARO)"
+	},
+	{
+		"cdlinhalocalidade" : 1047,
+		"denome" : "ITAPETINGA"
+	},
+	{
+		"cdlinhalocalidade" : 1048,
+		"denome" : "ITAPICURU"
+	},
+	{
+		"cdlinhalocalidade" : 1049,
+		"denome" : "ITAPITANGA"
+	},
+	{
+		"cdlinhalocalidade" : 1050,
+		"denome" : "ITAPUÃ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1051,
+		"denome" : "ITAQUARA"
+	},
+	{
+		"cdlinhalocalidade" : 1052,
+		"denome" : "ITARANTIM"
+	},
+	{
+		"cdlinhalocalidade" : 1053,
+		"denome" : "ITARIRI (ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1054,
+		"denome" : "ITATI (DIST ITORORÓ)"
+	},
+	{
+		"cdlinhalocalidade" : 1055,
+		"denome" : "ITATIAIA (DIST SÃO JOSÉ DO JACUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1056,
+		"denome" : "ITATIM"
+	},
+	{
+		"cdlinhalocalidade" : 1057,
+		"denome" : "ITATINGUI (DIST ARATACA)"
+	},
+	{
+		"cdlinhalocalidade" : 1058,
+		"denome" : "ITINGA - TERMINAL (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1059,
+		"denome" : "ITINGA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1060,
+		"denome" : "ITIQUIRA (POV SANTA RITA DE CÁSSIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1061,
+		"denome" : "ITIRUÇU"
+	},
+	{
+		"cdlinhalocalidade" : 1062,
+		"denome" : "ITIÚBA"
+	},
+	{
+		"cdlinhalocalidade" : 1063,
+		"denome" : "ITORORÓ"
+	},
+	{
+		"cdlinhalocalidade" : 1064,
+		"denome" : "ITUAÇU"
+	},
+	{
+		"cdlinhalocalidade" : 1065,
+		"denome" : "ITUBERÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1066,
+		"denome" : "IUIÚ"
+	},
+	{
+		"cdlinhalocalidade" : 1067,
+		"denome" : "JABORANDI"
+	},
+	{
+		"cdlinhalocalidade" : 1068,
+		"denome" : "JACARACI"
+	},
+	{
+		"cdlinhalocalidade" : 1069,
+		"denome" : "JACARÉ (POV SÃO GONÇALO DOS CAMPOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1070,
+		"denome" : "JACARECI (POV CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1071,
+		"denome" : "JACOBINA"
+	},
+	{
+		"cdlinhalocalidade" : 1072,
+		"denome" : "JACU (DIST TERRA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1073,
+		"denome" : "JAGUAQUARA"
+	},
+	{
+		"cdlinhalocalidade" : 1074,
+		"denome" : "JAGUARARI"
+	},
+	{
+		"cdlinhalocalidade" : 1075,
+		"denome" : "JAGUARIPE"
+	},
+	{
+		"cdlinhalocalidade" : 1076,
+		"denome" : "JAÍBA (DIST FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 1077,
+		"denome" : "JAMBEIRO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1078,
+		"denome" : "JANDAÍRA"
+	},
+	{
+		"cdlinhalocalidade" : 1079,
+		"denome" : "JAPU (POV ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1080,
+		"denome" : "JARDE (PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 1081,
+		"denome" : "JARDIM CAMPO VERDE (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1082,
+		"denome" : "JARDIM RENATÃO (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1083,
+		"denome" : "JATOBÁ (CAETITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1084,
+		"denome" : "JAUÁ (POV CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1085,
+		"denome" : "JAVI (POV MUQUÉM DO SÃO FRANCISCO)"
+	},
+	{
+		"cdlinhalocalidade" : 1086,
+		"denome" : "JAVI DE BIRITINGA (SÁTIRO DIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1087,
+		"denome" : "JENIPAPO (POV CASTRO ALVES)"
+	},
+	{
+		"cdlinhalocalidade" : 1088,
+		"denome" : "JENIPAPO (POV UBAÍRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1089,
+		"denome" : "JEQUIÉ"
+	},
+	{
+		"cdlinhalocalidade" : 1090,
+		"denome" : "JEQUITIBÁ (MUNDO NOVO)"
+	},
+	{
+		"cdlinhalocalidade" : 1091,
+		"denome" : "JEREMOABO"
+	},
+	{
+		"cdlinhalocalidade" : 1093,
+		"denome" : "JIBÓIA (POV CARAÍBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1094,
+		"denome" : "JIBÓIA (POV RETIROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1095,
+		"denome" : "JIQUIRIÇÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1096,
+		"denome" : "JIRIBATUBA (DIST VERA CRUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 1097,
+		"denome" : "JITAÚNA"
+	},
+	{
+		"cdlinhalocalidade" : 1098,
+		"denome" : "JOANICA (ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 1099,
+		"denome" : "JOÃO AMARO (DIST IAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 1100,
+		"denome" : "JOÃO BATISTA (LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1101,
+		"denome" : "JOÃO DOURADO"
+	},
+	{
+		"cdlinhalocalidade" : 1102,
+		"denome" : "JOÃO VAZ (POV RIO DE CONTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1103,
+		"denome" : "JÓIA DO ATLÂNTICO  (ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1104,
+		"denome" : "JORRINHO (POV TUCANO)"
+	},
+	{
+		"cdlinhalocalidade" : 1105,
+		"denome" : "JOSÉ GONÇALVES (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1106,
+		"denome" : "JOSÉ JACINTO (FAZ ITAMBÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1108,
+		"denome" : "JOSÉ SOARES (UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 1109,
+		"denome" : "JOSIAS (MEDEIROS NETO)"
+	},
+	{
+		"cdlinhalocalidade" : 1110,
+		"denome" : "JOVENTINO (PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 1111,
+		"denome" : "JUÁ (DIST BOM JESUS DA LAPA)"
+	},
+	{
+		"cdlinhalocalidade" : 1112,
+		"denome" : "JUÁ (POV JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1113,
+		"denome" : "JUACEMA (POV JAGUARARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1115,
+		"denome" : "JUAZEIRINHO (DIST CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1116,
+		"denome" : "JUAZEIRO"
+	},
+	{
+		"cdlinhalocalidade" : 1117,
+		"denome" : "JUAZEIRO (POV IBIRAPOÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1118,
+		"denome" : "JUCURUÇU"
+	},
+	{
+		"cdlinhalocalidade" : 1119,
+		"denome" : "JUERANA (DIST CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1120,
+		"denome" : "JUNCO (DIST JACOBINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1121,
+		"denome" : "JUREMAL (DIST JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1122,
+		"denome" : "JUSSARA"
+	},
+	{
+		"cdlinhalocalidade" : 1123,
+		"denome" : "JUSSARA (FAZ ARAÇÁS)"
+	},
+	{
+		"cdlinhalocalidade" : 1124,
+		"denome" : "JUSSARA (FAZ ITAMBÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1126,
+		"denome" : "JUSSARI"
+	},
+	{
+		"cdlinhalocalidade" : 1127,
+		"denome" : "JUSSIAPE"
+	},
+	{
+		"cdlinhalocalidade" : 1128,
+		"denome" : "KM 10 (TANQUINHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1129,
+		"denome" : "SERRANA (DIST BREJÕES)"
+	},
+	{
+		"cdlinhalocalidade" : 1130,
+		"denome" : "KM 20 (MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 1131,
+		"denome" : "KM 50 (POV SANTO ESTEVÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1132,
+		"denome" : "KM 86"
+	},
+	{
+		"cdlinhalocalidade" : 1133,
+		"denome" : "LA BOAVENTURA (CONTENDAS DO SINCORÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1134,
+		"denome" : "LAÇOS (POV TANHAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 1135,
+		"denome" : "LADEIRA DA ITINGA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1136,
+		"denome" : "LAFAIETE COUTINHO"
+	},
+	{
+		"cdlinhalocalidade" : 1137,
+		"denome" : "LAGOA (FAZ COARACI)"
+	},
+	{
+		"cdlinhalocalidade" : 1138,
+		"denome" : "LAGOA (POV ALAGOINHAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1139,
+		"denome" : "LAGOA BRANCA (POV INHAMBUPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1140,
+		"denome" : "LAGOA D´ÁGUA (DIST ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1141,
+		"denome" : "LAGOA DA PEDRA (POV IBITITÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1142,
+		"denome" : "LAGOA DA ROSA (POV SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1143,
+		"denome" : "LAGOA D'ANTA (FAZ VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1144,
+		"denome" : "LAGOA DE EMILIANO (LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1145,
+		"denome" : "LAGOA DE GAUDÊNCIO (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1146,
+		"denome" : "LAGOA DO 33 (POV OUROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1147,
+		"denome" : "LAGOA DO DIONÍSIO (POV IBITIARA)"
+	},
+	{
+		"cdlinhalocalidade" : 1149,
+		"denome" : "LAGOA DO MACAMBÁ (POV BONINAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1150,
+		"denome" : "LAGOA DO MOCAMBO (POV BONINAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1151,
+		"denome" : "LAGOA DO MULATINHO (FAZ VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1152,
+		"denome" : "LAGOA DO OSCAR (POV TABOCAS DO BREJO VELHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1153,
+		"denome" : "LAGOA DO PIRES (POV UAUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1154,
+		"denome" : "LAGOA DOS BORGES (POV AMÉRICA DOURADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1155,
+		"denome" : "LAGOA DOS PATOS (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1156,
+		"denome" : "LAGOA DOS PEREIRA (FAZ ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1157,
+		"denome" : "LAGOA GRANDE (DIST CÂNDIDO SALES)"
+	},
+	{
+		"cdlinhalocalidade" : 1158,
+		"denome" : "LAGOA JOSÉ LUIZ (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1159,
+		"denome" : "LAGOA NOVA (POV MORRO DO CHAPÉU)"
+	},
+	{
+		"cdlinhalocalidade" : 1160,
+		"denome" : "LAGOA PRETA (DIST TREMEDAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1161,
+		"denome" : "LAGOA PRETA (POV PARIPIRANGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1162,
+		"denome" : "LAGOA REAL"
+	},
+	{
+		"cdlinhalocalidade" : 1163,
+		"denome" : "LAGOA REDONDA (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1164,
+		"denome" : "LAGOA REDONDA (POV ITAPICURU)"
+	},
+	{
+		"cdlinhalocalidade" : 1165,
+		"denome" : "LAGOA RICA (FAZ ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1166,
+		"denome" : "LAGOÃO (POV BONINAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1167,
+		"denome" : "LAGOAS (FAZ CAETANOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1168,
+		"denome" : "LAJE"
+	},
+	{
+		"cdlinhalocalidade" : 1169,
+		"denome" : "LAJE DO BANCO (DIST GONGOJI)"
+	},
+	{
+		"cdlinhalocalidade" : 1170,
+		"denome" : "LAJE DO BATATA (POV JACOBINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1171,
+		"denome" : "LAJEADO (LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1172,
+		"denome" : "LAJEDÃO"
+	},
+	{
+		"cdlinhalocalidade" : 1173,
+		"denome" : "LAJEDINHO"
+	},
+	{
+		"cdlinhalocalidade" : 1174,
+		"denome" : "LAJEDINHO (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1175,
+		"denome" : "LAJEDO (FAZ CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1176,
+		"denome" : "LAJEDO DO TABOCAL"
+	},
+	{
+		"cdlinhalocalidade" : 1177,
+		"denome" : "LAJEDO DOS PIMENTAS (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1178,
+		"denome" : "LAJEDO PAU D´ARCO (LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1179,
+		"denome" : "LAMARÃO"
+	},
+	{
+		"cdlinhalocalidade" : 1180,
+		"denome" : "LAMARÃO (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 1181,
+		"denome" : "LAMARÃO DO PASSÉ (DIST SÃO SEBASTIÃO DO PASSÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1182,
+		"denome" : "LAPÃO"
+	},
+	{
+		"cdlinhalocalidade" : 1183,
+		"denome" : "LAPINHA (POV IRAMAIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1184,
+		"denome" : "LARGO (POV IRARÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1185,
+		"denome" : "LARGO DA CALÇADA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1186,
+		"denome" : "LARGO DA SEREIA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1187,
+		"denome" : "LARGO DE ITAPUÃ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1188,
+		"denome" : "LARGO DO CARANGUEJO \/ ITINGA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1189,
+		"denome" : "LARGO DO CURTUME (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1190,
+		"denome" : "LARGO DO RETIRO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1191,
+		"denome" : "LARGO DO TANQUE (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1192,
+		"denome" : "LAURO DE FREITAS - TERMINAL"
+	},
+	{
+		"cdlinhalocalidade" : 1193,
+		"denome" : "LAVRINHA (GENTIO DO OURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1194,
+		"denome" : "LEANDRINHO (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 1195,
+		"denome" : "LENÇÓIS"
+	},
+	{
+		"cdlinhalocalidade" : 1196,
+		"denome" : "LICÍNIO DE ALMEIDA"
+	},
+	{
+		"cdlinhalocalidade" : 1197,
+		"denome" : "LIGAÇÃO LOBATO-PIRAJÁ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1198,
+		"denome" : "LIMOEIRO (POV MUQUÉM DO SÃO FRANCISCO)"
+	},
+	{
+		"cdlinhalocalidade" : 1199,
+		"denome" : "LIVRAMENTO DE NOSSA SENHORA"
+	},
+	{
+		"cdlinhalocalidade" : 1200,
+		"denome" : "LOTEAMENTO CANTO DOS PÁSSAROS (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1201,
+		"denome" : "LOTEAMENTO MIRAGEM (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1202,
+		"denome" : "LOURENÇO (POV LIVRAMENTO DE NOSSA SENHORA)"
+	},
+	{
+		"cdlinhalocalidade" : 1203,
+		"denome" : "LOURIVAL MAXIXE (FAZ ITARANTIM)"
+	},
+	{
+		"cdlinhalocalidade" : 1204,
+		"denome" : "LUCAIA (DIST PLANALTO)"
+	},
+	{
+		"cdlinhalocalidade" : 1205,
+		"denome" : "LUÍS EDUARDO MAGALHÃES"
+	},
+	{
+		"cdlinhalocalidade" : 1206,
+		"denome" : "LUSTOSA (DIST TEODORO SAMPAIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1207,
+		"denome" : "MACACOS (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1208,
+		"denome" : "MACAJUBA"
+	},
+	{
+		"cdlinhalocalidade" : 1209,
+		"denome" : "MACARANI"
+	},
+	{
+		"cdlinhalocalidade" : 1210,
+		"denome" : "MACAÚBAS"
+	},
+	{
+		"cdlinhalocalidade" : 1211,
+		"denome" : "MACURURÉ"
+	},
+	{
+		"cdlinhalocalidade" : 1212,
+		"denome" : "MADRE DE DEUS"
+	},
+	{
+		"cdlinhalocalidade" : 1213,
+		"denome" : "MAETINGA"
+	},
+	{
+		"cdlinhalocalidade" : 1214,
+		"denome" : "MAGALHÃES (POV SÃO GONÇALO DOS CAMPOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1215,
+		"denome" : "MAIQUINIQUE"
+	},
+	{
+		"cdlinhalocalidade" : 1216,
+		"denome" : "MAIRI"
+	},
+	{
+		"cdlinhalocalidade" : 1217,
+		"denome" : "MALHADA"
+	},
+	{
+		"cdlinhalocalidade" : 1218,
+		"denome" : "MALHADA (POV MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1219,
+		"denome" : "MALHADA (RODELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1220,
+		"denome" : "MALHADA DE PEDRAS"
+	},
+	{
+		"cdlinhalocalidade" : 1221,
+		"denome" : "MALHADA GRANDE (DIST SANTA RITA DE CÁSSIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1222,
+		"denome" : "MALHADINHA (POV FORMOSA DO RIO PRETO)"
+	},
+	{
+		"cdlinhalocalidade" : 1223,
+		"denome" : "MALHADINHA (POV REMANSO)"
+	},
+	{
+		"cdlinhalocalidade" : 1224,
+		"denome" : "MANDACARU (POV BELO CAMPO)"
+	},
+	{
+		"cdlinhalocalidade" : 1225,
+		"denome" : "MANGUINHA (POV MAIRI)"
+	},
+	{
+		"cdlinhalocalidade" : 1226,
+		"denome" : "MANOEL VITORINO"
+	},
+	{
+		"cdlinhalocalidade" : 1227,
+		"denome" : "MANSIDÃO"
+	},
+	{
+		"cdlinhalocalidade" : 1228,
+		"denome" : "MAPELE (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1229,
+		"denome" : "MARACÁS"
+	},
+	{
+		"cdlinhalocalidade" : 1230,
+		"denome" : "MARAGOGIPE"
+	},
+	{
+		"cdlinhalocalidade" : 1231,
+		"denome" : "MARAGOJIPINHO (DIST ARATUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1232,
+		"denome" : "MARAÚ"
+	},
+	{
+		"cdlinhalocalidade" : 1233,
+		"denome" : "MARAVILHA (POV CARDEAL DA SILVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1234,
+		"denome" : "MARÇAL (VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1235,
+		"denome" : "MARCIONÍLIO SOUZA"
+	},
+	{
+		"cdlinhalocalidade" : 1236,
+		"denome" : "MARCOLINO MOURA (DIST RIO DE CONTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1237,
+		"denome" : "MARÉ (POV CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 1238,
+		"denome" : "MARIA PRETA (POV CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1239,
+		"denome" : "MASCOTE"
+	},
+	{
+		"cdlinhalocalidade" : 1240,
+		"denome" : "MASSÃO (SERRA DOURADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1241,
+		"denome" : "MASSARANDUBA (POV VEREDA)"
+	},
+	{
+		"cdlinhalocalidade" : 1242,
+		"denome" : "MASSAROCA (DIST JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1243,
+		"denome" : "MASSAROQUINHA  (POV JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1244,
+		"denome" : "MATA DE SÃO JOÃO"
+	},
+	{
+		"cdlinhalocalidade" : 1245,
+		"denome" : "MATA DO PAJEÚ (FAZ ANGICAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1246,
+		"denome" : "MATA ESCURA (ITAMBÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1247,
+		"denome" : "MATINA"
+	},
+	{
+		"cdlinhalocalidade" : 1248,
+		"denome" : "MATINHA DOS MENDES (POV SEABRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1249,
+		"denome" : "MATO GROSSO (POV SERRINHA)"
+	},
+	{
+		"cdlinhalocalidade" : 1250,
+		"denome" : "MATOSA (ÁGUA FRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1251,
+		"denome" : "MAURÍLIA (BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1252,
+		"denome" : "MEDEIROS NETO"
+	},
+	{
+		"cdlinhalocalidade" : 1148,
+		"denome" : "LAGOA DO GRAMA (CARAÍBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1253,
+		"denome" : "MENINO JESUS \/ COVA DE DEFUNTO (POV CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1254,
+		"denome" : "MERCÊS (POV SÃO GONÇALO DOS CAMPOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1255,
+		"denome" : "MIGUEL CALMON"
+	},
+	{
+		"cdlinhalocalidade" : 1256,
+		"denome" : "MILAGRES"
+	},
+	{
+		"cdlinhalocalidade" : 1257,
+		"denome" : "MIMOSA (FAZ CAATIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 1258,
+		"denome" : "MIMOSO (ENCRUZILHADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1259,
+		"denome" : "MIMOSO (POV SÁTIRO DIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1260,
+		"denome" : "MINADOR (POV GUANAMBI)"
+	},
+	{
+		"cdlinhalocalidade" : 1261,
+		"denome" : "MINUIM (POV SANTA BRÍGIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 1262,
+		"denome" : "MIRANGA (DIST POJUCA)"
+	},
+	{
+		"cdlinhalocalidade" : 1263,
+		"denome" : "MIRANGABA"
+	},
+	{
+		"cdlinhalocalidade" : 1264,
+		"denome" : "MIRANTE"
+	},
+	{
+		"cdlinhalocalidade" : 1265,
+		"denome" : "MISERICÓRDIA (ITAPARICA)"
+	},
+	{
+		"cdlinhalocalidade" : 1266,
+		"denome" : "MISSÃO DO ARICOBÉ (DIST ANGICAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1267,
+		"denome" : "MISSÃO DO SAHY (POV SENHOR DO BONFIM)"
+	},
+	{
+		"cdlinhalocalidade" : 1268,
+		"denome" : "MISSÕES (DIST ANGICAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1269,
+		"denome" : "MOCAMBO (DIST IBITIARA)"
+	},
+	{
+		"cdlinhalocalidade" : 1270,
+		"denome" : "MOENDA SECA (POV PRES TANCREDO NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 1271,
+		"denome" : "MOGIQUIÇABA (DIST BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1272,
+		"denome" : "MONTE ALEGRE (POV GUARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1273,
+		"denome" : "MONTE ALEGRE (POV SANTA RITA DE CÁSSIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1274,
+		"denome" : "MONTE ALTO (FAZ ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1275,
+		"denome" : "MONTE GORDO (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1276,
+		"denome" : "MONTE PASCOAL (POV ITABELA)"
+	},
+	{
+		"cdlinhalocalidade" : 1277,
+		"denome" : "MONTE SANTO"
+	},
+	{
+		"cdlinhalocalidade" : 1278,
+		"denome" : "MONTINHO (POV ITABELA)"
+	},
+	{
+		"cdlinhalocalidade" : 1279,
+		"denome" : "MORPARÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1280,
+		"denome" : "MORRINHO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1281,
+		"denome" : "MORRINHOS (FAZ LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1282,
+		"denome" : "MORRO DE SÃO PAULO (CAIRÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 1284,
+		"denome" : "MORRO DO CHAPÉU"
+	},
+	{
+		"cdlinhalocalidade" : 1285,
+		"denome" : "MORRO GRANDE (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1286,
+		"denome" : "MORRO VERDE (FAZ JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1287,
+		"denome" : "MORTUGABA"
+	},
+	{
+		"cdlinhalocalidade" : 1288,
+		"denome" : "MOSQUITO (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1289,
+		"denome" : "MUCAMBO (CORONEL JOÃO SÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1290,
+		"denome" : "MUCUGÊ"
+	},
+	{
+		"cdlinhalocalidade" : 1291,
+		"denome" : "MUCURI"
+	},
+	{
+		"cdlinhalocalidade" : 1292,
+		"denome" : "MULUNGU DO MORRO"
+	},
+	{
+		"cdlinhalocalidade" : 1293,
+		"denome" : "MUNDO NOVO"
+	},
+	{
+		"cdlinhalocalidade" : 1294,
+		"denome" : "MUNDO NOVO (POV CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1295,
+		"denome" : "MUNDO NOVO (POV EUNÁPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1296,
+		"denome" : "MUNIZ FERREIRA"
+	},
+	{
+		"cdlinhalocalidade" : 1297,
+		"denome" : "MUQUÉM DO SÃO FRANCISCO"
+	},
+	{
+		"cdlinhalocalidade" : 1298,
+		"denome" : "MURITIBA"
+	},
+	{
+		"cdlinhalocalidade" : 1299,
+		"denome" : "MUTÁ (POV JAGUARIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1300,
+		"denome" : "MUTAMBA (POV SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1301,
+		"denome" : "MUTANS (DIST GUANAMBI)"
+	},
+	{
+		"cdlinhalocalidade" : 1302,
+		"denome" : "MUTIRÃO (CORAÇÃO DE MARIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1303,
+		"denome" : "MUTUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 1304,
+		"denome" : "MUTUNS (POV ITABUNA)"
+	},
+	{
+		"cdlinhalocalidade" : 1305,
+		"denome" : "NADO (POV SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1306,
+		"denome" : "NAGÉ (DIST MARAGOGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1307,
+		"denome" : "NAZARÉ"
+	},
+	{
+		"cdlinhalocalidade" : 1308,
+		"denome" : "NAZARÉ DO JACUÍPE (DIST SÃO SEBASTIÃO DO PASSÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1309,
+		"denome" : "NILO PEÇANHA"
+	},
+	{
+		"cdlinhalocalidade" : 1310,
+		"denome" : "NORDESTINA"
+	},
+	{
+		"cdlinhalocalidade" : 1311,
+		"denome" : "NOVA ALEGRIA (POV ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1312,
+		"denome" : "NOVA BRASÍLIA (DIST RIBEIRÃO DO LARGO)"
+	},
+	{
+		"cdlinhalocalidade" : 1313,
+		"denome" : "NOVA CANAÃ"
+	},
+	{
+		"cdlinhalocalidade" : 1314,
+		"denome" : "NOVA COLINA (DIST BONINAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1315,
+		"denome" : "NOVA CONQUISTA (FAZ SANTO AMARO)"
+	},
+	{
+		"cdlinhalocalidade" : 1316,
+		"denome" : "NOVA DIAS D'ÁVILA (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 1317,
+		"denome" : "NOVA ERA (FAZ MUCURI)"
+	},
+	{
+		"cdlinhalocalidade" : 1318,
+		"denome" : "NOVA ESPERANÇA (FAZ CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1319,
+		"denome" : "NOVA ESPERANÇA (FAZ JEREMOABO)"
+	},
+	{
+		"cdlinhalocalidade" : 1320,
+		"denome" : "NOVA FÁTIMA"
+	},
+	{
+		"cdlinhalocalidade" : 1321,
+		"denome" : "NOVA IBIÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1322,
+		"denome" : "NOVA ITAÍPE (DIST PLANALTINO)"
+	},
+	{
+		"cdlinhalocalidade" : 1323,
+		"denome" : "NOVA ITARANA"
+	},
+	{
+		"cdlinhalocalidade" : 1324,
+		"denome" : "NOVA LÍDICE (DIST MEDEIROS NETO)"
+	},
+	{
+		"cdlinhalocalidade" : 1325,
+		"denome" : "NOVA PITANGUINHA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1326,
+		"denome" : "NOVA REDENÇÃO"
+	},
+	{
+		"cdlinhalocalidade" : 1327,
+		"denome" : "NOVA SANTANA (CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1328,
+		"denome" : "NOVA SOURE"
+	},
+	{
+		"cdlinhalocalidade" : 1329,
+		"denome" : "NOVA TERRA (FAZ COTEGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1330,
+		"denome" : "NOVA VIÇOSA"
+	},
+	{
+		"cdlinhalocalidade" : 1331,
+		"denome" : "NOVA VISTA (DIST ANDARAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 1332,
+		"denome" : "NOVENTA (NOVA FÁTIMA)"
+	},
+	{
+		"cdlinhalocalidade" : 1333,
+		"denome" : "NOVO ACHADO (OUROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1334,
+		"denome" : "NOVO ACRE (DIST IRAMAIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1335,
+		"denome" : "NOVO DESTINO (POV ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 1336,
+		"denome" : "NOVO HORIZONTE"
+	},
+	{
+		"cdlinhalocalidade" : 1337,
+		"denome" : "NOVO ORIENTE (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1338,
+		"denome" : "NOVO RISO (FAZ CANUDOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1339,
+		"denome" : "NOVO TRIUNFO"
+	},
+	{
+		"cdlinhalocalidade" : 1340,
+		"denome" : "NOVOPAN (MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1341,
+		"denome" : "NÚCLEO JK (POV MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1342,
+		"denome" : "OLARIAS (MEDEIROS NETO)"
+	},
+	{
+		"cdlinhalocalidade" : 1343,
+		"denome" : "OLHOS D´ÁGUA (FAZ MATINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1344,
+		"denome" : "OLHOS D´ÁGUA (FAZ POÇÕES)"
+	},
+	{
+		"cdlinhalocalidade" : 1345,
+		"denome" : "OLHOS D'ÁGUA (POV ARAMARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1346,
+		"denome" : "OLHOS D'ÁGUA (POV BARRA DO MENDES)"
+	},
+	{
+		"cdlinhalocalidade" : 1347,
+		"denome" : "OLHOS D'ÁGUA (POV GLÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1348,
+		"denome" : "OLHOS D'ÁGUA (POV WANDERLEY)"
+	},
+	{
+		"cdlinhalocalidade" : 1349,
+		"denome" : "OLHOS D'ÁGUA (RODELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1350,
+		"denome" : "OLHOS D'ÁGUA DO SECO (DIST IBITIARA)"
+	},
+	{
+		"cdlinhalocalidade" : 1351,
+		"denome" : "OLINDINA"
+	},
+	{
+		"cdlinhalocalidade" : 1352,
+		"denome" : "OLIVEIRA DOS BREJINHOS"
+	},
+	{
+		"cdlinhalocalidade" : 1353,
+		"denome" : "OLIVEIRA DOS CAMPINHOS (DIST SANTO AMARO)"
+	},
+	{
+		"cdlinhalocalidade" : 1354,
+		"denome" : "OLIVENÇA (DIST ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1356,
+		"denome" : "OLVEBASA (BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1357,
+		"denome" : "ONDINA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1358,
+		"denome" : "OPALMA (POV CACHOEIRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1359,
+		"denome" : "ORICÓ (POV UBAITABA)"
+	},
+	{
+		"cdlinhalocalidade" : 1360,
+		"denome" : "OROJÓ (POV CAMAMU)"
+	},
+	{
+		"cdlinhalocalidade" : 1361,
+		"denome" : "OURICANA (DIST CANAVIEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1362,
+		"denome" : "OURIÇANGAS"
+	},
+	{
+		"cdlinhalocalidade" : 1363,
+		"denome" : "OURICURI DO OURO (DIST BROTAS DE MACAÚBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1364,
+		"denome" : "OURIVES (POV TANHAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 1365,
+		"denome" : "OUROLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 1366,
+		"denome" : "OUTLET PREMIUM SALVADOR (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1367,
+		"denome" : "PAIAIÁ (DIST SANTO ESTEVÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1368,
+		"denome" : "PAIAIÁ (POV NOVA SOURE)"
+	},
+	{
+		"cdlinhalocalidade" : 1369,
+		"denome" : "PAJEÚ DO VENTO (DIST CAETITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1370,
+		"denome" : "PALAME (DIST ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1371,
+		"denome" : "PALESTINA (BURITIRAMA)"
+	},
+	{
+		"cdlinhalocalidade" : 1372,
+		"denome" : "PALESTINA (FAZ MASCOTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1373,
+		"denome" : "PALHA (TEIXEIRA DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1374,
+		"denome" : "PALMARES (POV ITAPETINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1375,
+		"denome" : "PALMAS DE MONTE ALTO"
+	},
+	{
+		"cdlinhalocalidade" : 1376,
+		"denome" : "PALMEIRA (POV WENCESLAU GUIMARÃES)"
+	},
+	{
+		"cdlinhalocalidade" : 1377,
+		"denome" : "PALMEIRAS"
+	},
+	{
+		"cdlinhalocalidade" : 1378,
+		"denome" : "PALMEIRAS (FAZ ITAPETINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1379,
+		"denome" : "PALMEIRINHA (POV AIQUARA)"
+	},
+	{
+		"cdlinhalocalidade" : 1380,
+		"denome" : "PALMIRA (DIST ITAJU DO COLÔNIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1381,
+		"denome" : "PANCADÃO (POV LAGOA REAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1382,
+		"denome" : "PANELINHA (DIST CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1383,
+		"denome" : "PANTONILIA (IBITITÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1384,
+		"denome" : "PAPAGAIO (POV CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1385,
+		"denome" : "PARAFUSO (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1386,
+		"denome" : "PARAGEM (MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 1387,
+		"denome" : "PARAGUAÇU (POV RAFAEL JAMBEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1388,
+		"denome" : "PARAÍSO (DIST JACOBINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1389,
+		"denome" : "PARAÍSO (DIST MASCOTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1390,
+		"denome" : "PARAÍSO (DIST RUY BARBOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 1391,
+		"denome" : "PARAMIRIM"
+	},
+	{
+		"cdlinhalocalidade" : 1392,
+		"denome" : "PARAMIRIM (POV SÃO FRANCISCO DO CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 1393,
+		"denome" : "PARATINGA"
+	},
+	{
+		"cdlinhalocalidade" : 1394,
+		"denome" : "PARIPIRANGA"
+	},
+	{
+		"cdlinhalocalidade" : 1395,
+		"denome" : "PARQUE SANTA RITA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1396,
+		"denome" : "PARQUE SÃO PAULO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1397,
+		"denome" : "PASSAGEM DOS TEIXEIRAS (POV CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1398,
+		"denome" : "PASSAGINHA (POV IPIRÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1399,
+		"denome" : "PASSÉ (DIST CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1400,
+		"denome" : "PATAÍBA (DIST ÁGUA FRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1401,
+		"denome" : "PATI (JAGUAQUARA)"
+	},
+	{
+		"cdlinhalocalidade" : 1402,
+		"denome" : "PATIOBA (POV MEDEIROS NETO)"
+	},
+	{
+		"cdlinhalocalidade" : 1403,
+		"denome" : "PATRIMÔNIO (POV PEDRÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1404,
+		"denome" : "PAU BRASIL"
+	},
+	{
+		"cdlinhalocalidade" : 1405,
+		"denome" : "PAU D' ALHO (POV ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1406,
+		"denome" : "PAU DE GARRAFA (ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 1407,
+		"denome" : "PAU GRANDE (POV UBAITABA)"
+	},
+	{
+		"cdlinhalocalidade" : 1408,
+		"denome" : "PAU LAVRADO (POV CATU)"
+	},
+	{
+		"cdlinhalocalidade" : 1409,
+		"denome" : "PAU SANGUE (FAZ ITARANTIM)"
+	},
+	{
+		"cdlinhalocalidade" : 1411,
+		"denome" : "PAULO AFONSO"
+	},
+	{
+		"cdlinhalocalidade" : 1412,
+		"denome" : "PAZ DO SALOBRO (DIST CANARANA)"
+	},
+	{
+		"cdlinhalocalidade" : 1413,
+		"denome" : "PÉ DE SERRA"
+	},
+	{
+		"cdlinhalocalidade" : 1414,
+		"denome" : "PÉ DE SERRA (POV MARACÁS)"
+	},
+	{
+		"cdlinhalocalidade" : 1415,
+		"denome" : "PEDRA ALTA (POV ARACI)"
+	},
+	{
+		"cdlinhalocalidade" : 1416,
+		"denome" : "PEDRA BRANCA (DIST SANTO ESTEVÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1417,
+		"denome" : "PEDRA BRANCA (POV CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1418,
+		"denome" : "PEDRA D' ÁGUA ( (POV ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 1419,
+		"denome" : "PEDRA DE CAL (POV RIACHÃO DAS NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 1420,
+		"denome" : "PEDRA GINO (IBITITÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1421,
+		"denome" : "PEDRA GRANDE (FAZ ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1422,
+		"denome" : "PEDRA MELADA (MANOEL VITORINO)"
+	},
+	{
+		"cdlinhalocalidade" : 1423,
+		"denome" : "PEDRA PRETA (FAZ ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1424,
+		"denome" : "PEDRÃO"
+	},
+	{
+		"cdlinhalocalidade" : 1425,
+		"denome" : "PEDRAS (POV BAIXA GRANDE)"
+	},
+	{
+		"cdlinhalocalidade" : 1426,
+		"denome" : "PEDRAS (POV SANTO AMARO)"
+	},
+	{
+		"cdlinhalocalidade" : 1427,
+		"denome" : "PEDRAS ALTAS (POV CAPIM GROSSO)"
+	},
+	{
+		"cdlinhalocalidade" : 1428,
+		"denome" : "PEDRO ALEXANDRE"
+	},
+	{
+		"cdlinhalocalidade" : 1429,
+		"denome" : "PEDRO BAIO (CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1430,
+		"denome" : "PENEDO (POV RODELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1431,
+		"denome" : "PEREIRA (DIST SANTALUZ)"
+	},
+	{
+		"cdlinhalocalidade" : 1432,
+		"denome" : "PERELÂNDIA (POV CANAVIEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1433,
+		"denome" : "PERIPERI  (FAZ JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1434,
+		"denome" : "PETROLÂNDIA (POV BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1435,
+		"denome" : "PETROLÂNDIA (POV PETROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1436,
+		"denome" : "PIATÃ"
+	},
+	{
+		"cdlinhalocalidade" : 1437,
+		"denome" : "PIAUS (POV ITIÚBA)"
+	},
+	{
+		"cdlinhalocalidade" : 1438,
+		"denome" : "PIÇARRÃO (DIST SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1439,
+		"denome" : "PILÃO ARCADO"
+	},
+	{
+		"cdlinhalocalidade" : 1440,
+		"denome" : "PILAR (DIST JAGUARARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1441,
+		"denome" : "PILÕES (DIST CANDIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 1442,
+		"denome" : "PIMENTA (DIST MASCOTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1443,
+		"denome" : "PIMENTEIRA (DIST ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1444,
+		"denome" : "PIMENTEIRA (POV CANAVIEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1445,
+		"denome" : "PINARÉ (POV CAMAMU)"
+	},
+	{
+		"cdlinhalocalidade" : 1446,
+		"denome" : "PINDAÍ"
+	},
+	{
+		"cdlinhalocalidade" : 1447,
+		"denome" : "PINDOBAÇU"
+	},
+	{
+		"cdlinhalocalidade" : 1448,
+		"denome" : "PINDORAMA (DIST IUIU)"
+	},
+	{
+		"cdlinhalocalidade" : 1449,
+		"denome" : "PINDORAMA (POV PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1450,
+		"denome" : "PINGA FOGO (POV PALMAS DE MONTE ALTO)"
+	},
+	{
+		"cdlinhalocalidade" : 1451,
+		"denome" : "PINHÕES (DIST JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1452,
+		"denome" : "PINHÕES (POV EUCLIDES DA CUNHA)"
+	},
+	{
+		"cdlinhalocalidade" : 1453,
+		"denome" : "PIRAÍ DO NORTE"
+	},
+	{
+		"cdlinhalocalidade" : 1454,
+		"denome" : "PIRAJÁ (POV ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1455,
+		"denome" : "PIRAJI (POV ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1456,
+		"denome" : "PIRAJIBA (POV MUQUÉM DO SÃO FRANCISCO)"
+	},
+	{
+		"cdlinhalocalidade" : 1457,
+		"denome" : "PIRÍ (DIST SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1458,
+		"denome" : "PIRIPÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1459,
+		"denome" : "PIRITIBA"
+	},
+	{
+		"cdlinhalocalidade" : 1460,
+		"denome" : "PITANGA DE PALMARES (ACESSO)"
+	},
+	{
+		"cdlinhalocalidade" : 1461,
+		"denome" : "PITANGUINHA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1462,
+		"denome" : "PITUBA (DIST GENTIO DO OURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1463,
+		"denome" : "PLACAS (POV BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1464,
+		"denome" : "PLANALTINO"
+	},
+	{
+		"cdlinhalocalidade" : 1465,
+		"denome" : "PLANALTO"
+	},
+	{
+		"cdlinhalocalidade" : 1466,
+		"denome" : "POÇO (ANTÔNIO CARDOSO)"
+	},
+	{
+		"cdlinhalocalidade" : 1467,
+		"denome" : "POÇO CENTRAL (DIST AURELINO LEAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1468,
+		"denome" : "POÇO DE FORA (DIST CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1469,
+		"denome" : "POÇO GRANDE  (POV ARACI)"
+	},
+	{
+		"cdlinhalocalidade" : 1470,
+		"denome" : "POÇÕES"
+	},
+	{
+		"cdlinhalocalidade" : 1471,
+		"denome" : "POÇÕES (FAZ IPECAETÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1472,
+		"denome" : "POÇÕES (MATINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1473,
+		"denome" : "POJUCA"
+	},
+	{
+		"cdlinhalocalidade" : 1474,
+		"denome" : "PÓLO PETROQUÍMICO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1475,
+		"denome" : "PONTA DA TULHA (POV ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1476,
+		"denome" : "PONTA DE AREIA (DIST CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1477,
+		"denome" : "PONTA DO RAMO (POV ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1478,
+		"denome" : "PONTE (NOVA VIÇOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 1479,
+		"denome" : "PONTE DO RIO (BA130)"
+	},
+	{
+		"cdlinhalocalidade" : 1480,
+		"denome" : "PONTE DO RIO JACUMIRIM"
+	},
+	{
+		"cdlinhalocalidade" : 1481,
+		"denome" : "PONTE PARAMIRIM (OLIVEIRA DOS BREJINHOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1482,
+		"denome" : "PONTE RIO PARDO (POTIRAGUÁ) "
+	},
+	{
+		"cdlinhalocalidade" : 1483,
+		"denome" : "PONTE VELHA (POV CORRENTINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1484,
+		"denome" : "PONTO CENTRAL (SANTA CRUZ CABRÁLIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1485,
+		"denome" : "PONTO CERTO (POV SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 1486,
+		"denome" : "PONTO DA COALHADA (VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1487,
+		"denome" : "PONTO DA VENDA (ITAPETINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1488,
+		"denome" : "PONTO DE EUGÊNIO (SANTANÓPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1489,
+		"denome" : "PONTO DO ASTÉRIO (POV FIRMINO ALVES)"
+	},
+	{
+		"cdlinhalocalidade" : 1490,
+		"denome" : "PONTO DO ELISEU (UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 1491,
+		"denome" : "PONTO DO LIRA (SANTA CRUZ DA VITÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1492,
+		"denome" : "PONTO NOVO"
+	},
+	{
+		"cdlinhalocalidade" : 1493,
+		"denome" : "PORTÃO - TERMINAL TURÍSTICO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1494,
+		"denome" : "PORTÃO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1495,
+		"denome" : "PORTEIRA (SERRA DOURADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1496,
+		"denome" : "PORTO FELIZ (POV PIRITIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 1497,
+		"denome" : "PORTO FERROLHO (SÃO FRANCISCO DO CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 1498,
+		"denome" : "PORTO NOVO (DIST SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 1499,
+		"denome" : "PORTO SAUÍPE (DIST ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1500,
+		"denome" : "PORTO SEGURO"
+	},
+	{
+		"cdlinhalocalidade" : 1501,
+		"denome" : "PORTO SEGURO (CENTRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1502,
+		"denome" : "POSTO CENTRAL (EUNÁPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1503,
+		"denome" : "POSTO CERRADÃO (BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1504,
+		"denome" : "POSTO DA MATA (DIST NOVA VIÇOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 1505,
+		"denome" : "POSTO ROSÁRIO (CORRENTINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1506,
+		"denome" : "POSTO JK (LAJEDINHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1507,
+		"denome" : "POSTO PIONEIRO (SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1508,
+		"denome" : "POSTO ROYAL (SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1509,
+		"denome" : "POSTO SANTIAGO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1510,
+		"denome" : "POSTO SANTO ANTÔNIO (ITAJUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1511,
+		"denome" : "POSTO SANTO ANTÔNIO (URUÇUCA)"
+	},
+	{
+		"cdlinhalocalidade" : 1512,
+		"denome" : "POSTO SÃO LUIZ (CONCEIÇÃO DO JACUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1513,
+		"denome" : "POSTO SÃO LUIZ (SANTO AMARO)"
+	},
+	{
+		"cdlinhalocalidade" : 1514,
+		"denome" : "POSTO SÃO PEDRO (CORRENTINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1515,
+		"denome" : "POSTO SERTANEJO (BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1516,
+		"denome" : "POSTO TABULEIRO DA BAIANA (VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1517,
+		"denome" : "POSTO TURBO (VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1518,
+		"denome" : "POTIRAGUÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1519,
+		"denome" : "POUSO ALEGRE (POV ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 1520,
+		"denome" : "POV SANTA TEREZINHA (POV JITAÚNA)"
+	},
+	{
+		"cdlinhalocalidade" : 1521,
+		"denome" : "POXIM DO SUL (DIST CANAVIEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1522,
+		"denome" : "PRAÇA (FAZ UAUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1523,
+		"denome" : "PRAÇA ABRANTES (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1524,
+		"denome" : "PRAÇA ACM (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 1525,
+		"denome" : "PRAÇA AREIA BRANCA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1526,
+		"denome" : "PRAÇA DA ARCANJA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1527,
+		"denome" : "PRAÇA DA BANDEIRA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1528,
+		"denome" : "PRAÇA DA MATRIZ (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1529,
+		"denome" : "PRAÇA DA MATRIZ (LUSTOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 1530,
+		"denome" : "PRAÇA DA PREFEITURA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1531,
+		"denome" : "PRAÇA DA SÉ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1532,
+		"denome" : "PRAÇA DO SOL (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1533,
+		"denome" : "PRAÇA DR GUALBERTO (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1534,
+		"denome" : "PRAÇA MARIO BATISTA (CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1535,
+		"denome" : "PRAÇA MONTENEGRO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1536,
+		"denome" : "PRAÇA TIRADENTES (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1537,
+		"denome" : "PRADO"
+	},
+	{
+		"cdlinhalocalidade" : 1538,
+		"denome" : "PRADOSO (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1539,
+		"denome" : "PRAIA DE IPITANGA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1540,
+		"denome" : "PRAIA DO FLAMENGO - FIM DE LINHA"
+	},
+	{
+		"cdlinhalocalidade" : 1541,
+		"denome" : "PRAIA DO FLAMENGO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1542,
+		"denome" : "PRAIA DO FORTE (POV MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1543,
+		"denome" : "PRATA (POV ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1544,
+		"denome" : "PRATAS (POV ARATACA)"
+	},
+	{
+		"cdlinhalocalidade" : 1545,
+		"denome" : "PRATOS FINOS (POV BARRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1546,
+		"denome" : "PRESIDENTE JÂNIO QUADROS"
+	},
+	{
+		"cdlinhalocalidade" : 1547,
+		"denome" : "PRESIDENTE TANCREDO NEVES"
+	},
+	{
+		"cdlinhalocalidade" : 1548,
+		"denome" : "PROJETO PEDRA BRANCA (POV CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1549,
+		"denome" : "PROJETO PURIFICAÇÃO E SÃO MIGUEL (SANTA CRUZ CABRÁLIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1550,
+		"denome" : "PROVISÃO (POV JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1551,
+		"denome" : "PUXIM DO SUL (DIST CANAVIEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1552,
+		"denome" : "QUARAÇU (DIST CÂNDIDO SALES)"
+	},
+	{
+		"cdlinhalocalidade" : 1553,
+		"denome" : "QUARENTA (POV SANTA BRÍGIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 1554,
+		"denome" : "QUEIMADA (TRANCOSO)"
+	},
+	{
+		"cdlinhalocalidade" : 1555,
+		"denome" : "QUEIMADA NOVA (POV OLIVEIRA DOS BREJINHOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1556,
+		"denome" : "QUEIMADAS"
+	},
+	{
+		"cdlinhalocalidade" : 1557,
+		"denome" : "QUEIMADAS (POV IRECÊ)"
+	},
+	{
+		"cdlinhalocalidade" : 1558,
+		"denome" : "QUEIMADINHAS (POV MARCIONÍLIO SOUZA)"
+	},
+	{
+		"cdlinhalocalidade" : 1559,
+		"denome" : "QUIJINGUE"
+	},
+	{
+		"cdlinhalocalidade" : 1560,
+		"denome" : "QUIXABA (FAZ JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1561,
+		"denome" : "QUIXABA (POV SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1562,
+		"denome" : "QUIXABEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 1563,
+		"denome" : "QUIXABEIRA (POV GOVERNADOR MANGABEIRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1564,
+		"denome" : "QUIXABEIRINHA (POV NOVA SOURE)"
+	},
+	{
+		"cdlinhalocalidade" : 1565,
+		"denome" : "RAFAEL JAMBEIRO"
+	},
+	{
+		"cdlinhalocalidade" : 1567,
+		"denome" : "RAIZ (POV ESPLANADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1568,
+		"denome" : "RANCHO ALEGRE (POV CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1569,
+		"denome" : "RANCHO ALEGRE (POV CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1570,
+		"denome" : "RANCHO DA LUA (NOVA VIÇOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 1571,
+		"denome" : "RASO (POV NOVA SOURE)"
+	},
+	{
+		"cdlinhalocalidade" : 1572,
+		"denome" : "REMANSO"
+	},
+	{
+		"cdlinhalocalidade" : 1573,
+		"denome" : "REPARTIMENTO (POV BUERAREMA)"
+	},
+	{
+		"cdlinhalocalidade" : 1574,
+		"denome" : "REPRESA (POV CANÁPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1575,
+		"denome" : "RESIDÊNCIA (POV ANDARAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 1576,
+		"denome" : "RESIDENCIAL BRISAS DE ITINGA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1578,
+		"denome" : "RESIDENCIAL CAMINHO DO MAR (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1579,
+		"denome" : "RESIDENCIAL CAMINHO DO RIO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1580,
+		"denome" : "RESIDENCIAL DONA LINDÚ (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1581,
+		"denome" : "RESIDENCIAL MAR DE ABRANTES (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1582,
+		"denome" : "RESIDENCIAL RECANTO DE ABRANTES (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1583,
+		"denome" : "RETIRO (DIST CORAÇÃO DE MARIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1584,
+		"denome" : "RETIROLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 1586,
+		"denome" : "RETORNO PORTÃO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1587,
+		"denome" : "RIACHÃO (FAZ IBIRAPITANGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1588,
+		"denome" : "RIACHÃO (POV SERRA DOURADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1589,
+		"denome" : "RIACHÃO DAS NEVES"
+	},
+	{
+		"cdlinhalocalidade" : 1590,
+		"denome" : "RIACHÃO DO JACUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 1591,
+		"denome" : "RIACHÃO DO UTINGA (DIST UTINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1592,
+		"denome" : "RIACHINHO (FAZ PILÃO ARCADO)"
+	},
+	{
+		"cdlinhalocalidade" : 1593,
+		"denome" : "RIACHINHO (POV BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1594,
+		"denome" : "RIACHO (POV PAULO AFONSO)"
+	},
+	{
+		"cdlinhalocalidade" : 1595,
+		"denome" : "RIACHO (POV VÁRZEA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1596,
+		"denome" : "RIACHO DA GUIA (DIST ALAGOINHAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1597,
+		"denome" : "RIACHO DA ONÇA (POV QUEIMADAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1598,
+		"denome" : "RIACHO DANTAS (POV TANHAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 1599,
+		"denome" : "RIACHO DE PEDRAS (POV UAUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1600,
+		"denome" : "RIACHO DE SANTANA"
+	},
+	{
+		"cdlinhalocalidade" : 1601,
+		"denome" : "RIACHO DOS PAES (POV SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1602,
+		"denome" : "RIACHO QUEIMADO (ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 1603,
+		"denome" : "RIACHO SECO (DIST CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1604,
+		"denome" : "RIBEIRA DO AMPARO"
+	},
+	{
+		"cdlinhalocalidade" : 1605,
+		"denome" : "RIBEIRA DO POMBAL"
+	},
+	{
+		"cdlinhalocalidade" : 1606,
+		"denome" : "RIBEIRÃO DO LARGO"
+	},
+	{
+		"cdlinhalocalidade" : 1607,
+		"denome" : "RIO ABAIXO (POV LAGOA REAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1608,
+		"denome" : "RIO BRANCO (POV ARATACA)"
+	},
+	{
+		"cdlinhalocalidade" : 1609,
+		"denome" : "RIO BRANCO (POV RIACHÃO DAS NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 1610,
+		"denome" : "RIO CRISTOVÃO COLOMBO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1611,
+		"denome" : "RIO DA SERRA (UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 1612,
+		"denome" : "RIO DE CONTAS"
+	},
+	{
+		"cdlinhalocalidade" : 1613,
+		"denome" : "RIO DE PEDRAS (UAUÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1614,
+		"denome" : "RIO DO ANTÔNIO"
+	},
+	{
+		"cdlinhalocalidade" : 1615,
+		"denome" : "RIO DO BRAÇO (DIST ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1616,
+		"denome" : "RIO DO MEIO (DIST ITORORÓ)"
+	},
+	{
+		"cdlinhalocalidade" : 1617,
+		"denome" : "RIO DO PIRES"
+	},
+	{
+		"cdlinhalocalidade" : 1618,
+		"denome" : "RIO DO SUL (DIST PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 1619,
+		"denome" : "RIO FUNDO (DIST TERRA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1620,
+		"denome" : "RIO PARDO (CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1621,
+		"denome" : "RIO REAL"
+	},
+	{
+		"cdlinhalocalidade" : 1622,
+		"denome" : "RIO UNA (CATU)"
+	},
+	{
+		"cdlinhalocalidade" : 1623,
+		"denome" : "RIO VERDE (POV ITAGUAÇU DA BAHIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1624,
+		"denome" : "RIO VERMELHO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1625,
+		"denome" : "ROÇADOS (POV BRUMADO)"
+	},
+	{
+		"cdlinhalocalidade" : 1626,
+		"denome" : "RODA D' ÁGUA (FAZ IBIRAPOÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1627,
+		"denome" : "RODA VELHA (POV SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1628,
+		"denome" : "RODAGEM (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1629,
+		"denome" : "RODELAS"
+	},
+	{
+		"cdlinhalocalidade" : 1630,
+		"denome" : "ROSEIRA (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1631,
+		"denome" : "ROTATÓRIA DA MONSANTO"
+	},
+	{
+		"cdlinhalocalidade" : 1632,
+		"denome" : "ROTATÓRIA DO PÓLO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1633,
+		"denome" : "RÓTULA CIA\/CEASA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1634,
+		"denome" : "RÓTULA DA CELULOSE (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1635,
+		"denome" : "RÓTULA DA FEIRINHA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1636,
+		"denome" : "RÓTULA DO PÓLO \/  POSTO TREVO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1637,
+		"denome" : "RUA A (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1638,
+		"denome" : "RUA ADEMAR DE BARROS (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1639,
+		"denome" : "RUA ALFA \/ BETA \/ GAMA (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1640,
+		"denome" : "RUA ALMIRANTE TAMANDARÉ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1641,
+		"denome" : "RUA ANTÔNIO LEITÃO (MADRE DE DEUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1642,
+		"denome" : "RUA ARISTIDES MILTON (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1643,
+		"denome" : "RUA BAHIA (CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1644,
+		"denome" : "RUA BENZENO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1645,
+		"denome" : "RUA COMENDADOR FRANCISCO PEDREIRA \/ CHAME-CHAME (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1646,
+		"denome" : "RUA COMENDADOR TEIXEIRA DE FREITAS (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1647,
+		"denome" : "RUA CONSELHEIRO JUNQUEIRA (ALAGOINHAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1648,
+		"denome" : "RUA COSTA PINTO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1649,
+		"denome" : "RUA CRISTOVÃO COLOMBO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1650,
+		"denome" : "RUA DA AREIA (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1651,
+		"denome" : "RUA DA CACHOEIRA (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1652,
+		"denome" : "RUA DA ESCOLA (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1653,
+		"denome" : "RUA DA JAQUEIRA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1654,
+		"denome" : "RUA DA MANGUEIRA (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1655,
+		"denome" : "RUA DA NATIVIDADE (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1656,
+		"denome" : "RUA DIRETA DE JAUÁ (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1657,
+		"denome" : "RUA DIRETA DO CAPELÃO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1658,
+		"denome" : "RUA DO COLÉGIO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1659,
+		"denome" : "RUA DO IMPERADOR (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1660,
+		"denome" : "RUA DO RAFAEL (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1661,
+		"denome" : "RUA DOS PIONEIROS (CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1662,
+		"denome" : "RUA DR GERINO DE SOUZA FILHO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1663,
+		"denome" : "RUA ETENO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1664,
+		"denome" : "RUA EVERALDO FIGUEIREDO DOS ANJOS (CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1665,
+		"denome" : "RUA GETÚLIO VARGAS (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1666,
+		"denome" : "RUA HIDROGÊNIO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1667,
+		"denome" : "RUA ITABUNA (CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1668,
+		"denome" : "RUA J VIANA SAMPAIO (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 1669,
+		"denome" : "RUA JJ SEABRA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1670,
+		"denome" : "RUA JOÃO ARCANJO DE OLIVEIRA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1671,
+		"denome" : "RUA JOÃO GOMES \/ RIO VERMELHO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1672,
+		"denome" : "RUA JOÃO ÚRSULO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1673,
+		"denome" : "RUA LUIZ MARIA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1674,
+		"denome" : "RUA MARECHAL FLORIANO PEIXOTO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1675,
+		"denome" : "RUA OXIGÊNIO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1676,
+		"denome" : "RUA PADRE ANTÔNIO DE SÁ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1677,
+		"denome" : "RUA PADRE EMILE WAGNER (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1678,
+		"denome" : "RUA PADRE FEIJÓ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1679,
+		"denome" : "RUA PELICANO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1680,
+		"denome" : "RUA PERNAMBUCO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1681,
+		"denome" : "RUA POLITEAMA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1682,
+		"denome" : "RUA PRAIA DE COPACABANA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1683,
+		"denome" : "RUA PRAIA DE GUARAPARI (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1684,
+		"denome" : "RUA PRAIA DE GUARUJÁ (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1685,
+		"denome" : "RUA PRAIA DE ITAMARACÁ (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1686,
+		"denome" : "RUA PRAIA DE ITAPOAN (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1687,
+		"denome" : "RUA PRAIA DE ITAPUÃ (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1688,
+		"denome" : "RUA PRAIA DE PAJUÇARA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1689,
+		"denome" : "RUA PRAIA DE TRAMANDAÍ (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1690,
+		"denome" : "RUA PRINCIPAL AREIA BRANCA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1691,
+		"denome" : "RUA QUEIRA DEUS (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1692,
+		"denome" : "RUA RIO DA CUNHA (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1693,
+		"denome" : "RUA ROÇA GRANDE (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1694,
+		"denome" : "RUA SANTO ANTÔNIO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1695,
+		"denome" : "RUA SÃO CRISTÓVÃO DE IPITANGA \/ ITINGA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1696,
+		"denome" : "RUA SUCUPIÓ (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1697,
+		"denome" : "RUA VIEIRA MELO - ABRANTES (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1698,
+		"denome" : "RUA VOLUNTÁRIOS DA PÁTRIA (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1699,
+		"denome" : "RUMO (POV ITAETÊ)"
+	},
+	{
+		"cdlinhalocalidade" : 1700,
+		"denome" : "RUY BARBOSA"
+	},
+	{
+		"cdlinhalocalidade" : 1701,
+		"denome" : "SACO DA ONÇA (POV LICÍNIO DE ALMEIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 1702,
+		"denome" : "SACO DE CAPIM (IRARÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1703,
+		"denome" : "SALAMIN (POV SERROLÂNDIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1704,
+		"denome" : "SALGADA (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1705,
+		"denome" : "SALGADÁLIA (DIST CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1706,
+		"denome" : "SALINAS (POV ABARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1707,
+		"denome" : "SALINAS DA MARGARIDA"
+	},
+	{
+		"cdlinhalocalidade" : 1708,
+		"denome" : "SALITRE (DIST JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1709,
+		"denome" : "SALOBRINHO (POV ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1710,
+		"denome" : "SALOBRO (POV CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1711,
+		"denome" : "SALOMÉIA (POV IBICARAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 1712,
+		"denome" : "SALVADOR"
+	},
+	{
+		"cdlinhalocalidade" : 1713,
+		"denome" : "SALVADOR (SÃO JOAQUIM)"
+	},
+	{
+		"cdlinhalocalidade" : 1714,
+		"denome" : "SALVADOR (TTNB)"
+	},
+	{
+		"cdlinhalocalidade" : 1715,
+		"denome" : "SAMBAÍBA (POV ITAPICURU)"
+	},
+	{
+		"cdlinhalocalidade" : 1716,
+		"denome" : "SAMBAMBAIA  (MARAGOGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1717,
+		"denome" : "SANTA BÁRBARA"
+	},
+	{
+		"cdlinhalocalidade" : 1718,
+		"denome" : "SANTA BRÍGIDA"
+	},
+	{
+		"cdlinhalocalidade" : 1719,
+		"denome" : "SANTA CRUZ (FAZ AURELINO LEAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1720,
+		"denome" : "SANTA CRUZ (FAZ ITAJUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1721,
+		"denome" : "SANTA CRUZ (LUÍS EDUARDO MAGALHÃES)"
+	},
+	{
+		"cdlinhalocalidade" : 1722,
+		"denome" : "SANTA CRUZ CABRÁLIA"
+	},
+	{
+		"cdlinhalocalidade" : 1723,
+		"denome" : "SANTA CRUZ CABRÁLIA (BALSA)"
+	},
+	{
+		"cdlinhalocalidade" : 1724,
+		"denome" : "SANTA CRUZ DA VITÓRIA"
+	},
+	{
+		"cdlinhalocalidade" : 1725,
+		"denome" : "SANTA FÉ (FAZ BARRA DO CHOÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 1726,
+		"denome" : "SANTA INÊS"
+	},
+	{
+		"cdlinhalocalidade" : 1727,
+		"denome" : "SANTA ISABEL (FAZ ITABERABA)"
+	},
+	{
+		"cdlinhalocalidade" : 1728,
+		"denome" : "SANTA LUZIA"
+	},
+	{
+		"cdlinhalocalidade" : 1729,
+		"denome" : "SANTA LUZIA (POV ANGICAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1730,
+		"denome" : "SANTA MARIA (FAZ EUNÁPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1731,
+		"denome" : "SANTA MARIA DA VITÓRIA"
+	},
+	{
+		"cdlinhalocalidade" : 1732,
+		"denome" : "SANTA MARIA ETERNA (POV BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1733,
+		"denome" : "SANTA QUITÉRIA (POV ITABERABA)"
+	},
+	{
+		"cdlinhalocalidade" : 1734,
+		"denome" : "SANTA RITA DE CÁSSIA"
+	},
+	{
+		"cdlinhalocalidade" : 1735,
+		"denome" : "SANTA ROSA (POV CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1736,
+		"denome" : "SANTA ROSA (POV RIACHÃO DO JACUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1737,
+		"denome" : "SANTA TERESINHA"
+	},
+	{
+		"cdlinhalocalidade" : 1738,
+		"denome" : "SANTA TEREZINHA (POV JITAÚNA)"
+	},
+	{
+		"cdlinhalocalidade" : 1739,
+		"denome" : "SANTALUZ"
+	},
+	{
+		"cdlinhalocalidade" : 1740,
+		"denome" : "SANTANA"
+	},
+	{
+		"cdlinhalocalidade" : 1741,
+		"denome" : "SANTANA DO SOBRADO (DIST CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1742,
+		"denome" : "SANTANÓPOLIS"
+	},
+	{
+		"cdlinhalocalidade" : 1743,
+		"denome" : "SANTIAGO DO IGUAPE (DIST CACHOEIRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1744,
+		"denome" : "SANTO AMARO"
+	},
+	{
+		"cdlinhalocalidade" : 1745,
+		"denome" : "SANTO AMARO (FAZ ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1746,
+		"denome" : "SANTO AMARO (ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1747,
+		"denome" : "SANTO ANDRÉ (POV SANTA CRUZ CABRÁLIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1748,
+		"denome" : "SANTO ANTÔNIO (ANDARAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 1749,
+		"denome" : "SANTO ANTÔNIO (FAZ VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1750,
+		"denome" : "SANTO ANTÔNIO (POV EUCLIDES DA CUNHA)"
+	},
+	{
+		"cdlinhalocalidade" : 1751,
+		"denome" : "SANTO ANTÔNIO (POV SANTA CRUZ CABRÁLIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1752,
+		"denome" : "SANTO ANTÔNIO DE JESUS"
+	},
+	{
+		"cdlinhalocalidade" : 1753,
+		"denome" : "SANTO ANTÔNIO DOS PRAZERES (FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 1754,
+		"denome" : "SANTO ANTÔNIO II (POV ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1755,
+		"denome" : "SANTO ESTEVÃO"
+	},
+	{
+		"cdlinhalocalidade" : 1756,
+		"denome" : "SANTO ESTEVÃO (DIST SÃO FRANCISCO DO CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 1757,
+		"denome" : "SANTO ESTEVÃO VELHO (DIST ANTÔNIO CARDOSO)"
+	},
+	{
+		"cdlinhalocalidade" : 1758,
+		"denome" : "SANTO INÁCIO (DIST GENTIO DO OURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1759,
+		"denome" : "SÃO BENTO DO INHATÁ (DIST AMÉLIA RODRIGUES)"
+	},
+	{
+		"cdlinhalocalidade" : 1760,
+		"denome" : "SÃO BERNARDO (POV JAGUARIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1761,
+		"denome" : "SÃO BORGES (PARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1762,
+		"denome" : "SÃO CRISTÓVÃO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1763,
+		"denome" : "SÃO DESIDÉRIO"
+	},
+	{
+		"cdlinhalocalidade" : 1764,
+		"denome" : "SÃO DOMINGOS"
+	},
+	{
+		"cdlinhalocalidade" : 1765,
+		"denome" : "SÃO F. DO AMIANTO (FAZ POÇÕES)"
+	},
+	{
+		"cdlinhalocalidade" : 1766,
+		"denome" : "SÃO FELIPE"
+	},
+	{
+		"cdlinhalocalidade" : 1767,
+		"denome" : "SÃO FELIPE (POV TREMEDAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1768,
+		"denome" : "SÃO FÉLIX"
+	},
+	{
+		"cdlinhalocalidade" : 1769,
+		"denome" : "SÃO FÉLIX DO CORIBE"
+	},
+	{
+		"cdlinhalocalidade" : 1770,
+		"denome" : "SÃO FIDEL (JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1771,
+		"denome" : "SÃO FRANCISCO (POV PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 1772,
+		"denome" : "SÃO FRANCISCO DA MOMBAÇA (POV CONCEIÇÃO DO ALMEIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 1773,
+		"denome" : "SÃO FRANCISCO DO CONDE"
+	},
+	{
+		"cdlinhalocalidade" : 1774,
+		"denome" : "SÃO GABRIEL"
+	},
+	{
+		"cdlinhalocalidade" : 1776,
+		"denome" : "SÃO GONÇALO DOS CAMPOS"
+	},
+	{
+		"cdlinhalocalidade" : 1777,
+		"denome" : "SÃO JOÃO (POV RIACHÃO DO JACUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1778,
+		"denome" : "SÃO JOÃO DO PANELINHA (DIST CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1779,
+		"denome" : "SÃO JOÃO DO PARAÍSO (DIST MASCOTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1780,
+		"denome" : "SÃO JOÃO DO SUL (POV GUARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1781,
+		"denome" : "SÃO JOAQUIM (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1782,
+		"denome" : "SÃO JOSÉ (FAZ NOVA VIÇOSA)"
+	},
+	{
+		"cdlinhalocalidade" : 1783,
+		"denome" : "SÃO JOSÉ (ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1784,
+		"denome" : "SÃO JOSÉ (POV CORIBE)"
+	},
+	{
+		"cdlinhalocalidade" : 1785,
+		"denome" : "SÃO JOSÉ (POV CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1786,
+		"denome" : "SÃO JOSÉ (POV ILHÉUS)"
+	},
+	{
+		"cdlinhalocalidade" : 1787,
+		"denome" : "SÃO JOSÉ (POV BARRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1788,
+		"denome" : "SÃO JOSÉ DA VITÓRIA"
+	},
+	{
+		"cdlinhalocalidade" : 1789,
+		"denome" : "SÃO JOSÉ DE ITAPORÃ (DIST MURITIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 1790,
+		"denome" : "SÃO JOSÉ DO JACUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 1791,
+		"denome" : "SÃO JOSÉ DO PRADO (POV VEREDA)"
+	},
+	{
+		"cdlinhalocalidade" : 1792,
+		"denome" : "SÃO MANOEL (DIST CORRENTINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1793,
+		"denome" : "SÃO MIGUEL (FAZ BARRO PRETO)"
+	},
+	{
+		"cdlinhalocalidade" : 1794,
+		"denome" : "SÃO MIGUEL DAS MATAS"
+	},
+	{
+		"cdlinhalocalidade" : 1795,
+		"denome" : "SÃO PAULINO (POV ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1796,
+		"denome" : "SÃO PAULO (ITAPICURU)"
+	},
+	{
+		"cdlinhalocalidade" : 1797,
+		"denome" : "SÃO PEDRO (DIST SANTA MARIA DA VITÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1798,
+		"denome" : "SÃO RAIMUNDO (MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 1799,
+		"denome" : "SÃO ROQUE (DIST COARACI)"
+	},
+	{
+		"cdlinhalocalidade" : 1800,
+		"denome" : "SÃO ROQUE DO PARAGUAÇU (DIST MARAGOGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1801,
+		"denome" : "SÃO ROQUE DO PARATIGI (POV RAFAEL JAMBEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1803,
+		"denome" : "SÃO SEBASTIÃO DO PASSÉ"
+	},
+	{
+		"cdlinhalocalidade" : 1804,
+		"denome" : "SÃO VICENTE (POV FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 1805,
+		"denome" : "SAPEAÇU"
+	},
+	{
+		"cdlinhalocalidade" : 1806,
+		"denome" : "SAQUAÍRA (POV MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 1807,
+		"denome" : "SÁTIRO DIAS"
+	},
+	{
+		"cdlinhalocalidade" : 1808,
+		"denome" : "SAUBARA"
+	},
+	{
+		"cdlinhalocalidade" : 1809,
+		"denome" : "SAÚDE"
+	},
+	{
+		"cdlinhalocalidade" : 1810,
+		"denome" : "SEABRA"
+	},
+	{
+		"cdlinhalocalidade" : 1811,
+		"denome" : "SEBASTIÃO LARANJEIRAS"
+	},
+	{
+		"cdlinhalocalidade" : 1812,
+		"denome" : "SEGREDO (DIST SOUTO SOARES)"
+	},
+	{
+		"cdlinhalocalidade" : 1813,
+		"denome" : "SEMPRE VERDE (MATA DE SÃO JOÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1814,
+		"denome" : "SENHOR DO BONFIM (FAZ SANTA RITA DE CÁSSIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1815,
+		"denome" : "SENHOR DO BONFIM"
+	},
+	{
+		"cdlinhalocalidade" : 1816,
+		"denome" : "SERRA (FAZ POÇÕES)"
+	},
+	{
+		"cdlinhalocalidade" : 1817,
+		"denome" : "SERRA DAS POMBAS (ANAGÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1818,
+		"denome" : "SERRA DO APORÁ (APORÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 1819,
+		"denome" : "SERRA DO RAMALHO"
+	},
+	{
+		"cdlinhalocalidade" : 1820,
+		"denome" : "SERRA DOURADA"
+	},
+	{
+		"cdlinhalocalidade" : 1821,
+		"denome" : "SERRA GRANDE (DIST URUÇUCA)"
+	},
+	{
+		"cdlinhalocalidade" : 1822,
+		"denome" : "SERRA NEGRA (POV OLIVEIRA DOS BREJINHOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1823,
+		"denome" : "SERRA PELADA (POV CAATIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 1824,
+		"denome" : "SERRA PRETA"
+	},
+	{
+		"cdlinhalocalidade" : 1825,
+		"denome" : "SERRARIA (FAZ ALCOBAÇA)"
+	},
+	{
+		"cdlinhalocalidade" : 1826,
+		"denome" : "SERRARIA (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1827,
+		"denome" : "SERRARIA CAJAÍBA (PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1828,
+		"denome" : "SERRINHA"
+	},
+	{
+		"cdlinhalocalidade" : 1829,
+		"denome" : "SERROLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 1831,
+		"denome" : "SERROTE (POV CONCEIÇÃO DO COITÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1832,
+		"denome" : "SIMÕES FILHO"
+	},
+	{
+		"cdlinhalocalidade" : 1833,
+		"denome" : "SINETE (POV IRAMAIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1834,
+		"denome" : "SÍTIO (POV BAIXA GRANDE)"
+	},
+	{
+		"cdlinhalocalidade" : 1835,
+		"denome" : "SÍTIO (POV CRISTÓPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1836,
+		"denome" : "SÍTIO DA CONCEIÇÃO (POV ADUSTINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1837,
+		"denome" : "SÍTIO DO CONDE (DIST CONDE)"
+	},
+	{
+		"cdlinhalocalidade" : 1838,
+		"denome" : "SÍTIO DO HERMENEGILDO (POV CRISTÓPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1839,
+		"denome" : "SÍTIO DO MATO"
+	},
+	{
+		"cdlinhalocalidade" : 1840,
+		"denome" : "SÍTIO DO MEIO (POV ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1841,
+		"denome" : "SÍTIO DO MORRO (BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1842,
+		"denome" : "SÍTIO DO QUINTO"
+	},
+	{
+		"cdlinhalocalidade" : 1843,
+		"denome" : "SÍTIO DO RIO GRANDE (SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1844,
+		"denome" : "SÍTIO GRANDE (DIST SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1845,
+		"denome" : "SÍTIO NOVO (DIST CATU)"
+	},
+	{
+		"cdlinhalocalidade" : 1846,
+		"denome" : "SÍTIO NOVO (POV LIVRAMENTO DE NOSSA SENHORA)"
+	},
+	{
+		"cdlinhalocalidade" : 1847,
+		"denome" : "SÍTIO PLANTA (CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1848,
+		"denome" : "SOBRADINHO"
+	},
+	{
+		"cdlinhalocalidade" : 1849,
+		"denome" : "SOBRELÂNDIA (POV IPUPIARA)"
+	},
+	{
+		"cdlinhalocalidade" : 1850,
+		"denome" : "SOUTO SOARES"
+	},
+	{
+		"cdlinhalocalidade" : 1851,
+		"denome" : "STIEP (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1852,
+		"denome" : "SUBAÚMA (DIST ENTRE RIOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1853,
+		"denome" : "SUCUPIRA  (POV SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 1854,
+		"denome" : "SUCURUIU (CORRENTINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1855,
+		"denome" : "SUDENE (PRADO)"
+	},
+	{
+		"cdlinhalocalidade" : 1856,
+		"denome" : "SUMARÉ (POV PIRITIBA)"
+	},
+	{
+		"cdlinhalocalidade" : 1857,
+		"denome" : "SURURU (DIST BUERAREMA)"
+	},
+	{
+		"cdlinhalocalidade" : 1858,
+		"denome" : "SUSSUARANA (POV TANHAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 1859,
+		"denome" : "TABOA (BIRITINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1860,
+		"denome" : "TABOCAS DO BREJO VELHO"
+	},
+	{
+		"cdlinhalocalidade" : 1861,
+		"denome" : "TABOQUINHAS (DIST ITACARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1862,
+		"denome" : "TABULEIRO (POV LIVRAMENTO DE NOSSA SENHORA)"
+	},
+	{
+		"cdlinhalocalidade" : 1863,
+		"denome" : "TAGUÁ (DIST COTEGIPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1864,
+		"denome" : "TAMANDUÁ (POV BELO CAMPO)"
+	},
+	{
+		"cdlinhalocalidade" : 1865,
+		"denome" : "TAMARINDO (JEQUIÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1866,
+		"denome" : "TANHAÇU"
+	},
+	{
+		"cdlinhalocalidade" : 1867,
+		"denome" : "TÂNIA (SANTA CRUZ CABRÁLIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1868,
+		"denome" : "TANQUE (POV PINDAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 1869,
+		"denome" : "TANQUE DO POMBO (QUIJINGUE)"
+	},
+	{
+		"cdlinhalocalidade" : 1870,
+		"denome" : "TANQUE NOVO"
+	},
+	{
+		"cdlinhalocalidade" : 1871,
+		"denome" : "TANQUES (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1872,
+		"denome" : "TANQUINHO"
+	},
+	{
+		"cdlinhalocalidade" : 1873,
+		"denome" : "TANQUINHO (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1874,
+		"denome" : "TANQUINHO (POV LENÇÓIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1875,
+		"denome" : "TANQUINHO (POV PINDAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 1876,
+		"denome" : "TANQUINHO (POV SANTA RITA DE CÁSSIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1877,
+		"denome" : "TANQUINHO (POV VALENTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1878,
+		"denome" : "TAPERA (POV LAGOA REAL)"
+	},
+	{
+		"cdlinhalocalidade" : 1879,
+		"denome" : "TAPERA (POV SÃO GONÇALO DOS CAMPOS)"
+	},
+	{
+		"cdlinhalocalidade" : 1880,
+		"denome" : "TAPEROÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1881,
+		"denome" : "TAPIRAMUTÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1882,
+		"denome" : "TAPUIA (DIST CAMAMU)"
+	},
+	{
+		"cdlinhalocalidade" : 1883,
+		"denome" : "TAPUIO (POV ARACI)"
+	},
+	{
+		"cdlinhalocalidade" : 1884,
+		"denome" : "TAQUARI (POV CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1885,
+		"denome" : "TARIFA (CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1886,
+		"denome" : "TARTARUGA (DIST MILAGRES)"
+	},
+	{
+		"cdlinhalocalidade" : 1887,
+		"denome" : "TAUAPE (DIST LICÍNIO DE ALMEIDA)"
+	},
+	{
+		"cdlinhalocalidade" : 1888,
+		"denome" : "TEIXEIRA DE FREITAS"
+	},
+	{
+		"cdlinhalocalidade" : 1889,
+		"denome" : "TEIXEIRA DO PROGRESSO (POV MASCOTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1890,
+		"denome" : "TEODORO SAMPAIO"
+	},
+	{
+		"cdlinhalocalidade" : 1891,
+		"denome" : "TEOFILÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 1892,
+		"denome" : "TEOLÂNDIA"
+	},
+	{
+		"cdlinhalocalidade" : 1893,
+		"denome" : "TERMINAL AEROPORTO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1894,
+		"denome" : "TERMINAL DA FRANÇA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1895,
+		"denome" : "TERMINAL MUSSURUNGA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1896,
+		"denome" : "TERMINAL PIRAJÁ (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1897,
+		"denome" : "TERMINAL PITUAÇU (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1898,
+		"denome" : "TERMINAL RETIRO (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1899,
+		"denome" : "TERMINAL TURÍSTICO NÁUTICO DA BAHIA - TTNB (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1900,
+		"denome" : "TERRA NOVA"
+	},
+	{
+		"cdlinhalocalidade" : 1901,
+		"denome" : "TERRA SANTA (FAZ MORRO DO CHAPÉU)"
+	},
+	{
+		"cdlinhalocalidade" : 1902,
+		"denome" : "TERRAPLAC (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1903,
+		"denome" : "TIJUAÇU (DIST SENHOR DO BONFIM)"
+	},
+	{
+		"cdlinhalocalidade" : 1904,
+		"denome" : "TIJUCO (POV HELIÓPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 1905,
+		"denome" : "TINGUI (SÍTIO DO QUINTO)"
+	},
+	{
+		"cdlinhalocalidade" : 1906,
+		"denome" : "TOMBADOR (JACOBINA)"
+	},
+	{
+		"cdlinhalocalidade" : 1907,
+		"denome" : "SENTO SÉ"
+	},
+	{
+		"cdlinhalocalidade" : 1908,
+		"denome" : "TOPO (FAZ ÁGUA FRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1909,
+		"denome" : "TRACUPÁ (POV TUCANO)"
+	},
+	{
+		"cdlinhalocalidade" : 1910,
+		"denome" : "TRANCOSO (DIST PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1911,
+		"denome" : "TRANQUEIRAS (POV ITUAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 1912,
+		"denome" : "TRAVESSÃO (DIST IBIRAPITANGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1913,
+		"denome" : "TREMEDAL"
+	},
+	{
+		"cdlinhalocalidade" : 1914,
+		"denome" : "TREMEDAL (FAZ POÇÕES)"
+	},
+	{
+		"cdlinhalocalidade" : 1915,
+		"denome" : "TREMEMBÉ (MARAÚ)"
+	},
+	{
+		"cdlinhalocalidade" : 1916,
+		"denome" : "TRÊS LAGOAS (FAZ ITAPETINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1917,
+		"denome" : "TREVO DO CIA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1918,
+		"denome" : "TREVO DO MORAES (CORAÇÃO DE MARIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1919,
+		"denome" : "TREVO DO RIO PRETO (BELMONTE)"
+	},
+	{
+		"cdlinhalocalidade" : 1920,
+		"denome" : "TRIÂNGULO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1921,
+		"denome" : "TRINDADE (POV CÍCERO DANTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1922,
+		"denome" : "TRIUNFO DO SINCORÁ (DIST BARRA DA ESTIVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1923,
+		"denome" : "TUCANO"
+	},
+	{
+		"cdlinhalocalidade" : 1924,
+		"denome" : "TÚNEL AMÉRICO SIMAS (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1925,
+		"denome" : "UAUÁ"
+	},
+	{
+		"cdlinhalocalidade" : 1926,
+		"denome" : "UBAÍRA"
+	},
+	{
+		"cdlinhalocalidade" : 1927,
+		"denome" : "UBAITABA"
+	},
+	{
+		"cdlinhalocalidade" : 1928,
+		"denome" : "UBATÃ"
+	},
+	{
+		"cdlinhalocalidade" : 1929,
+		"denome" : "UBIRAITÁ (DIST ANDARAÍ)"
+	},
+	{
+		"cdlinhalocalidade" : 1930,
+		"denome" : "UIBAÍ"
+	},
+	{
+		"cdlinhalocalidade" : 1931,
+		"denome" : "UMBURANAS"
+	},
+	{
+		"cdlinhalocalidade" : 1932,
+		"denome" : "UMBURANAS (POV BRUMADO)"
+	},
+	{
+		"cdlinhalocalidade" : 1933,
+		"denome" : "UMBUZEIRO (POV ABARÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 1934,
+		"denome" : "UMBUZEIRO DOS SANTOS (POV RIO DE CONTAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1935,
+		"denome" : "UNA"
+	},
+	{
+		"cdlinhalocalidade" : 1936,
+		"denome" : "UNIÃO QUEIMADA (POV ITAJUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1937,
+		"denome" : "URANDI"
+	},
+	{
+		"cdlinhalocalidade" : 1938,
+		"denome" : "URIÇANGA"
+	},
+	{
+		"cdlinhalocalidade" : 1939,
+		"denome" : "URUÇUCA"
+	},
+	{
+		"cdlinhalocalidade" : 1940,
+		"denome" : "USINA (PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1941,
+		"denome" : "UTINGA"
+	},
+	{
+		"cdlinhalocalidade" : 1942,
+		"denome" : "VACA SECA (POV TANHAÇU)"
+	},
+	{
+		"cdlinhalocalidade" : 1943,
+		"denome" : "VALE DO CANELA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1944,
+		"denome" : "VALE DOS BARRIS (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1945,
+		"denome" : "VALE VERDE (POV PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1946,
+		"denome" : "VALENÇA"
+	},
+	{
+		"cdlinhalocalidade" : 1947,
+		"denome" : "VALENTE"
+	},
+	{
+		"cdlinhalocalidade" : 1948,
+		"denome" : "VALENTIM (POV BOA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 1949,
+		"denome" : "VARGEM DÁGUA (LIVRAMENTO DE NOSSA SENHORA)"
+	},
+	{
+		"cdlinhalocalidade" : 1950,
+		"denome" : "VARGITO (DIST CAMACÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1951,
+		"denome" : "VÁRZEA DA PEDRA (POV ARACI)"
+	},
+	{
+		"cdlinhalocalidade" : 1952,
+		"denome" : "VÁRZEA DA ROÇA"
+	},
+	{
+		"cdlinhalocalidade" : 1953,
+		"denome" : "VÁRZEA DO POÇO"
+	},
+	{
+		"cdlinhalocalidade" : 1954,
+		"denome" : "VÁRZEA GRANDE (POV ITAGUAÇU DA BAHIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1955,
+		"denome" : "VÁRZEA NOVA"
+	},
+	{
+		"cdlinhalocalidade" : 1956,
+		"denome" : "VARZEDO"
+	},
+	{
+		"cdlinhalocalidade" : 1957,
+		"denome" : "VEGA BAHIA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 1958,
+		"denome" : "VERA CRUZ"
+	},
+	{
+		"cdlinhalocalidade" : 1959,
+		"denome" : "VERA CRUZ (POV PORTO SEGURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1960,
+		"denome" : "VERA CRUZ (PRAIA DO DURO)"
+	},
+	{
+		"cdlinhalocalidade" : 1961,
+		"denome" : "VEREDA"
+	},
+	{
+		"cdlinhalocalidade" : 1962,
+		"denome" : "VEREDA (FAZ VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1963,
+		"denome" : "VEREDA DE BAIXO (POV BARRA DO MENDES)"
+	},
+	{
+		"cdlinhalocalidade" : 1964,
+		"denome" : "VEREDA DO PROGRESSO (POV VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1965,
+		"denome" : "VEREDINHA (DIST VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 1966,
+		"denome" : "VEREDINHA (POV MACAÚBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1967,
+		"denome" : "VESPERINA (POV RIACHO DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 1968,
+		"denome" : "VIA ACAIACA (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 1969,
+		"denome" : "VIA AXIAL (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1970,
+		"denome" : "VIA COPEC (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1971,
+		"denome" : "VIA DE LIGAÇÃO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1972,
+		"denome" : "VIA DO COBRE (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1973,
+		"denome" : "VIA FAZENDÃO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1974,
+		"denome" : "VIA FRONTAL (DIAS D'ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 1975,
+		"denome" : "VIA PARAFUSO"
+	},
+	{
+		"cdlinhalocalidade" : 1976,
+		"denome" : "VIA PARAFUSO (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1977,
+		"denome" : "VIA PERIMETRAL (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1978,
+		"denome" : "VIADUTO DO CIA (SIMÕES FILHO)"
+	},
+	{
+		"cdlinhalocalidade" : 1979,
+		"denome" : "VIADUTO PASSAGEM DOS TEIXEIRAS (CANDEIAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1980,
+		"denome" : "VIDA NOVA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1981,
+		"denome" : "VILA APARECIDA (POV RIACHÃO DO JACUÍPE)"
+	},
+	{
+		"cdlinhalocalidade" : 1982,
+		"denome" : "VILA BAHIA (POV ENCRUZILHADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1983,
+		"denome" : "VILA BRASIL (POV UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 1984,
+		"denome" : "VILA CASTRO (LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 1985,
+		"denome" : "VILA DE ABRANTES (DIST CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 1986,
+		"denome" : "VILA DO CAFÉ (POV ENCRUZILHADA)"
+	},
+	{
+		"cdlinhalocalidade" : 1987,
+		"denome" : "VILA JOSÉ DO AVENA (POV ITANAGRA)"
+	},
+	{
+		"cdlinhalocalidade" : 1988,
+		"denome" : "VILA LIBERDADE (IRECÊ)"
+	},
+	{
+		"cdlinhalocalidade" : 1989,
+		"denome" : "VILA MANDACARU (JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 1990,
+		"denome" : "VILA MARIANA (MAETINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 1991,
+		"denome" : "VILA MARIANA (POV CARAÍBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1992,
+		"denome" : "VILA NOVA (POV CORIBE)"
+	},
+	{
+		"cdlinhalocalidade" : 1993,
+		"denome" : "VILA PORTELA (POV IBIRAPOÃ)"
+	},
+	{
+		"cdlinhalocalidade" : 1994,
+		"denome" : "VILA SÃO SIMÃO (POV CORAÇÃO DE MARIA)"
+	},
+	{
+		"cdlinhalocalidade" : 1995,
+		"denome" : "VILA SÃO VICENTE (ITABERABA)"
+	},
+	{
+		"cdlinhalocalidade" : 1996,
+		"denome" : "VILA UNIÃO (POV ITAMARAJU)"
+	},
+	{
+		"cdlinhalocalidade" : 1997,
+		"denome" : "VILAS DO ATLÂNTICO - FIM DE LINHA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1998,
+		"denome" : "VISTA ALEGRE-BA\/TO (BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 1999,
+		"denome" : "VISTA NOVA (POV BELO CAMPO)"
+	},
+	{
+		"cdlinhalocalidade" : 2000,
+		"denome" : "VITÓRIA DA CONQUISTA"
+	},
+	{
+		"cdlinhalocalidade" : 2001,
+		"denome" : "VOLTA DA SERRA (POV PARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 2002,
+		"denome" : "VOLTA DAS PEDRAS (POV PARATINGA)"
+	},
+	{
+		"cdlinhalocalidade" : 2003,
+		"denome" : "VOLTA GRANDE (POV LAPÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 2004,
+		"denome" : "VOLTA MIÚDA (POV CARAVELAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2005,
+		"denome" : "WAGNER"
+	},
+	{
+		"cdlinhalocalidade" : 2006,
+		"denome" : "WANDERLEY"
+	},
+	{
+		"cdlinhalocalidade" : 2007,
+		"denome" : "WENCESLAU GUIMARÃES"
+	},
+	{
+		"cdlinhalocalidade" : 2008,
+		"denome" : "XIQUE-XIQUE"
+	},
+	{
+		"cdlinhalocalidade" : 2009,
+		"denome" : "ZÉ DA VIOLA (POV BARREIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2010,
+		"denome" : "ZUCA (POV BOA VISTA DO TUPIM)"
+	},
+	{
+		"cdlinhalocalidade" : 2011,
+		"denome" : "ENTRONC BR116\/EST BOIADEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 2012,
+		"denome" : "ENTRONC BR116\/EST PEDRA BRANCA"
+	},
+	{
+		"cdlinhalocalidade" : 2013,
+		"denome" : "ENTRONC BR116\/EST PAIAIÁ"
+	},
+	{
+		"cdlinhalocalidade" : 2014,
+		"denome" : "PEDRA (POV SANTO AMARO)"
+	},
+	{
+		"cdlinhalocalidade" : 2015,
+		"denome" : "MORRO DE PAJEÚ (FAZ ANGICAL)"
+	},
+	{
+		"cdlinhalocalidade" : 2016,
+		"denome" : "ENT BELMONTE"
+	},
+	{
+		"cdlinhalocalidade" : 2017,
+		"denome" : "PRESIDENTE DUTRA"
+	},
+	{
+		"cdlinhalocalidade" : 2018,
+		"denome" : "IPUÇABA (DIST OLIVEIRA DOS BREJINHOS)"
+	},
+	{
+		"cdlinhalocalidade" : 2021,
+		"denome" : "ENTRONC BA001\/BA270"
+	},
+	{
+		"cdlinhalocalidade" : 2022,
+		"denome" : "ENT NOVA REDENÇÃO"
+	},
+	{
+		"cdlinhalocalidade" : 2023,
+		"denome" : "ENTRONC BR030\/BA937"
+	},
+	{
+		"cdlinhalocalidade" : 2024,
+		"denome" : "ENT AEROPORTO (VITÓRIA DA CONQUISTA)"
+	},
+	{
+		"cdlinhalocalidade" : 2025,
+		"denome" : "ESTIVA (POV SÃO DESIDÉRIO)"
+	},
+	{
+		"cdlinhalocalidade" : 2026,
+		"denome" : "PALMEIRAS (CONTENDAS DO SINCORÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 2028,
+		"denome" : "ENT GOVERNADOR MANGABEIRA"
+	},
+	{
+		"cdlinhalocalidade" : 2034,
+		"denome" : "ENT CORAÇÃO DE MARIA \/ CONCEIÇÃO DO JACUÍPE"
+	},
+	{
+		"cdlinhalocalidade" : 2036,
+		"denome" : "ENTRONC BR242\/BA142"
+	},
+	{
+		"cdlinhalocalidade" : 2037,
+		"denome" : "ENTRONC BR110\/BA233"
+	},
+	{
+		"cdlinhalocalidade" : 2038,
+		"denome" : "ENTRONC BR242\/BA148"
+	},
+	{
+		"cdlinhalocalidade" : 2039,
+		"denome" : "BOMBRIL"
+	},
+	{
+		"cdlinhalocalidade" : 2040,
+		"denome" : "BA099"
+	},
+	{
+		"cdlinhalocalidade" : 2041,
+		"denome" : "ENTRONC BR116\/BA046"
+	},
+	{
+		"cdlinhalocalidade" : 2042,
+		"denome" : "TOMBADOR (POV SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 2043,
+		"denome" : "LAGOA DO MABAÇO (UNA)"
+	},
+	{
+		"cdlinhalocalidade" : 2044,
+		"denome" : "JACARÉ (FAZ RIBEIRÃO DO LARGO)"
+	},
+	{
+		"cdlinhalocalidade" : 2045,
+		"denome" : "SÃO JOSÉ DO RIO GRANDE  (DIST RIACHÃO DAS NEVES)"
+	},
+	{
+		"cdlinhalocalidade" : 2046,
+		"denome" : "ENTRONC BA233\/BA084"
+	},
+	{
+		"cdlinhalocalidade" : 2047,
+		"denome" : "RUA JJ SEABRA (FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 2048,
+		"denome" : "ACESSO NORTE (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 2049,
+		"denome" : "RETORNO AV LUÍS EDUARDO MAGALHÃES (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 2050,
+		"denome" : "AV OCEÂNICA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 2051,
+		"denome" : "PRAÇA DE ABRANTES (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 2052,
+		"denome" : "CONDOMÍNIO VIVER SALVADOR (LAURO DA FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2053,
+		"denome" : "CAPELÃO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2054,
+		"denome" : "CAPIARARA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2055,
+		"denome" : "HOSPITAL METROPOLITANO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2056,
+		"denome" : "VIA METROPOLITANA"
+	},
+	{
+		"cdlinhalocalidade" : 2058,
+		"denome" : "PEDÁGIO BA099"
+	},
+	{
+		"cdlinhalocalidade" : 2059,
+		"denome" : "ENT VILA DE ABRANTES (CAMAÇARI)"
+	},
+	{
+		"cdlinhalocalidade" : 2060,
+		"denome" : "ENTRONC BR101\/BA126"
+	},
+	{
+		"cdlinhalocalidade" : 2061,
+		"denome" : "ENTRONC BR324\/BR420"
+	},
+	{
+		"cdlinhalocalidade" : 2062,
+		"denome" : "ENTRONC BA270\/BR101"
+	},
+	{
+		"cdlinhalocalidade" : 2063,
+		"denome" : "ENTRONC BR101\/BA680"
+	},
+	{
+		"cdlinhalocalidade" : 2064,
+		"denome" : "SÃO JOSÉ (POV BURITIRAMA)"
+	},
+	{
+		"cdlinhalocalidade" : 1775,
+		"denome" : "JOSÉ GONÇALO (POV BURITIRAMA)"
+	},
+	{
+		"cdlinhalocalidade" : 2065,
+		"denome" : "CAMAÇARI (TERMINAL DA FEIRA)"
+	},
+	{
+		"cdlinhalocalidade" : 187,
+		"denome" : "PONTE RIO PARDO (CANAVIEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2066,
+		"denome" : "NOVA DIAS D`ÁVILA VIA POLO (DIAS D´ÁVILA)"
+	},
+	{
+		"cdlinhalocalidade" : 2067,
+		"denome" : "TERMINAL AEROPORTO VIA AV SANTOS DUMONT (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2068,
+		"denome" : "TERMINAL AEROPORTO VIA PARQUE SÃO PAULO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2069,
+		"denome" : "RUA RIO DAS GRAÇAS (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2070,
+		"denome" : "PARQUE SHOPPING BAHIA (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2071,
+		"denome" : "SOLAR DE VILAS (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2072,
+		"denome" : "RUA PATARO MACHADO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2073,
+		"denome" : "CENTRO ADMINISTRATIVO (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2074,
+		"denome" : "RUA DOS VEREADORES (LAURO DE FREITAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2075,
+		"denome" : "TERMINAL RODOVIÁRIA (SALVADOR)"
+	},
+	{
+		"cdlinhalocalidade" : 2076,
+		"denome" : "CATU (CENTRO)"
+	},
+	{
+		"cdlinhalocalidade" : 2077,
+		"denome" : "POJUCA (CENTRO)"
+	},
+	{
+		"cdlinhalocalidade" : 2078,
+		"denome" : "ENTRONC BA172\/BA582"
+	},
+	{
+		"cdlinhalocalidade" : 2079,
+		"denome" : "KM 4 -VILA FELIZ (POV FEIRA DE SANTANA) "
+	},
+	{
+		"cdlinhalocalidade" : 2080,
+		"denome" : "SÃO JOÃO (POV CANDEAL)"
+	},
+	{
+		"cdlinhalocalidade" : 2081,
+		"denome" : "ENT BELO ALTO (POV CANDEAL) "
+	},
+	{
+		"cdlinhalocalidade" : 2082,
+		"denome" : "PARAGUASSU (POV RAFAEL JAMBEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 2083,
+		"denome" : "MARACANÃ (POV RAFAEL JAMBEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 2084,
+		"denome" : "BOA VISTA (POV SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2085,
+		"denome" : "PITUBA (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2086,
+		"denome" : "AGROVILA XVIII (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2087,
+		"denome" : "POSTO TREVO (FEIRA DE SANTANA)"
+	},
+	{
+		"cdlinhalocalidade" : 2088,
+		"denome" : "QUIJI (POV LAMARÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 2089,
+		"denome" : "CERÂMICA (SERRINHA)"
+	},
+	{
+		"cdlinhalocalidade" : 2090,
+		"denome" : "PONTO DA DOIDA (SERRINHA)"
+	},
+	{
+		"cdlinhalocalidade" : 2091,
+		"denome" : "SACO DO CORREIO (POV SERRINHA)"
+	},
+	{
+		"cdlinhalocalidade" : 2092,
+		"denome" : "SACO (POV SERRINHA)"
+	},
+	{
+		"cdlinhalocalidade" : 2093,
+		"denome" : "MARAVILHA (POV SERRINHA)"
+	},
+	{
+		"cdlinhalocalidade" : 2094,
+		"denome" : "TRAÍRA (FAZ LAMARÃO) \/ POÇÕES (FAZ LAMARÃO)"
+	},
+	{
+		"cdlinhalocalidade" : 2095,
+		"denome" : "KM 04\/BR324 (POV SANTA BÁRBARA)"
+	},
+	{
+		"cdlinhalocalidade" : 2096,
+		"denome" : "ASSENTAMENTO (SOBRADINHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2097,
+		"denome" : "PORTO DE JUACEMA (POV SENTO SÉ)"
+	},
+	{
+		"cdlinhalocalidade" : 2098,
+		"denome" : "CARNAÍBA (DIST JUAZEIRO)"
+	},
+	{
+		"cdlinhalocalidade" : 2105,
+		"denome" : "FEIRINHA (POV CARINHANHA)"
+	},
+	{
+		"cdlinhalocalidade" : 2106,
+		"denome" : "ENTRONC BA262\/BA625"
+	},
+	{
+		"cdlinhalocalidade" : 2107,
+		"denome" : "LAGOA SECA (CARAÍBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2108,
+		"denome" : "VEREDINHA (CARAÍBAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2109,
+		"denome" : "ENT BA265"
+	},
+	{
+		"cdlinhalocalidade" : 2110,
+		"denome" : "ENTRONC BR242\/BA849"
+	},
+	{
+		"cdlinhalocalidade" : 2111,
+		"denome" : "VALE DO CAPÃO (DIST PALMEIRAS)"
+	},
+	{
+		"cdlinhalocalidade" : 2112,
+		"denome" : "GUINÉ (DIST MUCUGÊ)"
+	},
+	{
+		"cdlinhalocalidade" : 2114,
+		"denome" : "ENT PAMBU (POV SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2115,
+		"denome" : "PAMBU (POV SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2116,
+		"denome" : "LAMEIRÃO (DIST CANÁPOLIS)"
+	},
+	{
+		"cdlinhalocalidade" : 2117,
+		"denome" : "AGROVILA II (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2118,
+		"denome" : "AGROVILA XVII EIXO II (SERRA DO RAMALHO) "
+	},
+	{
+		"cdlinhalocalidade" : 2119,
+		"denome" : "AGROVILA XX (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2120,
+		"denome" : "AGROVILA XIX (SERRA DO RAMALHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2121,
+		"denome" : "PONTE VELHA (POV SANTA MARIA DA VITÓRIA)"
+	},
+	{
+		"cdlinhalocalidade" : 2122,
+		"denome" : "ENT NOVA JATOBÁ (DIST CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 2123,
+		"denome" : "NOVA JATOBÁ (DIST CURAÇÁ)"
+	},
+	{
+		"cdlinhalocalidade" : 2124,
+		"denome" : "AGROVILA XXIII (CARINHANHA)"
+	},
+	{
+		"cdlinhalocalidade" : 2125,
+		"denome" : "PEDRA NEGRA (POV BARRA)"
+	},
+	{
+		"cdlinhalocalidade" : 2126,
+		"denome" : "FAZENDA GRANDE (POV MUQUEM DO SÃO FRANCISCO)"
+	},
+	{
+		"cdlinhalocalidade" : 2127,
+		"denome" : "TORRINHA (POV BARRA)"
+	},
+	{
+		"cdlinhalocalidade" : 2128,
+		"denome" : "REFORMA ALTO PARAÍSO (POV BARRA)"
+	},
+	{
+		"cdlinhalocalidade" : 2129,
+		"denome" : "RANCHINHO (POV CORIBE)"
+	},
+	{
+		"cdlinhalocalidade" : 2130,
+		"denome" : "ENTRONC BR235\/BA723"
+	},
+	{
+		"cdlinhalocalidade" : 2131,
+		"denome" : "BEM BOM (POV CASA NOVA)"
+	},
+	{
+		"cdlinhalocalidade" : 2133,
+		"denome" : "BARRA DO PEIXINHO (POV TABOCAS DO BREJO VELHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2134,
+		"denome" : "MARIQUITA (DIST TABOCAS DO BREJO VELHO)"
+	},
+	{
+		"cdlinhalocalidade" : 2135,
+		"denome" : "OLHO DÁGUINHA (POV TABOCAS DO BREJO VELHO) "
+	},
+	{
+		"cdlinhalocalidade" : 2136,
+		"denome" : "JUAZEIRO (POV TABOCAS DO BREJO VELHO) "
+	},
+	{
+		"cdlinhalocalidade" : 2137,
+		"denome" : "SANTA LUZIA (POV TABOCAS DO BREJO VELHO) "
+	},
+	{
+		"cdlinhalocalidade" : 2132,
+		"denome" : "SÃO JOÃO DO PORTO ALEGRE (POV COCOS)"
+	},
+	{
+		"cdlinhalocalidade" : 2138,
+		"denome" : "ENTRONC BR242\/BA839"
+	},
+	{
+		"cdlinhalocalidade" : 2139,
+		"denome" : "CADETE (POV WANDERLEY)"
+	}
+]}

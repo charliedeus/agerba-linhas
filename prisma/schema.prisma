@@ -9,8 +9,8 @@ datasource db {
 
 model BusRoute {
   id                   String  @id @default(uuid())
-  previous_id          Int     @unique
-  previous_parent_key  Int?
+  previous_id          Int     @unique // Legacy bus route id
+  previous_parent_key  Int? // Legacy parent bus route id
   bus_route_number     String  @unique
   name                 String
   operator             String?
@@ -25,8 +25,10 @@ model BusRoute {
   starts_in_id    String
   ends_in         City              @relation("EndsInCity", fields: [ends_in_id], references: [id])
   ends_in_id      String
-  City            City?             @relation(fields: [cityId], references: [id])
-  cityId          String?
+  City            City?             @relation(fields: [city_id], references: [id])
+  city_id         String?
+  itinerary       Itinerary[]
+  timetable       Timetable[]
 
   @@map("bus_routes")
 }
@@ -57,8 +59,49 @@ model City {
 }
 
 model Place {
-  id   String @id @default(uuid())
-  name String
+  id              String            @id @default(uuid())
+  name            String
+  legacy_id       Int
+  place_itinerary Place_Itinerary[]
 
   @@map("places")
+}
+
+model Itinerary {
+  id                  String @id @default(uuid())
+  legacy_id           Int
+  legacy_bus_route_id Int
+
+  place_itinerary Place_Itinerary[]
+
+  bus_route    BusRoute @relation(fields: [bus_route_id], references: [id])
+  bus_route_id String
+
+  @@map("itineraries")
+}
+
+model Place_Itinerary {
+  id             String  @id @default(uuid())
+  section_number Int
+  is_access      Boolean
+
+  itinerary    Itinerary @relation(fields: [itinerary_id], references: [id])
+  itinerary_id String
+
+  place    Place  @relation(fields: [place_id], references: [id])
+  place_id String
+
+  @@map("places_itineraries")
+}
+
+model Timetable {
+  id        String   @id @default(uuid())
+  direction String
+  weekday   String
+  starts_at DateTime
+
+  bus_route    BusRoute @relation(fields: [bus_route_id], references: [id])
+  bus_route_id String
+
+  @@map("timetables")
 }

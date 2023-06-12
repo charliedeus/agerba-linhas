@@ -17,10 +17,6 @@ export default async function BusRoutes() {
     },
   ).then((response) => response.json())
 
-  // async function handleSearchResult(busRoutes: LineProps[]) {
-  //   'use server'
-  // }
-
   return (
     <div className="flex max-h-screen flex-1 flex-col gap-6 p-2">
       <div className={`relative flex h-80 max-h-80 bg-transparent`}>
@@ -34,7 +30,7 @@ export default async function BusRoutes() {
           <Image src={logoWhite} alt="" width={100} height={80} />
 
           <h1 className="text-lg text-white">
-            Que linhas deseja{' '}
+            Que linhas deseja
             <span className="block font-bold">consultar?</span>
           </h1>
 

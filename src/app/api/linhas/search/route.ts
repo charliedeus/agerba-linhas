@@ -12,6 +12,20 @@ export async function POST(request: NextRequest) {
     include: {
       starts_in: true,
       ends_in: true,
+      itinerary: {
+        include: {
+          place_itinerary: {
+            include: {
+              place: {
+                select: {
+                  name: true,
+                },
+              },
+            },
+          },
+        },
+      },
+      timetable: true,
     },
   })
 
