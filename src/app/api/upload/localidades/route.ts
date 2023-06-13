@@ -7,7 +7,7 @@ export async function GET(request: NextRequest) {
   const legacyLocalidades = legacyPlaces.map((place) => {
     return {
       name: place.denome,
-      legacyId: place.cdlinhalocalidade,
+      legacy_id: place.cdlinhalocalidade,
     }
   })
 
