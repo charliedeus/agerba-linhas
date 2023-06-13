@@ -32,11 +32,13 @@ export async function POST(request: NextRequest) {
   console.log(`open ${path} to see the upload file`)
 
   Readable.toWeb(createReadStream(path))
+    // eslint-disable-line
+    // @ts-ignore
     .pipeThrough(Transform.toWeb(csvtojson()))
     .pipeThrough(
       new TransformStream({
-        async transform(chunk, controller) {
-          const data = JSON.parse(Buffer.from(chunk).toString())
+        async transform(chunk: Uint8Array, controller): Promise<void> {
+          const data = JSON.parse(Buffer.from(chunk).toString('utf-8'))
           const mappedData = {
             cdlinha: Number(data.cdlinha),
             cdlinhapai: Number(data.cdlinhapai) || null,
@@ -57,7 +59,7 @@ export async function POST(request: NextRequest) {
 
           if (!originCity) {
             // eslint-disable-next-line
-            return null
+            return
           }
 
           const destinyCity: CityProps | undefined = cities.find((city) =>
@@ -68,7 +70,7 @@ export async function POST(request: NextRequest) {
 
           if (!destinyCity) {
             // eslint-disable-next-line
-            return null
+            return
           }
 
           const newBusRoute = {

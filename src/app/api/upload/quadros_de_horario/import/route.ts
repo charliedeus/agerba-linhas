@@ -27,11 +27,13 @@ export async function POST(request: NextRequest) {
   console.log(`open ${path} to see the upload file`)
 
   Readable.toWeb(createReadStream(path))
+    // eslint-disable-line
+    // @ts-ignore
     .pipeThrough(Transform.toWeb(csvtojson()))
     .pipeThrough(
       new TransformStream({
-        async transform(chunk, controller) {
-          const data = JSON.parse(Buffer.from(chunk).toString())
+        async transform(chunk: Uint8Array, controller): Promise<void> {
+          const data = JSON.parse(Buffer.from(chunk).toString('utf-8'))
 
           const existsBusRoute = await prisma.busRoute.findFirst({
             where: {
@@ -40,13 +42,13 @@ export async function POST(request: NextRequest) {
           })
 
           if (!existsBusRoute) {
-            return null
+            return
           }
 
           const startsAt = DateTime.fromFormat(data.hrhorario, 'HH:mm:ss ZZZ')
           if (!startsAt.isValid) {
             // Verificar se a data resultante é válida
-            return null
+            return
           }
 
           const newTimeTable = {
